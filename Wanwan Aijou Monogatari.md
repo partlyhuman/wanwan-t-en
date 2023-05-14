@@ -429,8 +429,6 @@ C: Ahem! Ahem!
 
 C: As a subject of Rogerland, you are acting most deplorable, Judy.
 
-[RR it's him not R right?]
-
 C: As the caretaker of the Door of Time, I must beg your forgiveness for coming to the World of Reality at my own regrettable pace.
 
 C: Yes, I have returned, I have returned!
@@ -537,7 +535,7 @@ J: Don't tell me you've never been just a teeny, tiny, little bit late yourself!
 
 C: Never.
 
-C: I have periodic checkups once every two months, without fail. Therefore, I am never late, not even a single second.
+C: I have periodic maintenance once every two months, without fail. Therefore, I am never late, not even a single second.
 
 R: ... I guess we're here now... We gotta do what we gotta do...
 
@@ -552,8 +550,6 @@ J: The disappearance of Roger-chan's memories is also their doing.
 R: But why would... vegetables... do that kind of thing?
 
 *Cue dramatic music*
-
-[Or Demon King Cabbage or maybe Evil Cabbage King?]
 
 J: It's the "Dark Lord Cabbage"! He's their super evil leader!
 
@@ -593,7 +589,7 @@ J: If this keeps going, and all Roger-chan's memories are taken away; if she tur
 
 J: If that happens, you're out of a job! The Door of Time becomes totally obsolete!
 
-J: And if nobody needs the Door of Time, nobody needs the Janitor of the Door of Time, do they now?!
+J: And if nobody needs the Door of Time, nobody needs the *Janitor* of the Door of Time, do they now?!
 
 C: Wh- What? Me, become useless?
 
@@ -626,4 +622,299 @@ R: Huff huff... Bagel.... huff... is there something... huff... about this tree?
 B: *Wan wan!*
 
 Voice: Ahhhhh, help meee!
+
+R: Was that someone's... voice?
+
+J: That voice...
+
+E: Someone helllp meeee!
+
+E: Ahhh, won't someone return my ear-mon!
+
+P: Cyu-cyu-cyu-cyuke!
+
+P: If you want it back so bad, why dont'cha come on down from da tree and get it? Haw haw!
+
+E: Uhhhh...
+
+P: Cyu-cyu-cyuke! Haw haw! What's wrong? Come on dowwwwn!
+
+E: I'M SCARED! Someone help meeeeee!
+
+C: Why, that bear's...
+
+R: That must be... Ummm... I can't remember.
+
+R: But it's familiar... Ummm, umm, a bear...
+
+J: Roger-chan, you can do it! Think back!
+
+R: Errr... That's right! Earb the bear!! It's Earb!
+
+P: Cyu cyuke, what's dis, you some kinda official friend of dat bear?
+
+R: I am! We are friends!
+
+J: You cucumbers all are just minions of the Dark Lord Cabbage, aren't you?
+
+J: Stop picking on defenseless people!
+
+B: *grrrr*
+
+P: Cyu-cyu-cyuke. Well, what are you gonna do about it, hmm?
+
+P: Youse! You wanna start something with me, Cyukeman??!
+
+P: I'll scrub your cucumberbumps clean off yas!
+
+B: *Jumps into hole in tree* 
+
+B: *Emerges from another hole*
+
+C: Ah, Bagel! I see, the holes must be connected.
+
+P: O-ho! Mr. pup's come out to play, cuke.
+
+B: *grrr, wan!*
+
+P: Oi, Mr. pup. One thing about us cukes is we loooooooooooove riddles-cuke.
+
+P: IF you can answer our riddles, we'll letcha go on your way-cuke!
+
+P: Think you can answer 'em, Mr. pup?!
+
+R: Eeeeeeeh!
+
+
+Shall we go over the rules?
+
+* 👉Yes! explain
+* I know, I'm good
+
+Roger-chan. Since Bagel can't really be expected to know riddles, you'll give him the answers. The rules are: after Cyukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
+
+*Example plays out*
+
+R: Bagel, number two!
+
+B: *barks twice!*
+
+Think carefully before you answer, Roger-chan.
+
+# Cucumber Cuiz
+
+[Not only are the questions randomized, but the order of the answers is randomized. Use the kana provided to visually match up the right question and answer.]
+
+[You have to get 3 correct to move on. Any errors and you'll have to start from the beginning.]
+
+I am a sweet fruit, but I am also attached to your body. What am I?
+
+1. モモ [peach]
+2. カキ [persimmon]
+3. メロン [melon]
+
+[Hint: "momo" can mean "peach" but it can also mean "thigh." "Kaki" can mean "persimmon" or "oyster".]
+
+You can't see me with your eyes, but you can see me on your wrist. What am I?
+
+1. ゆめ [a dream]
+2. テレビ [TV]
+3. 脈 [your pulse]
+
+I turn and I stand, I stop and I fall. What am I?
+
+1. コマ　[a spinning top]
+2. せんぶうき [an electric fan]
+3. タイヤ [a tire]
+
+I'm a food that you get by sticking 5 rods together. What am I?
+
+1. ニンジン [a carrot]
+2. ゴボウ [great burdock]
+3. ミカン [an orange]
+
+[Burdock is written "gobou", but "go" can mean 5 and "bou" is the word they used for rods]
+
+I'm a food, and if you hit me with a stick, you'll get rewarded. What am I?
+
+1. スイカ [a watermelon]
+2. カボチャ [a gourd]
+3. ピーマン [a pepper]
+
+[Hint: The japanese game "suikawari" is like piñata with a watermelon]
+
+I'm a plant that looks like I'm hiding an animal. What plant am I?
+
+1. チンゲンサイ [bok choi]
+2. アジサイ [hydrangea]
+3. ハクサイ [cabbage]
+
+[Hint: This is the best explanation I have, but hydrangea is written "ajisai" and "aji" means "mackerel"?]
+
+At noon I'm short, but at night I grow taller. My color is black. What am I?
+
+1. カゲ [a shadow]
+2. ニジ [a rainbow]
+3. アサガオ [a morning glory]
+
+Whether you read me from above or read me from below, I'm the same kinda veggie. What am I?
+
+1. リンゴ [an apple]
+2. トマト [a tomato]
+3. ブドウ [a grape]
+
+[Hint: look at how the Japanese word is written]
+
+I'm far away, but I look like I'm near by. What kind of shop am I?
+
+1. スシ屋 [sushi shop]
+2. ソバ屋 [soba shop]
+3. ラーメン屋 [ramen shop]
+
+[Hint: "soba" also means "nearby"]
+
+The darker it gets, the easier you can see me. What am I?
+
+1. 星 [stars]
+2. 雲 [clouds]
+3. 雨 [rain]
+
+Normally, eyes go on your face. But what do you call "eyes" that go on your hands and feet?
+
+1. 指 [fingers]
+2. ツメ [nails]
+3. ホネ [bones]
+
+[Hint: "eye" is read "me". "Nails" is read "tsume".]
+
+I'm attached to a car, but if you attach two dots to me I become a beautiful jewel. What am I?
+
+1. タイヤ [tire]
+2. ミラー [mirror]
+3. ハンドル [handle]
+
+[Hint: adding two dots can change one letter into another, for example "taiya" or "tire" can become "daiya" or "diamond"]
+
+
+# At the penultimate riddle
+
+P: Mr. pup. I gotta give it to you for makin' it this far-cuke.
+
+P: Since ya were able to answer all my riddles, ya can continue up to where Mr. Bear is, but first...
+
+P: Here comes one last super, MEGA TOUGH riddle!
+
+# At the last riddle
+
+P: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
+
+R: Do you give up?!
+
+B: *wan!*
+
+P: Cuke... it's over... we lost-cuke.
+
+P: We lost to... lost to a.. a Mr. pup...
+
+P: Shoot. You'll regret dis!
+
+E: You brought my ear back!
+
+B: *wanwan!*
+
+E: Thank you!
+
+R: Bagel, this is Earb.
+
+B: *wan!*
+
+R: Earb might be a little bit of a crybaby, but he's a very, very sweet bear.
+
+R: When I was a little girl, I was afraid of thunder, and I'd cling to Earb.
+
+R: Ever since then, Earb has always been by my side, absorbing all my fears.
+
+R: How could anyone bully such a sweet bear?
+
+E: I, I dunno-mon.
+
+E: I was just playing at home when the Dark Lord Cabbage and his Cyukemon came...
+
+E: *sniffle* My ear... they... tore it up-mon...
+
+J: That's horrible!!
+
+R: So, you were waiting all this time for us to come?
+
+E: That's right-mon.
+
+E: Even though I'm afraid of heights, I had to wait it out up in that tree-mon.
+
+J: Ah! Wait, is that... possibly... a doghouse?
+
+R: I, I recognize that! That's... that's... that's right!
+
+R: Captain! Captain's doghouse!
+
+R: Bagel, when I was little, looong before you came to our house, a dog named Captain lived with us.
+
+R: He was also much, muuuch bigger than you.
+
+R: Earb, is Captain in this world too!?
+
+E: He lives with an old man in a forest wayyyyyyyyyy out there, way beyond that mountain-mon.
+
+R: Old man... it couldn't be... grandpa?
+
+R: My grandpa... who passed away?!
+
+E: That's right-mon.
+
+R: I can... I can meet my grandpa again!!
+
+R: Earb, how do we get to that forest where grandpa is living?
+
+[小一山]
+E: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
+
+C: But... crossing Mt. Elementary........ that's impossible!
+
+J: Roger-chan, Mt. Elementary is a verrry tall mountain! There's no way we can hike over it.
+
+J: Right? *points to map*
+
+R: Oh... well, what should we do...
+
+E: It might be best if you take Roger Unit 01.
+
+E: Roger Unit 01 can fly through the air!
+
+R: Roger Unit 01?
+
+R: My tricycle, Roger Unit 01?!
+
+R: Talking about Roger-1... I, I remember! Back in kindergarten, I left it in the sandbox and came back home without it!
+
+C: All too common an occurrence among young children, I am afraid. Regrettable, regrettable...
+
+R: But flying with Roger-1... even though it was important to me...
+
+R: Earb, where is Roger Unit 01?
+
+E: Since this is the land of memories, Roger-01 should be in that place you remember: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
+
+R: Which way is Kindergarten?
+
+J: This way, Roger-chan!
+
+C: I despise Kindergarten! For starters, the little grains of sand in the sandboxes always get in my gears...
+
+J: Shut up, old man!
+
+B: *wan wan!*
+
+R: Well, what are we waiting for, guys?
+
+
+
 
