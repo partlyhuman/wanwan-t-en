@@ -899,7 +899,7 @@ Momo: Sure, it was important to me, but... but FLYING with Momo-1...
 
 Momo: Earb, where is Momo Unit 01?
 
-Earb: Since this is the land of memories, Momo-1 should be in the place you remember leaving it: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
+Earb: Since this is the land of memories, Momo-1 should be in the place from your memories: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
 
 Momo: Which way is Kindergarten?
 
@@ -912,6 +912,241 @@ Judy: Shut up, old man!
 Barley: *wan wan!*
 
 Momo: Well, what are we waiting for, guys?
+
+## Field
+
+Momo: Momo-1! Excuse me, I'm sorry, but I just accidentally left something around here, and, I've come back to get it now, so...
+
+Unit 01: Momo-chan, you shouldn't have come here-wak! This is the Potato Bonbons' turf. One wrong step in this potato field, and you'll get blown to smithereens by a potatobomb-wak!
+
+Bonbon: Heyyyy, what's up, losers! Time's a-wasting-bon! Heh heh hehhhh, you're gonna get it, pig-butts. The way back is right over here, bahahahhaa!
+
+Clock: They are correct, there is no time! We simply do not have time to face off against these nincompoops! Now which of you wants to be saved by this Clock!?
+
+Momo: Ah! Wait, Mr. Clock!
+
+Clock: *Steps on bomb, explodes*
+
+Momo: Mr. Clock!
+
+Bonbon: Bahahahahaaaaa! You got it good-bonbon! You dingleberries are stuck with us now, bahahabahaaaaa! Say, who wants to challenge us next-bon? Momochaaan?
+
+Momo: What do we do now...
+
+Barley: *wan wan!*
+
+Momo: .... What, Barley?
+
+Barley: *wan wan!*
+
+Momo: Barley, what are you trying to say?
+
+Barley: *wan wan wan!*
+
+Judy: Could Barley be saying that he can sniff out the bombs?
+
+Earb: That's right-mon! Barley is saying exactly that!
+
+Momo: Barley, we're counting on you. Guide us to Momo-1 safely, please!
+
+Barley: *wan!*
+
+## Potatomaze
+
+Shall we go how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+Barley is able to find the potatobombs by smell. Move Barley to Momo-1 without making him step on any bombs. Use the D-pad to move Barley. If there are any bombs, Barley will find them on his own. If you step on any, they'll explode, so be careful.
+
+[Notes: There are also holes to investigate. Walking over a hole will not cause you to fall or anything.]
+
+### Uncovering a mole
+
+Momo: Ah! A mole! Kawaiiiiii!
+
+Bonbon: Heeeeeeeee!! I hate moles! HAAATE MOLLEEESSSS-BONNNN!!
+
+Momo: Eeeehhh, what? But it's so cute....
+
+*Mole kicks the ass of the bonbon*
+
+### The second time
+
+Momo: Yes! Thank you, Mr. Mole!
+
+### Reaching Momo-1
+
+Momo: Yatttaaaaaa! Awesome, Barley!!!
+
+Momo: I'm sorry, Momo-1, for leaving you...
+
+Unit 01: It's all right, Momo-chan. Thank you for saving me!
+
+Bonbon: Damn! Damn! No fair borrowing Prince Pup's powers, that's cheating!
+
+Momo: Barley one of us, there's nothing "unfair" about it! He's our friend!
+
+Bonbon: You're friends with a dog? That's messed up-bon. Help me out here, bro.
+
+Bonbon: Sure, bro. That Prince Wan is nothing but a sad, pathetic mutt-bon.
+
+[Ouyo. Wan-kou wa shimobe[boku]-da, iyashii[vulgur] aware[pity] na inu-kkoro da]
+
+Earb: That's h-horrible...
+
+Momo: You guys! What do you think you're saying?!
+
+Bonbon: He's just telling it like it is-bon.
+
+Momo: ENOUGH!!! Barley is our very, very dear friend!
+
+Momo: *kicks bonbons into space*
+
+Bonbon: Shiiiiiii- We won't forget this-bonnnnnnnnnn....
+
+Momo: Barley, you ARE our best friend.
+
+Judy: Momo-chan! Which of us is your best friend, me or Barley!?
+
+Momo: Eh? Eh?
+
+Judy: Which is your best friend!? You have to pick!
+
+Momo: Which is best? You can't be compared like that.
+
+Judy: No way, no way!! You and me have been together SO much longer than Barley!
+
+Momo: Judy....
+
+Earb: Judy, stop being jealous-mon.
+
+Judy: Hey!
+
+Earb: More importantly, Momo-chan, without Mr. Clock, you can't go back home-mon... what are you going to do?
+
+Momo: Yeah...... But my grandpa is somewhere in this world, right? Grandpa's hobby was tinkering with mechanical stuff! I think he could definitely fix Mr. Clock for us!
+
+Momo: What is it, Barley? There's no more bombs, you don't have to keep sniffing for them.
+
+Barley: *digs* *wan wan!*
+
+Earb: I wonder if he's saying there's something here?
+
+Judy: Kyaaah! A bomb?!
+
+Momo: Eeee!!!
+
+Judy: What? Is that a backpack?
+
+Momo: Ah... this backpack...!
+
+Unit 01: That's right, it's the backpack you used in Kindergarten.
+
+Momo: But, the shoulder strap broke, and I couldn't use it any more. Ahh, that's right... when I put something in it I'd call it my magic bag...
+
+Earb: Well, then this is a REAL magic bag-mon! The things you believed in are all true here, you see-mon?
+
+Momo: For real? It's really a magic bag??
+
+Momo: Whaaa, cool! I can even put it in my pocket like this! I'll carry you, Mr. clock.
+
+Momo: *puts clock in the bag*
+
+Unit 01: Anyway, Momo-chan, are you ready to cross over Mt. Elementary-wak?
+
+Momo: Momo-1, can you really fly?
+
+Unit 01: Of course I can-wak! You said so every time you sat on my back-wak! "Take to the sky, Momo-1!" you'd say.
+
+Momo: That's right, I had completely forgotten...
+
+Unit 01: When you forgot, that was the moment I stopped being able to fly...wak... And that's how the potato guys managed to capture me...
+
+Momo: Oh... I'm sorry.
+
+Unit 01: But I'm okay now! You remembered, so now I can fly freely-wak!
+
+Momo: All right, everyone! Let's go find Grandpa! On Momo Unit 01!
+
+Momo: Oh, what should we do about Barley?
+
+Barley: *wan wan!*
+
+Momo: Is there any way... in this world, could Barley fly, I wonder?
+
+Unit 01: It's okay-wak, Momo-chan. As long as he's by me, with those big ears, he can surely fly!
+
+*UNIT 01 TRANSFORM!*
+
+Momo: Whaaa! This is incredible! Barley, you really can fly!
+
+Barley: *wan wan!*
+
+Momo: Barley, I wonder why you can't talk like everyone else?
+
+Judy: It's gotta be because Barley isn't your REAL friend yet. You've been talking to ME for 10 years already!
+
+Momo: Ugh, enough, Judy! Change up your attitude or you're gonna get a tickling!
+
+Judy: Poop.
+
+Momo: But, it would sure be nice if you could talk like everyone else, Barley.
+
+Barley: *whimper*
+
+Judy: Hey, how'd you like to get a better look at the scenery?
+
+Earb: Stooop. It's scary-mon...
+
+Judy: Lookie, lookie!
+
+Earb: Stopitstopitstopit-mon! Quit it, Judyyyy, quit itttt!
+
+Momo: HEY! JUDY! It's tickle time!
+
+Judy: Kyaaa, Momo-chan, forgive me! Don't tickle- ahahahahahahaha!
+
+Judy: You know I can't t- take ithahaha! I'm sorry, I'm sorry!
+
+Momo: Say you're going to change your attitude, say it!
+
+Judy: Kyahaha, I promise! Nyahaha, forgive me, Momo-chan! Heehee!
+
+Unit 01: Wak wak! Momo-chan, we crossed over Mt. Elementary-wak!
+
+Momo: Yatta!
+
+Momo: Let's fly just like this to the forest where Grandpa is!
+
+Momo: Don't worry, Mr. Clock, if anyone can fix you, it's Grandpa!
+
+Judy: Wait a second!! Momo-chan!! Before we get to the forest, isn't there... Lemon Hill...?
+
+Momo: Oh, okay.... is something wrong with that?
+
+Earb: It's terrible! That's where the Miracle Lemons are!
+
+Unit 01: Oh, Momo-chan, I'm no good with the Miracle Lemons... just ONE of their acid slice attacks and folks like me go rusty instantly-wak!
+
+Momo: Why? So maybe we should just keep flying? After all, we just flew over a huge mountain!
+
+Unit 01: There's crazy strong wind currents above Lemon Hill, we simply can't cross it by flying-wak!
+
+Earb: I hate sour stuff-mon. It stings my eye-eyes-mon.
+
+Judy: Lemon facials are to blame for this blotch on my skin! Those lemons are the only thing I can't stand!
+
+Momo: I guess there's no alternative... let's go in for a landing.
+
+# Lemon Hill
+
+
+
+
+
+
 
 
 
