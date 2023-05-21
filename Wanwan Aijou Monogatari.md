@@ -21,9 +21,7 @@ First, choose a diary from below-mon! Use the d-pad for up and down and push the
 
 What's the name of our hero? Use the d-pad to select up, down, left, right, and A buton to choose. To delete a character use the B button.
 
-(Your name here. I'm gonna call you..... Roger!)
-
-Ah, Roger-chan, yes?
+Ah, Momo-chan, yes?
 
 (Yes/No)
 
@@ -31,659 +29,659 @@ Ahem! Well then, let "Puppy Love Story" begin!
 
 ## At home
 
-D: I'm back!
+Papa: I'm back!
 
-R: Ahh, papa! Welcome home!
+Momo: Ahh, papa! Welcome home!
 
-M: Welcome home, dear!
+Mama: Welcome home, dear!
 
-D: Roger, were you a good girl today?
+Papa: Momo, were you a good girl today?
 
-R: Papa! Roger isn't a LITTLE KID any more!
+Momo: Papa! Momo isn't a LITTLE KID any more!
 
-D: Haha, is that right? But... today is a special day, isn't it?
+Papa: Haha, is that right? But... today is a special day, isn't it?
 
-R: Papa, you remembered? Today is Roger's birthday!
+Momo: Papa, you remembered? Today is Momo's birthday!
 
-D: Of course! Well! Your present is in this room. Do you wanna look for it?
+Papa: Of course! Well! Your present is in this room. Do you wanna look for it?
 
-R: Whaaa?! What could it be?
+Momo: Whaaa?! What could it be?
 
-P: *Kyuun!*
+Puppy: *Kyuun!*
 
-R: Eh? EHH?? Just now, was there a *kyuun*??
+Momo: Eh? EHH?? Just now, was there a *kyuun*??
 
-P: *Wan! Wan!*
+Puppy: *Wan! Wan!*
 
-R: UWAAAA! KAWAIII!!!! A PUPPYYYYY!!!!
+Momo: UWAAAA! KAWAIII!!!! A PUPPYYYYY!!!!
 
-R: PAPA!! A PUPPYYYYY!
+Momo: PAPA!! A PUPPYYYYY!
 
-P: *Wan!*
+Puppy: *Wan!*
 
-M: Ahh! A puppy! And what a cutey!
+Mama: Ahh! A puppy! And what a cutey!
 
-D: Hahaha, well, it has been quite a while since our old dog, Captain, passed away, hasn't it?
+Papa: Hahaha, well, it has been quite a while since our old dog, Captain, passed away, hasn't it?
 
-M: Roger-chan, won't you give our new family member a name?
+Mama: Momo-chan, won't you give our new family member a name?
 
-R: Uhu, kawaii!!! A name... What should it be...
+Momo: Uhu, kawaii!!! A name... What should it be...
 
-D: What name will you choose for the puppy? Use the D pad, A button, B button erases. (you get the drill)
+Papa: What name will you choose for the puppy? Use the D pad, A button, B button erases. (you get the drill)
 
-(Doggie's name here. I'm gonna call him..... Bagel!)
+(Doggie's name here. I'm gonna call him..... Barley!)
 
-D: Bagel. (Yes/No)
+Papa: Barley. (Yes/No)
 
-R: Bagel, your name is Bagel. Got it?
+Momo: Barley, your name is Barley. Got it?
 
-B: *Wan wan!*
+Barley: *Wan wan!*
 
-R: Bagel! Bagel! Kawwwwaiii!
+Momo: Barley! Barley! Kawwwwaiii!
 
-R: Such big ears! Hehe, looks like you could fly through the air.
+Momo: Such big ears! Hehe, looks like you could fly through the air.
 
-R: Papa! THANK YOU!!
+Momo: Papa! THANK YOU!!
 
-M: Roger. A puppy is a living thing, so you must cherish him and raise him well, you know.
+Mama: Momo. A puppy is a living thing, so you must cherish him and raise him well, you know.
 
-M: You must not get tired of him or neglect him!
+Mama: You must not get tired of him or neglect him!
 
-D: That's right, and you must train him well.
+Papa: That's right, and you must train him well.
 
-R: Train?
+Momo: Train?
 
-D: That's right. To start, it'd be best to teach him "sit".
+Papa: That's right. To start, it'd be best to teach him "sit".
 
-R: How do we do that?
+Momo: How do we do that?
 
-D: Papa will show you, so watch closely.
+Papa: Papa will show you, so watch closely.
 
-D: Okay, Roger? So, tap here, on bagel's back... and say "Sit!"
+Papa: Okay, Momo? So, tap here, on Barley's back... and say "Sit!"
 
-D: Bagel...
+Papa: Barley...
 
-D: Sit!
+Papa: Sit!
 
-D: Bagel, Bagel!
+Papa: Barley, Barley!
 
-D: Sit! Bagel, sit!
+Papa: Sit! Barley, sit!
 
-D: Good! Good! You're a very smart boy, Bagel! You get it now?
+Papa: Good! Good! You're a very smart boy, Barley! You get it now?
 
-B: *Wan wan!*
+Barley: *Wan wan!*
 
-D: Gooood! Good boy, good boy!
+Papa: Gooood! Good boy, good boy!
 
-D: So, Roger. Please try it like Papa showed you.
+Papa: So, Momo. Please try it like Papa showed you.
 
-R: Okay!
+Momo: Okay!
 
 - 👉Teach "sit"
 
-R: Bagel!
+Momo: Barley!
 
-R: Sit!
+Momo: Sit!
 
-R: Bagel, sit!
+Momo: Barley, sit!
 
-B: .....
+Barley: .....
 
-R: Bagel! Sit!
+Momo: Barley! Sit!
 
-B: ??? *Wan wan!*
+Barley: ??? *Wan wan!*
 
-R: Papaaaa.... Bagel won't sit...
+Momo: Papaaaa.... Barley won't sit...
 
-D: Don't give up, Roger. Try one more time.
+Papa: Don't give up, Momo. Try one more time.
 
-R: OK.
-
-- 👉Teach "sit" 
-- Quit teaching
-
-R: Bagel! Sit!
+Momo: OK.
 
 - 👉Teach "sit" 
 - Quit teaching
 
-R: Bagel! Sit!
+Momo: Barley! Sit!
 
 - 👉Teach "sit" 
 - Quit teaching
 
-R: Bagel! Sit!
+Momo: Barley! Sit!
 
 - 👉Teach "sit" 
 - Quit teaching
 
-R: Bagel! Sit!
+Momo: Barley! Sit!
 
-B: *sits*
+- 👉Teach "sit" 
+- Quit teaching
 
-R: YATTA!!! WONDERFUL, BAGEL!!
+Momo: Barley! Sit!
 
-B: *Wan wan!*
+Barley: *sits*
 
-R: Papa, BAGEL learned SIT!
+Momo: YATTA!!! WONDERFUL, Barley!!
 
-D: Goooood! Well! Next, bring him here!
+Barley: *Wan wan!*
 
-D: Watch closely how Papa does this.
+Momo: Papa, Barley learned SIT!
 
-D: Bagel!
+Papa: Goooood! Well! Next up is "fetch!"
 
-B: *Wan!*
+Papa: Watch closely how Papa does this.
 
-D: Bagel. See the ball over there?
+Papa: Barley!
 
-B: *Wan wan!*
+Barley: *Wan!*
 
-D: Roger, teach Bagel with one of these balls.
+Papa: Barley. See the ball over there?
 
-R: OK!
+Barley: *Wan wan!*
 
-R: Bagel!
+Papa: Momo, show Barley the ball there.
 
-R: Over here! The ball's over here!
+Momo: OK!
 
-D: Bagel, over there. There's the ball.
+Momo: Barley!
 
-B: *Wan!*
+Momo: Over here! The ball's over here!
 
-D: Yes, Bagel! Go get it!
+Papa: Barley, over there. There's the ball.
 
-D: Bagel. Bring me the ball! Ball!
+Barley: *Wan!*
 
-B: *Wan!* *Homf*
+Papa: Yes, Barley! Go get it!
 
-R: Yes, Bagel, that way! Take it to papa!
+Papa: Barley. Bring me the ball! Ball!
 
-D: Bagel, bring the ball. Bring papa the ball.
+Barley: *Wan!* *Homf*
 
-B: *Brings it*
+Momo: Yes, Barley, that way! Take it to papa!
 
-R: Yatta!!!
+Papa: Barley, bring the ball. Bring papa the ball.
 
-D: Gooooood, Bagel! Great, Bagel!
+Barley: *Brings it*
 
-B: *Happy yip yap!!*
+Momo: Yatta!!!
 
-D: Good, just like that. Roger, now you try.
+Papa: Gooooood, Barley! Great, Barley!
 
-R: OK!
+Barley: *Happy yip yap!!*
 
-R: Bagel, come here!
+Papa: Good, just like that. Momo, now you try.
 
-B: *Wan!*
+Momo: OK!
 
-R: Good, Bagel! Good boy, good boy!
+Momo: Barley, come here!
 
-B: *Wan wan!*
+Barley: *Wan!*
 
-R: Bagel, ball! That ball! Bring me that ball!
+Momo: Good, Barley! Good boy, good boy!
 
-B: *Wan!*
+Barley: *Wan wan!*
 
-R: Bagel.....
+Momo: Barley, ball! That ball! Bring me that ball!
+
+Barley: *Wan!*
+
+Momo: Barley.....
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-R: Bagel, ball! Bring me the ball!
+Momo: Barley, ball! Bring me the ball!
 
-B: *sniff sniff*
+Barley: *sniff sniff*
 
-R: No, Bagel....
-
-- 👉Teach "fetch" 
-- Quit teaching
-
-R: Bagel! Go get the ball! Please!
-
-B: *Yawn*
+Momo: No, Barley....
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-R: .....BAGEL!! BALL! GET THE BALL!
+Momo: Barley! Go get the ball! Please!
 
-B: *whimper*
-
-D: Roger... Roger, you're getting a little frustrated, aren't you?
-
-R: ?!
-
-D: Bagel has a heart, you know. Since Bagel won't do what you want, you got a little frustrated, right? Bagel is very sensitive. He can understand your body language... and he won't come to you if you're irritated.
-
-M: Right. So if Bagel fetches even once, maybe you should lavish him with praise! That would make him happy, very happy. If you do that, Bagel might bring you the ball to get that praise again!
-
-R: Ohhhh..... OK, I got it! I won't get frustrated! I'll praise him a bunch!... Right?
-
-R: Let's try it!
+Barley: *Yawn*
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-R: Bagel. Bring me the ball! Ball. The ball!
+Momo: .....Barley!! BALL! GET THE BALL!
 
-B: *Wan wan!*
+Barley: *whimper*
+
+Papa: Momo... Momo, you're getting a little frustrated, aren't you?
+
+Momo: ?!
+
+Papa: Barley has a heart, you know. Since Barley won't do what you want, you got a little frustrated, right? Barley is very sensitive. He can understand your body language... and he won't come to you if you're irritated.
+
+Mama: Right. So if Barley fetches even once, maybe you should lavish him with praise! That would make him happy, very happy. If you do that, Barley might bring you the ball to get that praise again!
+
+Momo: Ohhhh..... OK, I got it! I won't get frustrated! I'll praise him a bunch!... Right?
+
+Momo: Let's try it!
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-B: *Wan!*
+Momo: Barley. Bring me the ball! Ball. The ball!
 
-R: Look, Bagel. Over there. Bring me that ball.
+Barley: *Wan wan!*
 
-R: *Wan?*
+- 👉Teach "fetch" 
+- Quit teaching
 
-R: Yes! Bring that ball!
+Barley: *Wan!*
 
-R: *hehe*
+Momo: Look, Barley. Over there. Bring me that ball.
 
-R: Nooo, Bagel. Hm, he doesn't get it...
+Momo: *Wan?*
 
-R: Look, Bagel. There. That ball.
+Momo: Yes! Bring that ball!
 
-B: *Wan wan! Wan wan!*
+Momo: *hehe*
 
-R: .....!!
+Momo: Nooo, Barley. Hm, he doesn't get it...
 
-B: *almoooost*
+Momo: Look, Barley. There. That ball.
 
-D: Look, Bagel! Over to Roger!
+Barley: *Wan wan! Wan wan!*
 
-R: Bagel, bring me that ball like a good boy! Bagel!
+Momo: .....!!
 
-B: *Wan!*
+Barley: *almoooost*
 
-R: Bagel! Bring it. Bring it here!
+Papa: Look, Barley! Over to Momo!
 
-B: *Fetches like a champ*
+Momo: Barley, bring me that ball like a good boy! Barley!
 
-R: Bagel..... YOU DID IT! YOU FETCHED!
+Barley: *Wan!*
 
-R: Bagel! Wonderful! Wonderful! Bagel is a very good boy!
+Momo: Barley! Bring it. Bring it here!
 
-R: Papa, Mama, Bagel finally learned how to fetch!
+Barley: *Fetches like a champ*
 
-M: Yes, very good, Roger!
+Momo: Barley..... YOU DID IT! YOU FETCHED!
 
-D: I think Bagel might have understood your heart, Roger.
+Momo: Barley! Wonderful! Wonderful! Barley is a very good boy!
 
-B: *Wan wan!*
+Momo: Papa, Mama, Barley finally learned how to fetch!
 
-M: Sleep is very important for a puppy, isn't it? It would be very very bad for him to get sick. So! Let's put him to bed, shall we?
+Mama: Yes, very good, Momo!
 
-R: Haaaai.
+Papa: I think Barley might have understood your heart, Momo.
 
-D: Tomorrow you can play with the ball, Roger.
+Barley: *Wan wan!*
 
-R: That's right! Good night, Bagel!
+Mama: Sleep is very important for a puppy, isn't it? It would be very very bad for him to get sick. So! Let's put him to bed, shall we?
+
+Momo: Haaaai.
+
+Papa: Tomorrow you can play with the ball, Momo.
+
+Momo: That's right! Good night, Barley!
 
 ## At home
 
-D: So, since today is Sunday, wouldn't it be nice to go play ball with bagel in the park!
+Papa: It's Sunday today, so it'd be nice to go to the park and play ball with Barley.
 
-R: Yeah! Let's go! Bagel!!
+Momo: Yeah! Let's go! Barley!!
 
-B: *Wan! Wan!*
+Barley: *Wan! Wan!*
 
-R: Be back sooooon!
+Momo: Be back sooooon!
 
-M: Take care!
-
-# Chapter 2
+Mama: Take care!
 
 ## At the park
 
-R: Good, Bagel! Can you fetch this? Here we go!
+Momo: Good, Barley! Can you fetch this? Here we go!
 
 - 👉Throw gently
 - Throw hard
 
-R: There!
+Momo: Here goes!
 
-R: Bagel, amazing! You learned how to fetch perfectly!
+Momo: Barley, amazing! You learned how to fetch perfectly!
 
-R: Here comes one more!
-
-- Throw gently
-- 👉Throw hard
-
-R: There!
-
-B: *Epic jump catch*
-
-R: Awesome, Bagel! How come you can do that, I never taught you?!
-
-R: Here comes one more!
+Momo: Here comes one more!
 
 - Throw gently
 - 👉Throw hard
 
-R: Okaaay, this next one is kinda hard, can you do it?
+Momo: There!
 
-R: Okay, here we go, Bagel! THERE!
+Barley: *Epic jump catch*
 
-B: *Jumps into bush*
+Momo: Awesome, Barley! How come you can do that, I never taught you!
 
-R: Bagellll, you there?
+Momo: Here comes one more!
 
-R: ....Bagellll
+- Throw gently
+- 👉Throw hard
 
-R: Bagel, Bagel! Come! Come back!
+Barley: *Wan wan!*
 
-R: Bagellll. (While calling out Bagel's name, I felt hungry all of a sudden...)
+Momo: Okaaay, this next one is gonna be hard, think you can do it?
 
-R: Bagellll.... What happened....
+Momo: Okay, here we go, Barley! THERE!
 
-B: *Jumps out with a definitely not creepy doll*
+Barley: *Jumps into bush*
 
-R: BAGEL!
+Momo: Barley, you there?
 
-R: What were you doinnng? I was worrrieedd!
+Momo: ....Barleyyy?
 
-R: Wh, what's that? You picked up something other than the ball...
+Momo: Barley, Barley! Come! Come back!
 
-B: *Wan!*
+Momo: Barleyyy. (While calling out Barley's name, I got hungry all of a sudden...)
 
-R: That... That doll, where do I...?
+Momo: Barleyyy.... What happened...?
 
-R: Oh... Long ago, when we had to move here...
+Barley: *Jumps out with a definitely not creepy doll*
 
-R: Umm, hmmm...
+Momo: Barley!
 
-R: It was really important, so why can't I remember...
+Momo: What were you doinnng? I was worrrieedd!
 
-R: Judy... That's it! This is Judy!!!
+Momo: Wh, what's that? You picked up something other than the ball...
 
-B: *Wan wan!*
+Barley: *Wan!*
 
-J: *JUMPS TO LIFE TERRIFYINGLY*
+Momo: That... That doll, where do I...?
 
-J: YOU REMEMBERED ME, ROGER-CHAN!!!
+Momo: Oh... Long ago, when we had to move here...
 
-R: Eh? Eh?? EEHHHH???
+Momo: Umm, hmmm...
 
-J: Roger-chan! Rogerland... it's-
+Momo: It was really important, so why can't I remember...
 
-J: Quick, quick! It's important... it's precious...
+Momo: Judy... That's it! This is Judy!!!
 
-C: *A mustachioed alarm clock jumps out of the bush, because why not*
+Barley: *Wan wan!*
 
-C: Aaahhhhhh, aaah, ahem! Greetings!
+Judy: *JUMPS TO LIFE TERRIFYINGLY*
 
-R: W-wh-why!?? This.... alarm clock... is... moving?!
+Judy: YOU REMEMBERED ME, MOMO-CHAN!!!
 
-J: Shut up!! As I was saying, ROGERLAND IS PRECIOUS!
+Momo: Eh? Eh?? EEHHHH???
 
-J: Therefore, Roger-chan, you have to come with me... to Rogerland!
+Judy: Momo-chan! Momoland... it's-
 
-R: Eh? EEEEEHHH?? What are you saying?!
+Judy: Quick, quick! It's important... it's crucial...
 
-R: I don't understand!
+Clock: *A mustachioed alarm clock jumps out of the bush, because why not*
 
-C: Ahem! Ahem!
+Clock: Aaahhhhhh, aaah, ahem! Greetings!
 
-C: As a subject of Rogerland, you are acting most deplorable, Judy.
+Momo: W-wh-why!?? This.... alarm clock... is... moving?!
 
-C: As the caretaker of the Door of Time, I must beg your forgiveness for coming to the World of Reality at my own regrettable pace.
+Judy: Shut up!! As I was saying, MOMOLAND IS ESSENTIAL!
 
-C: Yes, I have returned, I have returned!
+Judy: SO, Momo-chan, we've gotta go back to Momoland!
 
-J: Ugh, I have to put up with this? Will you be quiet, old man!?
+Momo: Eh? EEEEEHHH?? What are you saying?!
 
-C: Hmf...
+Momo: I don't understand!
 
-C: Ahem! You may call me Clock!
+Clock: Ahem! Ahem!
 
-C: As I was saying, I am the keeper of the Door of Time, that connects Rogerland and the World of Reality.
+Clock: For a subject of Momoland, you are acting most deplorable, Judy.
 
-C: By the way, Roger-chan, it is almost time to go to JUKU.
+Clock: As the caretaker of the Door of Time, I must beg your forgiveness for coming to the World of Reality at my own regrettable pace.
 
-J: Ugh! Enough about Juku, who cares!
+Clock: Yes, I have returned, I have returned!
 
-J: Please, Roger-chan, there's no time. Look at this!
+Judy: Ugh, I have to put up with this? Will you be quiet, old man!?
 
-R: That's... Whose photo album is that?
+Clock: Hmf...
 
-R: .....That's my album!
+Clock: Ahem! You may call me Clock!
 
-R: How? Why?!
+Clock: As I was saying, I am the keeper of the Door of Time, that connects Momoland and the World of Reality.
+
+Clock: By the way, Momo-chan, it is almost time to go to JUKU.
+
+Judy: Ugh! Enough about Juku, who cares!
+
+Judy: Please, Momo-chan, there's no time. Look at this!
+
+Momo: That's... Whose photo album is that?
+
+Momo: .....That's my album!
+
+Momo: How? Why?!
 
 *A photo straight up disappears as you watch*
 
-R: EEEH? The photo, it.... vanished!
+Momo: EEEH? The photo, it.... vanished!
 
-J: Do you see why Rogerland is precious now?
+Judy: Do you see why Momoland is so important now?
 
-J: If things keep going this way, Roger-chan's memories will ALL BE GONE!
+Judy: If things keep going this way, Momo-chan's memories will ALL BE GONE!
 
-J: If I was just a little bit later, even your memory of me might have died...
+Judy: If I was just a little bit later, even your memory of me might have died...
 
-C: Judy, the closing of the Door of Time will soon be upon us! Let us return!
+Clock: Judy, the closing of the Door of Time will soon be upon us! Let us return!
 
-J: Please, Roger-chan! Please don't forget about me!
+Judy: Please, Momo-chan! Please don't forget about me!
 
-J: Let's stay friends forever, please...
+Judy: We'll stay friends forever, right?
 
-R: Of- Of course we're friends, Judy!
+Momo: Of- Of course we're friends, Judy!
 
-R: But, WHERE IS ROGERLAND?
+Momo: But, WHERE is Momoland?
 
-R: So I have to go to "Juku"...?
+Momo: So I have to go to "Juku" and...?
 
-C: It's time, Judy! In 20 seconds... 19...
+Clock: It is time, Judy! In 20 seconds... 19...
 
-R: But I still have questions! ...And if I'm late for dinner, Papa will scold me...
+Momo: But I still have questions! ...And if I'm late for dinner, Papa will scold me...
 
-C: 15... 14... 13...
+Clock: 15... 14... 13...
 
-R: Umm.... l.. look, even if we were to go to Rogerland, don't we need to prepare?
+Momo: Umm.... l- look, even if we were to go to Momoland, don't we need to prepare?
 
-R: You know, like, things we need to bring, and... making arrangements...
+Momo: You know, like, things we need to bring, and... making arrangements...
 
-C: 10... Judy, there's no time!
+Clock: 10... Judy, there's no time!
 
-C: 8... Do you want to be stuck here!? 7...
+Clock: 8... Do you want to be stuck here!? 7...
 
-J: Roger-chan! It's like I said... so... let's go!
+Judy: Momo-chan! It's like I said... so... let's go!
 
-J: I can explain better after we get there!
+Judy: I can explain better after we get there!
 
-R: Eeehh! That... Judy!!!
+Momo: Eeehh! Judy!!!
 
 *Everyone jumps back into the bushes*
 
-R: Mr. Clock!
+Momo: Mr. Clock!
 
-B: *Wan!* *Jumps in the bushes*
+Barley: *Wan!* *Jumps in the bushes*
 
-R: Ah... Bagel! Oh... wait for meeeeeeeeee!
+Momo: Ah... Barley! Oh... wait for meeeeeeeeee!
 
 ## Forest
 
-Voice: Roger...
+Voice: -chan...
 
-Voice: Roger-chan...
+Voice: Momo-chan... Momo-chan...
 
-R: *Waking up* Mama? What time is it?
+Momo: *Waking up* Mama? What time is it?
 
-B: *lick*
+Barley: *lick*
 
-R: Kya! Bagel... Where am i?
+Momo: Kya! Barley... Where am i?
 
-C: Roger-chan, this is Rogerland.
+Clock: Momo-chan, this is Momoland.
 
-R: Mr. Clock... Judy...!
+Momo: Mr. Clock... Judy...!
 
-R: We really came to... the land of memories...
+Momo: We really came to... the land of memories...
 
-J: Is Roger-chan going to be okay?
+Judy: Is Momo-chan going to be okay?
 
-C: As we were not able to get to Juku in time, we are in a predicament...
+Clock: As we were not able to get to Juku in time, we are in a predicament...
 
-J: Of course we're in a "predicament"!
+Judy: Of course we're in a "predicament"!
 
-C: Not "of course", Judy. Carelessly allowing the time to become so late is a serious affair!
+Clock: Not "of course", Judy. Carelessly allowing so much time to elapse is a serious matter!
 
-J: UGHHH! To begin with, won't you shut up with your "time", "time", "time"!
+Judy: UGHHH! To begin with, won't you shut up with your "time", "time", "time"!
 
-J: Don't tell me you've never been just a teeny, tiny, little bit late yourself!
+Judy: Don't tell me you've never been just a teeny, tiny, little bit late yourself!
 
-C: Never.
+Clock: Never.
 
-C: I have periodic maintenance once every two months, without fail. Therefore, I am never late, not even a single second.
+Clock: I have periodic maintenance once every two months, without fail. Therefore, I am never late, not even a single second.
 
-R: ... I guess we're here now... We gotta do what we gotta do...
+Momo: ... I guess we're here now... We gotta do what we gotta do...
 
-R: So, Judy, what should I do here?
+Momo: So, Judy, what should I do here?
 
-J: To tell the truth, lately in Rogerland, the Veggies have been stirring up a rebellion. It's like, a big pain for everyone!
+Judy: To tell the truth, Veggies have been stirring up a rebellion here in Momoland. It's like, a big pain for everyone!
 
-J: Even Judy's favorite ribbon was taken...
+Judy: Even Judy's favorite ribbon was taken...
 
-J: The disappearance of Roger-chan's memories is also their doing.
+Judy: The disappearance of Momo-chan's memories is also their doing.
 
-R: But why would... vegetables... do that kind of thing?
+Momo: But why would... vegetables... do that kind of thing?
 
 *Cue dramatic music*
 
-J: It's the "Dark Lord Cabbage"! He's their super evil leader!
+Judy: It's the "Dark Lord Cabbage"! He's their super evil leader!
 
-J: He's the one ordering the Veggies around.
+Judy: He's the one ordering the Veggies around.
 
-R: Dark Lord Cabbage?
+Momo: Dark Lord Cabbage?
 
-J: The way I heard it, Dark Lord Cabbage is gradually eating your memories...
+Judy: The way I heard it, Dark Lord Cabbage is gradually eating your memories...
 
-J: Roger-chan, it seemed like even your memories of me would be forgotten!!!
+Judy: Momo-chan, it seemed like even your memories of me would be forgotten!!!
 
-R: Dark Lord Cabbage...
+Momo: Dark Lord Cabbage...
 
-R: So unless I defeat him, my precious memories will vanish, huh?
+Momo: So unless I defeat this guy, my cherished memories will vanish, huh?
 
-C: Ahem. Roger-chan. It seems we have dragged you along and gotten you involved in this turmoil, but as a citizen of the World of Reality, walking about Rogerland is simply unacceptable.
+Clock: Ahem. Momo-chan. It seems we have dragged you along and gotten you involved in this turmoil, but as a citizen of the World of Reality, walking about Momoland is simply unacceptable.
 
-C: So! I have made arrangements for your return.
+Clock: So! I have made arrangements for your return.
 
-R: Eh! I can return?
+Momo: Eh! I can return?
 
-C: Naturally, as long as you are together with I, the Keeper of the Door of Time, you may any time open the door and return home. So let us return!
+Clock: Naturally, as long as you are together with I, the Keeper of the Door of Time, you may open the door and return home at any time. So let us return!
 
-J: Mr. Clock, don't you know this is a serious affair?!
+Judy: Mr. Clock, this is a serious affair, you said so yourself!
 
-C: Silence!
+Clock: Silence!
 
-C: Her presence is strictly prohibited by the 11th article of the Principles of Door Management!
+Clock: Her presence is strictly prohibited by the 11th article of the Principles of Door Management!
 
-J: Why you! This Rogerland we're in is the world of Roger's memories, you know.
+Judy: Why you! This Momoland we're in is the world of Momo's memories, you know.
 
-C: So, what are you saying?
+Clock: So, what are you saying?
 
-J: You don't get it yet? All that tick-tocking must have made your head go stupid.
+Judy: You don't get it yet? All that tick-tocking must have liquefied your brain.
 
-J: If this keeps going, and all Roger-chan's memories are taken away; if she turns into an adult with no memories of her childhood, the World of Reality and the World of Memories will be completely severed and set adrift!
+Judy: If this keeps going, and all Momo-chan's memories are taken away; if she turns into an adult with no memories of her childhood, the World of Reality and the World of Memories will be completely severed and set adrift!
 
-J: If that happens, you're out of a job! The Door of Time becomes totally obsolete!
+Judy: If that happens, you're out of a job! The Door of Time becomes totally obsolete!
 
-J: And if nobody needs the Door of Time, nobody needs the *Janitor* of the Door of Time, do they now?!
+Judy: And if nobody needs the Door of Time, nobody needs the *Janitor* of the Door of Time, do they now?!
 
-C: Wh- What? Me, become useless?
+Clock: Wh- What? Me, become useless?
 
-C: That IS a serious affair. I see no helping it, I shall grant you special permission.
+Clock: That IS a serious affair. I see no helping it, I shall grant you special permission.
 
-C: However, I shall accompany you, performing the duty of official overseer.
+Clock: However, I shall accompany you, performing the duty of official overseer.
 
-C: Well then, let us briskly and without sluggishness return these memories.
+Clock: Well then, let us briskly and without sluggishness return these memories.
 
-R: But... how?
+Momo: But... how?
 
-B: *Wan wan!*
+Barley: *Wan wan!*
 
-C: UWAAAAAAAAAAAAH! DOG!! THERE!!! REMAIN CALM!
+Clock: UWAAAAAAAAAAAAH! DOG!! HERE!!! REMAIN CALM!
 
-R: Bagel, what is it?
+Momo: Barley, what is it?
 
-R: Could Bagel have found something that could be a clue?
+Momo: Could Barley have found something that could be a clue?
 
-J: If so, he may be small, but he's certainly a very helpful dog!
+Judy: If so, he may be small, but he's certainly a very helpful dog!
 
-R: Bagel, it's all you!
+Momo: Barley, it's all you!
 
-B: *Wan wan!*
+Barley: *Wan wan!*
 
 ## Tree
 
-R: Huff huff... Bagel.... huff... is there something... huff... about this tree?
+Momo: Huff huff... Barley.... huff... is there something... huff... about this tree?
 
-B: *Wan wan!*
+Barley: *Wan wan!*
 
 Voice: Ahhhhh, help meee!
 
-R: Was that someone's... voice?
+Momo: Was that someone's... voice?
 
-J: That voice...
+Judy: That voice...
 
-E: Someone helllp meeee!
+Earb: Someone helllp meeee!
 
-E: Ahhh, won't someone return my ear-mon!
+Earb: Ahhh, won't someone return my ear-mon!
 
-P: Cyu-cyu-cyu-cyuke!
+Cukeman: Cyu-cyu-cyu-cyuke!
 
-P: If you want it back so bad, why dont'cha come on down from da tree and get it? Haw haw!
+Cukeman: If you want it back so bad, why dont'cha come on down from da tree and get it? Haw haw!
 
-E: Uhhhh...
+Earb: Ohhh...
 
-P: Cyu-cyu-cyuke! Haw haw! What's wrong? Come on dowwwwn!
+Cukeman: Cyu-cyu-cyuke! Haw haw! What's wrong? Come on dowwwwn!
 
-E: I'M SCARED! Someone help meeeeee!
+Earb: I'M SCARED! Someone help meeeeee!
 
-C: Why, that bear's...
+Clock: Why, that bear is...
 
-R: That must be... Ummm... I can't remember.
+Momo: It must be... Ummm... I can't remember.
 
-R: But it's familiar... Ummm, umm, a bear...
+Momo: But it's familiar... Ummm, umm, a bear...
 
-J: Roger-chan, you can do it! Think back!
+Judy: Momo-chan, you can do it! Think back!
 
-R: Errr... That's right! Earb the bear!! It's Earb!
+Momo: Errr... That's right! Earb the bear!! It's Earb!
 
-P: Cyu cyuke, what's dis, you some kinda official friend of dat bear?
+Cukeman: Cyu cyuke, what's dis, youse some kinda friends of Prince Bear over there?
 
-R: I am! We are friends!
+Momo: I am! We are friends!
 
-J: You cucumbers all are just minions of the Dark Lord Cabbage, aren't you?
+Judy: You cucumbers all are just minions of the Dark Lord Cabbage, aren't you?
 
-J: Stop picking on defenseless people!
+Judy: Stop picking on defenseless people!
 
-B: *grrrr*
+Barley: *grrrr*
 
-P: Cyu-cyu-cyuke. Well, what are you gonna do about it, hmm?
+Cukeman: Cyu-cyu-cyuke. Well, what are you gonna do about it, hmm?
 
-P: Youse! You wanna start something with me, Cyukeman??!
+Cukeman: Youse! You wanna start something with me, Cukeman??!
 
-P: I'll scrub your cucumberbumps clean off yas!
+Cukeman: I'll scrub your cucumberbumps clean off yas!
 
-B: *Jumps into hole in tree* 
+Barley: *Jumps into hole in tree* 
 
-B: *Emerges from another hole*
+Barley: *Emerges from another hole*
 
-C: Ah, Bagel! I see, the holes must be connected.
+Clock: Ah, Barley! I see, the holes must be connected.
 
-P: O-ho! Mr. pup's come out to play, cuke.
+Cukeman: O-ho! Prince Pup's come out to play, cuke.
 
-B: *grrr, wan!*
+Barley: *grrr, wan!*
 
-P: Oi, Mr. pup. One thing about us cukes is we loooooooooooove riddles-cuke.
+Cukeman: Oi, Prince Puppy. One thing about us cukes is we loooooooooooove riddles-cuke.
 
-P: IF you can answer our riddles, we'll letcha go on your way-cuke!
+Cukeman: IF you can answer our riddles, we'll letcha go on your way-cuke!
 
-P: Think you can answer 'em, Mr. pup?!
+Cukeman: Think you can answer 'em, Prince Pup?!
 
-R: Eeeeeeeh!
+Momo: Eeeeeeeh!
 
 
 Shall we go over the rules?
@@ -691,15 +689,15 @@ Shall we go over the rules?
 * 👉Yes! explain
 * I know, I'm good
 
-Roger-chan. Since Bagel can't really be expected to know riddles, you'll give him the answers. The rules are: after Cyukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
+Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules arEarb: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
 
 *Example plays out*
 
-R: Bagel, number two!
+Momo: Barley, number two!
 
-B: *barks twice!*
+Barley: *barks twice!*
 
-Think carefully before you answer, Roger-chan.
+Think carefully before you answer, Momo-chan.
 
 # Cucumber Cuiz
 
@@ -749,7 +747,7 @@ I'm a plant that looks like I'm hiding an animal. What plant am I?
 2. アジサイ [hydrangea]
 3. ハクサイ [cabbage]
 
-[Hint: This is the best explanation I have, but hydrangea is written "ajisai" and "aji" means "mackerel"?]
+[Hint: This is the best explanation I have, but hydrangea is written "ajisai," aji" can mean "mackerel" and "-sai" can mean a fort]
 
 At noon I'm short, but at night I grow taller. My color is black. What am I?
 
@@ -796,124 +794,124 @@ I'm attached to a car, but if you attach two dots to me I become a beautiful jew
 [Hint: adding two dots can change one letter into another, for example "taiya" or "tire" can become "daiya" or "diamond"]
 
 
-# At the penultimate riddle
+## At the penultimate riddle
 
-P: Mr. pup. I gotta give it to you for makin' it this far-cuke.
+Cukeman: Prince pup. I gotta give it to you for makin' it this far-cuke.
 
-P: Since ya were able to answer all my riddles, ya can continue up to where Mr. Bear is, but first...
+Cukeman: Since ya were able to answer all my riddles, ya can continue up to where Prince Bear is, but first...
 
-P: Here comes one last super, MEGA TOUGH riddle!
+Cukeman: Here comes one last super, MEGA TOUGH riddle!
 
-# At the last riddle
+## At the last riddle
 
-P: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
+Cukeman: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
 
-R: Do you give up?!
+Momo: Do you give up?!
 
-B: *wan!*
+Barley: *wan!*
 
-P: Cuke... it's over... we lost-cuke.
+Cukeman: Cuke... it's over... we lost-cuke.
 
-P: We lost to... lost to a.. a Mr. pup...
+Cukeman: We lost to... lost to a.. a Prince Pup...
 
-P: Shoot. You'll regret dis!
+Cukeman: Shoot. You'll regret dis!
 
-E: You brought my ear back!
+Earb: You brought my ear back!
 
-B: *wanwan!*
+Barley: *wanwan!*
 
-E: Thank you!
+Earb: Thank you!
 
-R: Bagel, this is Earb.
+Momo: Barley, this is Earb.
 
-B: *wan!*
+Barley: *wan!*
 
-R: Earb might be a little bit of a crybaby, but he's a very, very sweet bear.
+Momo: Earb might be a little bit of a crybaby, but he's a very, very sweet bear.
 
-R: When I was a little girl, I was afraid of thunder, and I'd cling to Earb.
+Momo: When I was a little girl, I was afraid of thunder, and I'd cling to Earb.
 
-R: Ever since then, Earb has always been by my side, absorbing all my fears.
+Momo: Ever since then, Earb has always been by my side, absorbing all my fears.
 
-R: How could anyone bully such a sweet bear?
+Momo: How could anyone bully such a sweet bear?
 
-E: I, I dunno-mon.
+Earb: I, I dunno-mon.
 
-E: I was just playing at home when the Dark Lord Cabbage and his Cyukemon came...
+Earb: I was just playing at home when the Dark Lord Cabbage and his Cyukemon came...
 
-E: *sniffle* My ear... they... tore it up-mon...
+Earb: *sniffle* My ear... they... tore it up-mon...
 
-J: That's horrible!!
+Judy: That's horrible!!
 
-R: So, you were waiting all this time for us to come?
+Momo: So, you were waiting all this time for us to come?
 
-E: That's right-mon.
+Earb: That's right-mon.
 
-E: Even though I'm afraid of heights, I had to wait it out up in that tree-mon.
+Earb: Even though I'm afraid of heights, I had to wait it out up in that tree-mon.
 
-J: Ah! Wait, is that... possibly... a doghouse?
+Judy: Ah! Wait, is that... possibly... a doghouse?
 
-R: I, I recognize that! That's... that's... that's right!
+Momo: I, I recognize that! That's... that's... that's right!
 
-R: Captain! Captain's doghouse!
+Momo: Captain! Captain's doghouse!
 
-R: Bagel, when I was little, looong before you came to our house, a dog named Captain lived with us.
+Momo: Barley, when I was little, looong before you came to our house, a dog named Captain lived with us.
 
-R: He was also much, muuuch bigger than you.
+Momo: He was also much, muuuch bigger than you.
 
-R: Earb, is Captain in this world too!?
+Momo: Earb, is Captain in this world too!?
 
-E: He lives with an old man in a forest wayyyyyyyyyy out there, way beyond that mountain-mon.
+Earb: He lives with an old man in a forest wayyyyyyyyyy out there, way beyond that mountain-mon.
 
-R: Old man... it couldn't be... grandpa?
+Momo: Old man... it couldn't be... grandpa?
 
-R: My grandpa... who passed away?!
+Momo: My grandpa... who passed away?!
 
-E: That's right-mon.
+Earb: That's right-mon.
 
-R: I can... I can meet my grandpa again!!
+Momo: I can... I can meet my grandpa again!!
 
-R: Earb, how do we get to that forest where grandpa is living?
+Momo: Earb, how do we get to that forest where grandpa is living?
 
 [小一山]
-E: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
+Earb: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
 
-C: But... crossing Mt. Elementary........ that's impossible!
+Clock: But... crossing Mt. Elementary........ that's impossible!
 
-J: Roger-chan, Mt. Elementary is a verrry tall mountain! There's no way we can hike over it.
+Judy: Momo-chan, Mt. Elementary is a verrry tall mountain! There's no way we can hike over it.
 
-J: Right? *points to map*
+Judy: Right? *points to map*
 
-R: Oh... well, what should we do...
+Momo: Oh... well, what should we do...
 
-E: It might be best if you take Roger Unit 01.
+Earb: It might be best if you take Momo Unit 01.
 
-E: Roger Unit 01 can fly through the air!
+Earb: Momo Unit 01 can fly through the air!
 
-R: Roger Unit 01?
+Momo: Momo Unit 01?
 
-R: My tricycle, Roger Unit 01?!
+Momo: My tricycle, Momo Unit 01?!
 
-R: Talking about Roger-1... I, I remember! Back in kindergarten, I left it in the sandbox and came back home without it!
+Momo: Talking about Momo-1... I, I remember! Back in kindergarten, I left it in the sandbox and came back home without it!
 
-C: All too common an occurrence among young children, I am afraid. Regrettable, regrettable...
+Clock: All too common an occurrence among young children, I am afraid. Regrettable, regrettable...
 
-R: But flying with Roger-1... even though it was important to me...
+Momo: Sure, it was important to me, but... but FLYING with Momo-1...
 
-R: Earb, where is Roger Unit 01?
+Momo: Earb, where is Momo Unit 01?
 
-E: Since this is the land of memories, Roger-01 should be in that place you remember: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
+Earb: Since this is the land of memories, Momo-1 should be in the place you remember leaving it: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
 
-R: Which way is Kindergarten?
+Momo: Which way is Kindergarten?
 
-J: This way, Roger-chan!
+Judy: This way, Momo-chan!
 
-C: I despise Kindergarten! For starters, the little grains of sand in the sandboxes always get in my gears...
+Clock: I despise Kindergarten! For starters, the little grains of sand in the sandboxes always get in my gears...
 
-J: Shut up, old man!
+Judy: Shut up, old man!
 
-B: *wan wan!*
+Barley: *wan wan!*
 
-R: Well, what are we waiting for, guys?
+Momo: Well, what are we waiting for, guys?
 
 
 
