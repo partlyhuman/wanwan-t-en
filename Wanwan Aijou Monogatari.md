@@ -953,7 +953,7 @@ Barley: *wan!*
 
 ## Potatomaze
 
-Shall we go how to play?
+Shall we explain how to play?
 
 * 👉Yes! explain
 * I know, I'm good
@@ -1142,12 +1142,229 @@ Momo: I guess there's no alternative... let's go in for a landing.
 
 # Lemon Hill
 
+Momo: What should we do... Since you all have problems with the Lemons...
 
+Momo: Looks like there's no other way, should Barley and I go ahead?
 
+Judy: Nonono! Judy will go too! We can't get separated!
 
+Earb: Judy, don't be selfish-mon.
 
+Unit 01: Quaaaack! Momo-chan, the backpack! The magic bag-wak!
 
+Momo: Eh?? You mean the backpack Barley just dug up?
 
+Unit 01: Quack-quack-that's-right. Everyone, we can go in there together-wak!
 
+Momo: Even when the backpack is this small?
+
+*It reverts to normal size*
+
+Momo: Ah!!
+
+Unit 01: Wak! All right everyone!
+
+Unit 01: We hop inside, and Momo-chan can bring us along-wak.
+
+Momo: About that... how exactly will everyone fit inside this bag...
+
+*Poof*
+
+Momo: You guys?... Could they really be in the bag?
+
+Judy: I'm sorry I can't help...
+
+Unit 01: Wak... Momo-chan, sorry I can't be of service...
+
+Unit 01: But we'll be cheering you on, wak wak!
+
+Earb: I think the Lemons will definitely know where your Grandpa lives. Momochan, good luck!
+
+*The backpack shrinks down*
+
+Momo: Well, Barley, it's down to just you and me now...
+
+Barley: *wan! wan! wan!*
+
+Momo: Thanks for the encouragement! Okay, Barley, let's do this!
+
+## Lemon Hill Crossroads
+
+Momo: We've arrived...
+
+Barley: *whimper*
+
+Momo: I've got a bad feeling about this place, somehow...
+
+Voice: YOU TWO!
+
+Lemon: What on earth are YOU doing hereeeeeeee?
+
+Momo: We're trying to meet up with my grandpa, so we're crossing through.
+
+Lemon: HO-ho-ho-ho-ho! No person shall pass, no matter who they beeeeee!
+
+Momo: Look, I don't need a permission slip from you, we're crossing!
+
+Lemon: Such libelous slander about us, we shall not toleraaaaateeeeee!
+
+Lemon: You will NEVER be allowed to paaaaaaass!
+
+Lemon: Even were you to try the impossible and pass, it would go a little something like thiiiiiiiiis!
+
+Lemon: Give it to them, little sis!
+
+Lemon: OK, sister!
+
+Lemons: S-O-U-R-R-R-R-R-R-R!!!!!
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+The Miracle Lemons are going to throw their *Souuuuuuuur Lemon Slice* at you. You can't let it hit you, so you must avoid contact with it. Press the D-pad down to duck, and up to... jump! Avoid contact with the lemon slices in this fashion. When the Lemons tire out, that's your chance to attack! Use the A button and hit them with a rock! Momochan, be careful of being hit by the Lemon Slice's sourness!
+
+Lemon: I shall be your first opponent!
+
+Lemon: Suuu-peeeer-soooourrr!
+
+Lemon: *pant... pant...* Just... a little breather...
+
+*after defeating little Miracle Lemon*
+
+Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Big sis, h-e-l-p-m-e-eeeeeeeeeeeeeee!
+
+Lemon: How dare you! My sister! I won't go easy on you... prepare yourself!
+
+*after defeating big Miracle Lemon*
+
+Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Maddening! Exasperating! Infuriatiiiiiing!
+
+Momo: Yattaaaaa!!
+
+Barley: *wan wan!*
+
+Lemon: Kyuu...
+
+Momo: Like I was saying, do you know where my grandpa lives? Tell me, and I'll help you out from under that pile of lemons.
+
+Lemon: There is NOTHING that escapes our knowledge, is there, sis?
+
+Lemon: Quite right, sister. There is not a thing we don't know.
+
+Momo: Really!? Well then, WHERE is my Grandpa living!?
+
+Lemon: I won't tell youuuuuuu!
+
+Momo: Humph! I see, so that's your not-very-cute answer, then?
+
+Lemon: Your threats are nothing! Nothing, nothing, nothinnnng!
+
+Lemon: What you don't know is that we still have very, veeeeery powerful friends!
+
+Lemon: Masterrr, Masterrr, we beg you!
+
+Voice: As you called, here I am, your comrade!
+
+Voice: Oh! Comrades! What on earth happened here?
+
+Lemon: That girl BULLIED uuuuuuuuus!
+
+Lemon: That's right. We were just playing when that girl and her little Prince Pup jumped us out of nowhere!
+
+Lemon: I was scared, sooo sooo scared....
+
+Voice: Hnnnnnnggg, you! To think this bad girl would cast such an evil eye upon my comrades!
+
+Lemon: Master! You tell her, just like that! Tell her off!
+
+Momo: Wait a minute, listen to me! It's the Lemons who arae the bad ones!
+
+Momo: I was just trying to get to my Grandpa's house...
+
+Voice: Silence! Don't give me excuses, is that how your mother taught you?
+
+Voice: Huh! Wait!.... It's you....!!
+
+Momo: Huh? What...?
+
+Voice: Momo... Momo-chan!!
+
+Momo: ....? How do you know my name?
+
+Voice: It's me! Gunbot!
+
+Lemon: M-master!?
+
+Gunbot: This person is my second commander!
+
+Lemon: WHAT!!! Wh- What in the?!
+
+Gunbot: Attention, Lemons! I am categorically unable to defy my commander, for I am THE CONSUMMATE warrior. So! You will immediately relay the location of Momo-chan's grandfather!
+
+Lemon: Uuuhh... but if we tell her, Dark Lord Cabbage is gonna yell at uuusss...
+
+Gunbot: WHAT!! You two have been foot soldiers of Dark Lord Cabbage this whole time!?
+
+Lemon: Sis! You've said too much, dummy!
+
+Gunbot: YOU... You have been deceiving me all this time... Unforgivable! Those who resort to LIES can no longer be called comrades of mine!
+
+Lemon: Uhhh-ha-ha-ha... Lying? Certainly, no, not us, preposterous!
+
+Lemon: I- if you're looking for an old man, there's certainly an old man living at the foot of Lemon Hill!
+
+Gunbot: How DARE the two of you try to turn me against my precious Momo-chan! How do you like THIS?!
+
+Lemons: Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah--
+
+Gunbot: It's good to see you again, Momo-chan!
+
+Momo: ... I'm so sorry... I still don't... remember you very well...
+
+Gunbot: You don-... don't remember... me... Gunbot...
+
+Momo: I'm sorry! I'm really sorry!
+
+Momo: My memories are being ransacked right now by Dark Lord Cabbage!! So... there are still bits and pieces I don't remember!
+
+Gunbot: ...
+
+Momo: I'm sorry! But everyone has been lending me their strength so that we can defeat Dark Lord Cabbage.
+
+Gunbot: Dark Lord Cabbage... he's been terrorizing everyone...
+
+Gunbot: But... it's a shock... not being remembered by your second commander...
+
+Momo: Um... second commander? If you told me a little more of that story, I might remember...
+
+Gunbot: ... My first commander was a boy named Gun-chan.
+
+Gunbot: Gun-chan bestowed on me the honor of the highest regard among all of his toys.
+
+Momo: Gun-chan...? Umm.... Umm....
+
+Gunbot: When you were going to move from your first house, Gun-chan gave me to you, his close friend, to remember him by... Since then, I've thought of you as my second commander, always...
+
+Gunbot: Goodbye, Momo-chan...!!
+
+Momo: Ah! Wait! Please, just wait a second!
+
+Momo: Gun-chan... Gun-chan... Umm...
+
+Momo: Ah!!! I remember now!!
+
+Momo: Ahhhhhh, I'm such an idiot! How could I have forgotten the time I had with Gunbot! And caused him so much anguish...
+
+Momo: What do I do... I'm sorry... Gunbot...
+
+Barley: *wan!*
+
+Momo: Yeah... At least we know the whereabouts of Grandpa now.
+
+Momo: In any case, let's go to see Grandpa!
+
+Barley: *wan! wan!*
 
 
