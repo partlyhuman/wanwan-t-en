@@ -407,7 +407,7 @@ Momo: Eh? Eh?? EEHHHH???
 
 Judy: Momo-chan! Momoland... it's-
 
-Judy: Quick, quick! It's important... it's crucial...
+Judy: Quick, quick! It's in danger... it's in danger...
 
 Clock: *A mustachioed alarm clock jumps out of the bush, because why not*
 
@@ -415,7 +415,7 @@ Clock: Aaahhhhhh, aaah, ahem! Greetings!
 
 Momo: W-wh-why!?? This.... alarm clock... is... moving?!
 
-Judy: Shut up!! As I was saying, MOMOLAND IS ESSENTIAL!
+Judy: Shut up!! As I was saying, MOMOLAND IS IN PERIL!
 
 Judy: SO, Momo-chan, we've gotta go back to Momoland!
 
@@ -1367,4 +1367,262 @@ Momo: In any case, let's go to see Grandpa!
 
 Barley: *wan! wan!*
 
+## Grandpa's House
+
+Momo: Could it really be grandpa's....
+
+Earb: There might be Veggies there-mon...
+
+Judy: We have to protect this peaceful forest from the Vegetable Corps! If we run into any, we'll drive 'em out just like that!
+
+Momo: That's right.
+
+Judy: Urk! Will you look at the state of that shack!?
+
+Earb: Nooo, I'm scared-mon!
+
+Gramps: Hello? Can I help you?
+
+Momo: Grand... Grandpa?!
+
+Gramps: Ohhh, is that you, Momo? It's good to see you.
+
+Gramps: It's nice to see you, all of you.
+
+Momo: Grandpa!!!
+
+Gramps: You made it all this way. You must be tired.
+
+## Interior
+
+Momo: I never thought I'd be able to see you again, Grandpa...
+
+Gramps: Whaat? But you can see me any time. Just reach for your memories of me, Momo, and there I'll be.
+
+Gramps: But hey, kiddo. Take a look over here.
+
+Captain: *wurf*
+
+Momo: Captain! It's Captain!
+
+Captain: Momo-chan! My sweet Momo-chan!
+
+Captain: To believe that we meet again...!
+
+Momo: You look happy, Captain! I'm so glad!
+
+Momo: Ah, that's right!
+
+Momo: Grandpa! Could you fix a clock?
+
+Gramps: Of course! Why, is your clock broken, Momo?
+
+Momo: Um... I'm not sure you can say that exactly...
+
+Momo: Here it is, anyway...
+
+Gramps: Oh dear! Wait, isn't that... Mr. Clock?
+
+Momo: Grandpa, you know about Mr. Clock?
+
+Gramps: Oh yes, I know him well. We met once every other month, like clockwork.
+
+Judy: Oh! So it was you who did Mr. Clock's constant inspections!
+
+Gramps: Ah, right you are. 
+
+Gramps: His gatekeeper duties were one thing, that can't be helped. But Mr. Clock must have spent a lot of time thinking about how to get to you.
+
+門番だったら仕方ないが、
+について歩くのに、
+あんまり時間にウルサイのも
+考えもんだのう。
+
+Gramps: I wonder if it might have driven him a little cuckoo sometimes.
+
+Momo: Aha.
+
+Gramps: That oughta've done it!
+
+Momo: ?? Huh? Mr. Clock!
+
+Gramps: ?? That's strange... He's only got the one winding key, did I forget to reattach it?
+
+Momo: MR. CLOCK!
+
+Clock: Nmm??? Y-----yaaaaaaaawn... I'm up...
+
+Clock: I say, why is everybody staring at me?
+
+Gramps: Mister, you were broken, and everyone was worried sick about you is why.
+
+Barley: *wan!*
+
+Gramps: Oh, well if you aren't a cute one. Momo, what's this little guy's name?
+
+Momo: This is Barley! He's my new best friend!
+
+Barley: *wan wan!*
+
+Gramps: Ahh? So it's Barley?
+
+Gramps: Look, I've got some cheese, do you like it?
+
+Gramps: Haha! Is that good? Huh? One more? All right, all right.
+
+Momo: Grandpa? Everyone else can talk, how come Barley is the only one who can't talk?
+
+Gramps: Momo, words aren't the only way to understand someone's feelings, you know.
+
+Gramps: Ohhh, really? I see.
+
+Gramps: So you love cheese, Barley.
+
+Momo: Could it... Can you understand Barley's words, Grandpa?
+
+Gramps: Oh, I understand. But we aren't speaking with words, you know.
+
+Gramps: It's communication of the heart. Captain's words, and Barley's words, this old heart can hear alllll of them. Isn't that right, Barley?
+
+Barley: *wan!*
+
+Gramps: "Cheese tastes good," he says, hoh!
+
+Momo: Why? Why? I want so badly to communicate with Barley, why can't I seem to understand?
+
+Gramps: Momo, you mustn't rush it.
+
+Gramps: Try and listen closely to your heart.
+
+Gramps: If you truly want to understand Barley, your heart must be open.
+
+Gramps: Sloooowly, take your time.
+
+Judy: Momo's grandpa! Listen, because of Dark Lord Cabbage, the World of Memories is in peril!
+
+Earb: That's right-mon. Dark Lord Cabbage is erasing all the memories-mon!
+
+Gramps: Is that so?... Well, I'd like to help... It's terrible, but, I'm afraid I can't...
+
+Judy: WHY!?
+
+Gramps: I have my own memories that I have to protect. You understand, Momo, don't you?
+
+Momo: Uh-huh!
+
+Gramps: But, I can give you this, Momo.
+
+Momo: This is...?
+
+Gramps: Have you forgotten already?
+
+Gramps: Long ago, your Grandma gave you this as a Christmas present.
+
+Momo: That's right... Papa said this bracelet can make three wishes come true!
+
+Momo: But, when I found out Papa was Santa Claus, I thought that must have been made up too...
+
+Gramps: Now do you think it could make your wishes come true?
+
+Momo: Ummm... Now...
+
+Judy: Hey, Momo-chan, wish to know where Dark Lord Cabbage is!
+
+Momo: Yes, let's try it!
+
+Momo: Tell me! Dark Lord Cabbage, WHERE is he?!
+
+Gramps: Momo, in this world, there is nothing that can overcome Dark Lord Cabbage's magical powers.
+
+Gramps: So, I'm sorry but the Flower Bracelet can't make that wish come true.
+
+Momo: What! Then what's the point?
+
+Gramps: Don't panic, don't panic, Momo. Don't you think there's another way to learn the location of Dark Lord Cabbage?
+
+Unit 01: Quack! Momo-chan! I remember-wak!!!
+
+Unit 01: The Potato Bonbons said something about the Hallo-Pumpkin knowing-wak.
+
+Momo: Oh? So, let's start by looking for the Pumpkin!
+
+Momo: Flower Bracelet, where is the Hallo-Pumpkin?!
+
+Earb: Nooooo! Picture-Book Forest was so pretty, I can't believe it's gone black and white-mon!
+
+Clock: Surely, this is the doing of Hallo-Pumpkin!
+
+Judy: We've gotta beat that Pumpkin and save the picture books!
+
+Clock: Picture-Book Forest is just beyond here, let us go!
+
+Momo: Yeah, let's go!
+
+Captain: Gramps... I... I...
+
+Grampa: You don't have to worry about me, Captain.
+
+Grampa: You want to help Momo?
+
+Grampa: Yessir, you had best go with 'em.
+
+Captain: *wufh!*
+
+Momo: Captain.... You'll really come with us?
+
+Momo: But... Captain, you're old, you really don't have to trouble yourself...
+
+Captain: Momo-chan...　please take me with you.
+
+Captain: I'll protect you, Momo-chan, now...
+
+Captain: It's... it's my duty.
+
+Momo: ...Thank you.
+
+Momo: You were always by my side, Captain...
+
+Momo: I'm truly happy...
+
+Barley: *wan!*
+
+Momo: ? What is it, Barley?
+
+Barley: *wan! wan!*
+
+Momo: Barley, what is it? Are you trying to tell us something?
+
+Gramps: Momo, don't rely on words. Look closely at Barley. Clear your heart.
+
+Momo: Yes.
+
+Barley: Barley...
+
+Barley: Barley will...
+
+Barley: fight with
+
+Barley: Momo-chan
+
+Momo: Barley!! Thank you!
+
+Grandpa: Momo...
+
+Momo: ...?
+
+Gramps: Please take good care of my friend who took care of me.
+
+Gramps: And, be a good child, one who is kind and understands the hearts of everyone around her.
+
+Momo: I will. Grandpa, will I get to meet you again?
+
+Gramps: Of course. Just remember me, anytime, ok?
+
+Gramps: Well, take good care, everyone. Good luck!
+
+Momo: Okay! Here we gooooo!
+
+Gramps: ...Please take care... Momo...
+
+## Picture-Book Forest
 
