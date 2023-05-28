@@ -1433,11 +1433,6 @@ Gramps: Ah, right you are.
 
 Gramps: His gatekeeper duties were one thing, that can't be helped. But Mr. Clock must have spent a lot of time thinking about how to get to you.
 
-門番だったら仕方ないが、
-について歩くのに、
-あんまり時間にウルサイのも
-考えもんだのう。
-
 Gramps: I wonder if it might have driven him a little cuckoo sometimes.
 
 Momo: Aha.
@@ -1516,7 +1511,7 @@ Momo: This is...?
 
 Gramps: Have you forgotten already?
 
-Gramps: Long ago, your Grandma gave you this as a Christmas present.
+Gramps: Long ago, your Papa gave you this as a Christmas present.
 
 Momo: That's right... Papa said this bracelet can make three wishes come true!
 
