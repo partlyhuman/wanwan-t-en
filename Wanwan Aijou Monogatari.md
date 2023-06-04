@@ -1621,3 +1621,188 @@ Gramps: ...Please take care... Momo...
 
 ## Picture-Book Forest
 
+Earb: Brr... what an eerie forest-mon...
+
+Judy: Eeek, look, a ghost!
+
+Earb: KYAAAAAAAAAH! Nonono! Heelllllppp!!
+
+Clock: Judy, now is not the time for pranks!
+
+Judy: Hehe.
+
+Judy: Hm??... AAH!
+
+Earb: Enough, Judy, stooop!
+
+Clock: Judy, if you must joke, you should at least work on your timing.
+
+Judy: I'm not joking! Just now, in the forest! Something is in there!
+
+Unit 01: She's right! Something's there-waaak!
+
+Clock: Urk! You are correct, something is there!
+
+Barley: *grr*
+
+Momo: It's a Pumpkin!
+
+Clock: Agh! Pumpkin!
+
+Voice: Quiz time! Quiz time!
+
+Earb: Kyaah!
+
+Barley: *wan wan wan!*
+
+Pumpkin: Quiz time! Quiz time!
+
+Pumpkin: Quiz or treat!!!
+
+Clock: We do not have time to be riddling about!
+
+Momo: If we do your quiz, will you tell us where the Dark Lord Cabbage is?
+
+Pumpkin: I will, I will. If you all can solve my puzzles, that is!
+
+Momo: All right!
+
+Pumpkin: My quiz is five questions. If you know them all, I will tell you where the Dark Lord Cabbage is!
+
+Clock: Five questions....
+
+Pumpkin: But you cannot get a single one wrong!
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+Momo-chan. You'll answer this quiz just like you did with Cukeman's quiz. Good luck, Momo-chan.
+
+[TODO: these ARE presented in random order so write out the japanese later]
+
+Momo: Got it! Ok, let's begin!
+
+Pumpkin: Yeah yeah YEAAAAH!
+
+
+Gunbot's first commander was Momo's childhood friend, a boy named:
+
+1. Gen-chan
+2. Gon-chan
+3. Gun-chan
+
+Momo-chan's oldest toy, Judy. What color is her hair?
+
+1. Yellow
+2. White
+3. Black
+
+What number is written on the alarm clock, Mr. Clock's, face?
+
+1. 11
+2. 10
+3. 12
+
+The tricycle Momo-01. What is its special skill?
+
+1. Flying through the air
+2. Digging through the earth
+3. Diving through the water
+
+While flying over Mt. Elementary, how many people were riding Momo-01?
+
+1. 4
+2. 6
+3. 2
+
+What's the name of "my seal computer" Momo-chan is playing on?
+
+1. Friendly Memo
+2. Pet World
+3. Loopy
+
+What is the name of this game?
+
+1. "Woof woof" love story
+2. "Screeeeeech!" love story
+3. "Meow meow" love story
+
+What's the name of Momo's doggie?
+
+1. Gunbot
+2. Yikes
+3. Barley
+
+How many Cukemen were at the "super tall tree"?
+
+1. 3
+2. 5
+3. 7
+
+The veggies who said "-Bon!" at the end of every sentence, who Momo-chan defeated with a kick, what were they called?
+
+1. Potato Bomb-bombs
+2. Potato Salad
+3. Potato Bonbons
+
+Who were the sour lemon sisters who made their debut on a hill?
+
+1. Papaya Mangoes
+2. Miracle Lemons
+3. Tomato Kids
+
+What do you call the accessory Momo-chan received from her Papa long ago?
+
+1. Flower Bracelet
+2. Flower Necklace
+3. Flower Ring
+
+[TODO: make sure we covered all of them]
+
+## Quiz over
+
+Momo: Yatta~!
+
+Momo: All right, you promised! Tell us where to find Dark Lord Cabbage.
+
+Pumpkin: Yes, yes, let me hand you a map.
+
+Pumpkin: I'll have Petite Pumpkin bring it.
+
+Judy: We did it!
+
+P.Pumpkin: Hallo-hallo-hallo- P U M P K I N!
+
+P.Pumpkin: Oh-pe-kepe-pon, pe-poPOONNNN!!
+
+Momo: What the?!
+
+[Supposed to be the big one? little one? hard to tell]
+
+P.Pumpkin: Kera-kera-keheheheh! Caughtcha! Caughtcha!
+
+P.Pumpkin: GA-GA-GOTCHA, PIG-BUTTS!
+
+Momo: It's a trap!
+
+P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
+
+## Picture Books
+
+Momo: Huh! What is this?
+
+Clock: It would appear that somehow, we have been dropped into the middle of a picture book...
+
+Earb: Who... Who's over there-mon!?
+
+A long time ago, in a far-off land, there was an astonishingly beautiful princess by the name of Snow White. This princess was so beautiful that every day she was caught up in doing just as she pleased.
+
+Snow White: Ohhh-ho-ho-ho-ho! What are you, deaf? Didn't you hear what I told you?
+
+Even Prince White, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she went on thinking only of herself and doing as she pleased.
+
+Momo: What the... was Snow White really this kind of story?
+
+Judy: No way! Prince White 
