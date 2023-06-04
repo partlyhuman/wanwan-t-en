@@ -836,7 +836,7 @@ Momo: How could anyone bully such a sweet bear?
 
 Earb: I, I dunno-mon.
 
-Earb: I was just playing at home when the Dark Lord Cabbage and his Cyukemon came...
+Earb: I was just playing at home when the Dark Lord Cabbage and his Cukemen came...
 
 Earb: *sniffle* My ear... they... tore it up-mon...
 
@@ -1641,7 +1641,7 @@ Judy: I'm not joking! Just now, in the forest! Something is in there!
 
 Unit 01: She's right! Something's there-waaak!
 
-Clock: Urk! You are correct, something is there!
+Clock: Urk! You are correct, there is something!
 
 Barley: *grr*
 
@@ -1726,7 +1726,7 @@ What's the name of "my seal computer" Momo-chan is playing on?
 What is the name of this game?
 
 1. "Woof woof" love story
-2. "Screeeeeech!" love story
+2. "Yap yap" love story
 3. "Meow meow" love story
 
 What's the name of Momo's doggie?
@@ -1791,18 +1791,70 @@ P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in th
 
 ## Picture Books
 
-Momo: Huh! What is this?
+Momo: Huh!? Where are we?
 
 Clock: It would appear that somehow, we have been dropped into the middle of a picture book...
 
 Earb: Who... Who's over there-mon!?
 
-A long time ago, in a far-off land, there was an astonishingly beautiful princess by the name of Snow White. This princess was so beautiful that every day she was caught up in doing just as she pleased.
+A long time ago, in a far-off land, there was an astonishingly beautiful princess by the name of Snow White. This princess was so beautiful that each day, she would get carried away and do just as she pleased.
 
-Snow White: Ohhh-ho-ho-ho-ho! What are you, deaf? Didn't you hear what I told you?
+Snow White: [To the narrator] Ohhh-ho-ho-ho-ho! Can't you hear what I'm saying? Are you deaf?
 
-Even Prince White, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she went on thinking only of herself and doing as she pleased.
+Even Prince Whitehorse, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she carried on with her arrogant and selfish ways.
 
 Momo: What the... was Snow White really this kind of story?
 
-Judy: No way! Prince White 
+Judy: No way! Pumpkin kidnapped Prince Whitehorse so he could make this messed-up version of the story!
+
+Snow White's selfishness got worse as the days went by, until one day, the Queen expelled her from the castle.
+
+Queen: For your extreme selfishness, I hereby banish you to the hill in the forest!
+
+Queen: Until you have a change of heart, and become a kind and good child, you may never leave this forest!
+
+Snow White: Uwaaaaaagh!!
+
+The now-banished Snow White was carried out by the kingdom's soldiers and deserted in the middle of the forest. Boy.
+
+Snow White: [To the narrator] SHIT! And what am I supposed do in this godforsaken place, anyway?
+
+Snow White exploded in anger at the trees surrounding her.
+
+Momo: Snow White would never take out her anger on trees!
+
+Eventually, Snow White ran out of steam, and her anger gave way to hunger. She slowly began looking about the forest for something to eat.
+
+Just then, Snow White heard the sound of song emerging from the hill in the forest. The singing voices belonged to none other than the Seven Dwarves.
+
+Momo: Okay, now this is starting to sound like the Snow White I know!
+
+When Snow White heard the voices singing, she hiked up her skirt and took off, legs akimbo, in a somewhat unladylike manner.
+
+She ran, and when she saw a house, from which she could hear the sounds of song emerge, she only increased her velocity, and barreled inside.
+
+Snow White: HELLOOO! How are y'all doin??!
+
+Dwarf: Huh?
+
+The Seven Dwarves, who were working inside that little house when Snow White appeared out of nowhere, stared at her with blank faces of shock.
+
+Snow White: Who here wants to be Snow White's personal assistants? That's right, I'm talking about this ravishing princess right here!
+
+The Seven Dwarves, despite their initial shock, saw that she was indeed gorgeous, and were soon head over heels.
+
+Snow White: Ho-ho-ho! Well then, you can start by digging up some precious jewels for me!
+
+Dwarf: Yes, Princess Snow White!
+
+Momo: W- wait a minute. Snow White isn't like, a Karen!
+
+Judy: It sounds nice, though, to be so beautiful everyone falls madly in love with you...
+
+Snow White: Ohohohohoho!!! Y'all are my slaves!
+
+The Seven Dwarves were miners whose job was to excavate precious gems from the mountain. By enslaving them, Snow White became filthy rich in the blink of an eye.
+
+
+
+
