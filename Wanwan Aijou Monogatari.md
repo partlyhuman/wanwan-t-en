@@ -1789,7 +1789,7 @@ Momo: It's a trap!
 
 P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
 
-## Picture Books
+## Snow White
 
 Momo: Huh!? Where are we?
 
@@ -1801,11 +1801,11 @@ A long time ago, in a far-off land, there was an astonishingly beautiful princes
 
 Snow White: [To the narrator] Ohhh-ho-ho-ho-ho! Can't you hear what I'm saying? Are you deaf?
 
-Even Prince Whitehorse, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she carried on with her arrogant and selfish ways.
+Even the Prince on the White Horse, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she carried on with her arrogant and selfish ways.
 
 Momo: What the... was Snow White really this kind of story?
 
-Judy: No way! Pumpkin kidnapped Prince Whitehorse so he could make this messed-up version of the story!
+Judy: No way! Pumpkin kidnapped the Prince so he could make this messed-up version of the story!
 
 Snow White's selfishness got worse as the days went by, until one day, the Queen expelled her from the castle.
 
@@ -1847,14 +1847,110 @@ Snow White: Ho-ho-ho! Well then, you can start by digging up some precious jewel
 
 Dwarf: Yes, Princess Snow White!
 
-Momo: W- wait a minute. Snow White isn't like, a Karen!
+Momo: W- wait a minute. Snow White isn't some kind of Karen!
 
-Judy: It sounds nice, though, to be so beautiful everyone falls madly in love with you...
+Judy: But wouldn't it be nice, to be so beautiful everyone falls madly in love with you...
 
 Snow White: Ohohohohoho!!! Y'all are my slaves!
 
 The Seven Dwarves were miners whose job was to excavate precious gems from the mountain. By enslaving them, Snow White became filthy rich in the blink of an eye.
 
+Snow White: Heh heh heh heh heh. I have nothing to be afraid of! I'll defeat the Queen and the whole country will be mine! Ohhhh ho ho ho ho ho ho hoh!
 
+Momo: ...what in the...
 
+Judy: Truly, the kind of villain who will be totally destroyed by the side of justice.
 
+The Queen was surprised to hear that the Snow White she once banished was on the path to becoming an evil queen. "I must do something," she thought, and a good idea occurred to her.
+
+The next day, disguised as an old hag, the Queen set out for the forest.
+
+Queen: I come bearing a gift for the beautiful Snow White.
+
+Snow White: Hohoho. A present for me?
+
+Queen: Indeed, I bequeath you this remarkable apple, good for your physical beauty and constitution.
+
+Snow White: What? Are you saying it can make me even MORE beautiful?
+
+Queen: Indeed. This apple you hold in your hand can foster such beauty as will turn the very heads of angels in heaven.
+
+Snow White: And what do you call this apple?
+
+Queen: Indeed, it is known as the Heaven Offensive apple.
+
+Snow White: You don't say? Well, I thank you!
+
+Queen: Hahaaa...
+
+The Queen's offensive had cunningly trapped Snow White. If you ate the apple the Queen gave Snow White, I don't know if you'd become any more beautiful, but you would certainly be seeing angels, for it was a poison apple. Without hesitation, Snow White took a huge bite of the apple. The poison hit her and before she could take another bite, Snow White was dead.
+
+And thus it was that the evil princess Snow White went to heaven. And everyone else lived happily ever after.
+
+Judy: Huh, the last part did kinda seem like Snow White, but...
+
+Momo: NONE of that was ANYTHING like Snow White! Couldn't it at least have had a happy ending? And the prince never even showed up!
+
+Unit 01: Besides, how are we supposed to get out from this picture book?
+
+Clock: Naturally, by reading it through to the end, no doubt. Therefore, I thought that turning to the final page would release us, but it would not seem to be the case.
+
+Unit 01: What if, like a real fairy tale, we have to give Snow White a happy ending?
+
+Clock: That must be it! So, even if by our hand, the tale concludes with a true happy ending, we will be able to leave?
+
+Momo: That's right, that has to be right!
+
+Momo: Ah, but, Snow White's ending...
+
+Judy: The Prince wakes up Snow White with a kiss!
+
+Unit 01: But the Prince was nowhere to be found-wak...
+
+Momo: What to do...
+
+Judy: Momo-chan, this is for all of us! Think hard!
+
+Momo: Eeeeh!! W- wait, what the?!
+
+The Seven Dwarves, wailing with sadness, surrounded Snow White's body with flowers. As they did so, the up-until-now nowhere-to-be-found prince, appeared on a tricycle with two dogs, a bear and a doll.
+
+Momo: But I'm not a boyyy!
+
+Judy: There, there, it's okay...
+
+The Seven Dwarves turned to the Prince, and through their tears, informed him that he was one step behind, and Snow White is now deceased.
+
+Glancing mournfully at their faces, the Prince entered the Dwarves' house. He sat at the bed where Snow White lay with a tranquil face, softly drew near to her cold but full lips, and lightly...
+
+Momo: Eeeeh! What's this?! No way... No way!!
+
+Judy: C'mon, Momo-chan, do it! Do it!
+
+Momo: Just wait a second! I'm too young for this!
+
+Judy: There, there, it's okay...
+
+Momo: Wahhhhh! My first kiss is going to be with a girl? Nooo....
+
+The Prince lightly kissed Snow White's lips.
+
+Momo: Happening...
+
+Snow White: Yeeeesss, girllll!
+
+Momo: too... fast...
+
+Thanks to the appearance of a gentle Prince on his White Horse, Snow White's evil ambitions disappeared, and the two of them lived a happy life together in the forest.
+
+And they all lived happily ever after.
+
+Unit 01: We're... still in the book-wak.
+
+Momo: *sniff*...
+
+Clock: Well, now, there was no avoiding that place...
+
+Momo: I'm trying to keep it together...
+
+## Story 2
