@@ -1789,7 +1789,7 @@ Momo: It's a trap!
 
 P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
 
-## Snow White
+## Picture Book
 
 Momo: Huh!? Where are we?
 
@@ -1799,69 +1799,69 @@ Earb: Who... Who's over there-mon!?
 
 A long time ago, in a far-off land, there was an astonishingly beautiful princess by the name of Snow White. This princess was so beautiful that each day, she would get carried away and do just as she pleased.
 
-Snow White: [To the narrator] Ohhh-ho-ho-ho-ho! Can't you hear what I'm saying? Are you deaf?
+Snow White: Ohhh-ho-ho-ho-ho! Are you saying that you're not listening to what I'm saying?
 
-Even the Prince on the White Horse, despite being betrothed to Snow White, was so intimidated by her beauty that he gave no indication of a proposal. Snow White was bored by this, and a little annoyed, and so she carried on with her arrogant and selfish ways.
+Even the Prince on the White Horse, despite his betrothal to Snow White, was so thoroughly intimidated by her beauty that he gave not the slightest indication of proposing. Snow White was bored by this, and a little annoyed. And so, haughty from dawn 'til dusk, she indulged her every selfish desire.
 
 Momo: What the... was Snow White really this kind of story?
 
-Judy: No way! Pumpkin kidnapped the Prince so he could make this messed-up version of the story!
+Judy: No way! Pumpkin kidnapped the Prince so he could make this mega-messed-up version of the story!
 
 Snow White's selfishness got worse as the days went by, until one day, the Queen expelled her from the castle.
 
-Queen: For your extreme selfishness, I hereby banish you to the hill in the forest!
+Queen: For your intolerable selfishness, I hereby banish you to the hill in the forest!
 
-Queen: Until you have a change of heart, and become a kind and good child, you may never leave this forest!
+Queen: Until you can change your heart, and become a kind and good child, you may never leave this forest!
 
 Snow White: Uwaaaaaagh!!
 
-The now-banished Snow White was carried out by the kingdom's soldiers and deserted in the middle of the forest. Boy.
+The now-banished Snow White was carried out by the kingdom's soldiers and deserted in the middle of the forest. Chucked.
 
-Snow White: [To the narrator] SHIT! And what am I supposed do in this godforsaken place, anyway?
+Snow White: ShhhHHiiiiiIIIit! What am I supposed do in this godforsaken place, anyway?
 
-Snow White exploded in anger at the trees surrounding her.
+Snow White exploded in anger, over and over again, at the trees all around her.
 
-Momo: Snow White would never take out her anger on trees!
+Momo: Snow White would never take out her aggresion on trees!
 
-Eventually, Snow White ran out of steam, and her anger gave way to hunger. She slowly began looking about the forest for something to eat.
+Before long, Snow White ran out of steam, and her anger gave way to hunger. She slowly began looking about the forest for something to eat.
 
 Just then, Snow White heard the sound of song emerging from the hill in the forest. The singing voices belonged to none other than the Seven Dwarves.
 
 Momo: Okay, now this is starting to sound like the Snow White I know!
 
-When Snow White heard the voices singing, she hiked up her skirt and took off, legs akimbo, in a somewhat unladylike manner.
+When Snow White heard the voices singing, she hiked up the hem of her skirt and took off, legs akimbo, in a somewhat unladylike manner.
 
-She ran, and when she saw a house, from which she could hear the sounds of song emerge, she only increased her velocity, and barreled inside.
+She ran, and when she neared that house, from which the sounds of song could be heard, Snow White only increased her speed, and barreled inside.
 
 Snow White: HELLOOO! How are y'all doin??!
 
 Dwarf: Huh?
 
-The Seven Dwarves, who were working inside that little house when Snow White appeared out of nowhere, stared at her with blank faces of shock.
+The Seven Dwarves were doing their work inside that little house. When Snow White suddenly appeared, they stared at her with faces blank from shock.
 
-Snow White: Who here wants to be Snow White's personal assistants? That's right, I'm talking about this ravishing princess right here!
+Snow White: All y'all want to get in my good graces, mmhmm? You heard that right, the ravishing princess you see before you, ME!
 
-The Seven Dwarves, despite their initial shock, saw that she was indeed gorgeous, and were soon head over heels.
+The Seven Dwarves, despite their initial shock, saw that she was indeed gorgeous, and were soon head over heels for her.
 
-Snow White: Ho-ho-ho! Well then, you can start by digging up some precious jewels for me!
+Snow White: Ho-ho-ho! Well then, you can start by digging up some precious jewels for ME!
 
 Dwarf: Yes, Princess Snow White!
 
-Momo: W- wait a minute. Snow White isn't some kind of Karen!
+Momo: W- wait a minute. In this, Snow White is just some mega-bitch?
 
 Judy: But wouldn't it be nice, to be so beautiful everyone falls madly in love with you...
 
-Snow White: Ohohohohoho!!! Y'all are my slaves!
+Snow White: Ohohohohoho!!! Y'all are my SLAVES!
 
-The Seven Dwarves were miners whose job was to excavate precious gems from the mountain. By enslaving them, Snow White became filthy rich in the blink of an eye.
+The Seven Dwarves were miners whose job was to excavate precious gems from the mountain. Snow White, by enslaving them, became filthy rich in the blink of an eye.
 
-Snow White: Heh heh heh heh heh. I have nothing to be afraid of! I'll defeat the Queen and the whole country will be mine! Ohhhh ho ho ho ho ho ho hoh!
+Snow White: Heh heh heh heh heh. There's nothing for me to be afraid of! I'll defeat the Queen and the whole country will be mine! Ohhhh ho ho ho ho ho ho hoh!
 
 Momo: ...what in the...
 
 Judy: Truly, the kind of villain who will be totally destroyed by the side of justice.
 
-The Queen was surprised to hear that the Snow White she once banished was on the path to becoming an evil queen. "I must do something," she thought, and a good idea occurred to her.
+The Queen, learning that the Snow White she once banished was well on her way to an evil queen, was thoroughly shocked. "I must do something about this," she thought, and a plan began to take shape.
 
 The next day, disguised as an old hag, the Queen set out for the forest.
 
@@ -1869,23 +1869,23 @@ Queen: I come bearing a gift for the beautiful Snow White.
 
 Snow White: Hohoho. A present for me?
 
-Queen: Indeed, I bequeath you this remarkable apple, good for your physical beauty and constitution.
+Queen: Just so, I bring you this enchanted apple. Very good for your figure, very good for losing weight.
 
-Snow White: What? Are you saying it can make me even MORE beautiful?
+Snow White: What? So, you're saying it can make me even MORE beautiful?
 
-Queen: Indeed. This apple you hold in your hand can foster such beauty as will turn the very heads of angels in heaven.
+Queen: Just so. Such beauty that would turn the heads of the very angels in heaven! That is what the apple that you hold in your hand can give you.
 
 Snow White: And what do you call this apple?
 
-Queen: Indeed, it is known as the Heaven Offensive apple.
+Queen: Just so, it is known as the "Operation Paradise" apple.
 
 Snow White: You don't say? Well, I thank you!
 
 Queen: Hahaaa...
 
-The Queen's offensive had cunningly trapped Snow White. If you ate the apple the Queen gave Snow White, I don't know if you'd become any more beautiful, but you would certainly be seeing angels, for it was a poison apple. Without hesitation, Snow White took a huge bite of the apple. The poison hit her and before she could take another bite, Snow White was dead.
+The enemy's operation had cunningly ensnared Snow White. If you ate it this apple, I don't know about becoming beautiful, but the angels in heaven would in fact turn towards you, for it was a poison apple! Without hesitation, Snow White took a huge bite of the apple. The poison hit her and before she could take another bite, Snow White was dead.
 
-And thus it was that the evil princess Snow White went to heaven. And everyone else lived happily ever after.
+And thus it was that the evil princess Snow White went to heaven... And everyone else lived happily ever after.
 
 Judy: Huh, the last part did kinda seem like Snow White, but...
 
@@ -1893,7 +1893,7 @@ Momo: NONE of that was ANYTHING like Snow White! Couldn't it at least have had a
 
 Unit 01: Besides, how are we supposed to get out from this picture book?
 
-Clock: Naturally, by reading it through to the end, no doubt. Therefore, I thought that turning to the final page would release us, but it would not seem to be the case.
+Clock: Logically, by reading it through to the end, no doubt. Therefore, I had thought that turning to the final page would release us, but it would not seem to be the case.
 
 Unit 01: What if, like a real fairy tale, we have to give Snow White a happy ending?
 
@@ -1909,7 +1909,7 @@ Unit 01: But the Prince was nowhere to be found-wak...
 
 Momo: What to do...
 
-Judy: Momo-chan, this is for all of us! Think hard!
+Judy: Momo-chan, this is for all of us! You're going to have to shed your own skin.
 
 Momo: Eeeeh!! W- wait, what the?!
 
