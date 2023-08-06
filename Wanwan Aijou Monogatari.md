@@ -1789,7 +1789,7 @@ Momo: It's a trap!
 
 P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
 
-## Picture Book
+## Snow White
 
 Momo: Huh!? Where are we?
 
@@ -1861,7 +1861,7 @@ Momo: ...what in the...
 
 Judy: Truly, the kind of villain who will be totally destroyed by the side of justice.
 
-The Queen, learning that the Snow White she once banished was well on her way to an evil queen, was thoroughly shocked. "I must do something about this," she thought, and a plan began to take shape.
+The Queen, learning that the Snow White she once banished was well on her way to becoming an evil queen, was thoroughly shocked. "I must do something about this," she thought, and a plan began to take shape.
 
 The next day, disguised as an old hag, the Queen set out for the forest.
 
@@ -1927,15 +1927,15 @@ Momo: Eeeeh! What's this?! No way... No way!!
 
 Judy: C'mon, Momo-chan, do it! Do it!
 
-Momo: Just wait a second! I'm too young for this!
+Momo: Just wait a second! I'm a GIRL!
 
 Judy: There, there, it's okay...
 
-Momo: Wahhhhh! My first kiss is going to be with a girl? Nooo....
+Momo: Wahhhhh! My first kiss is going to be with a GIRL? Nooo....
 
 The Prince lightly kissed Snow White's lips.
 
-Momo: Happening...
+Momo: It's... all...
 
 Snow White: Yeeeesss, girllll!
 
@@ -1953,4 +1953,183 @@ Clock: Well, now, there was no avoiding that place...
 
 Momo: I'm trying to keep it together...
 
-## Story 2
+## Cinderella
+
+Long ago in a faraway land, there lived two cruel sisters, along with a mother yet ten times more unkind.
+
+The only thing that exceeded the cruelty of these three was their pride. Certain, they were, that only they were fit to wed the prince of this kingdom.
+
+Momo: Hey, this book sounds like Cinderella, but... there's no Cinderella?
+
+Judy: This has got to be Pumpkin's doing!
+
+Soon, a ball was to be held at the castle, where it was announced that the prince would choose his princess.
+
+The three, hearing this, could only scream in delight. Straightaway they began channeling their fortune into playing dress-up.
+
+Dresses of silk, adornments of peacock feathers, and so on, and so on, they ordered the rarest finery from every corner of the globe to dress up in.
+
+On the night of the ball, the sisters and mother put on the dresses they had made for this day and headed to the castle. Their entrance at the ball, naturally, was eye-turning. Nevertheless, the three failed to win the favor of the prince.
+
+Finally, the ball concluded, without the prince having found his perfect match.
+
+Momo: Hold up... what happens now?!
+
+Prince: Already the bell has rung out midnight at this ball... Wasn't the my perfect match going to drop a shoe on the way out?
+
+Just as the prince turned toward the moon, muttering these desolate words, a sound emerged from the direction of the garden.
+
+Prince: Could it be?!
+
+The prince sped off in the direction of the garden.
+
+Momo: Ah! It must be Cinderella. Finally, she made her entrance.
+
+In the castle garden, a handsome servant boy had fallen down, his foot caught in the roots of a tree. Right before the prince's eyes, there was his one foot, missing a shoe.
+
+Prince: No way...
+
+His hands shaking with deep emotion, the prince uttered softly.
+
+Prince: My perfect match, it was you this whole time!
+
+Momo: Happening... again...!
+
+Judy: Waiiit!
+
+And so it was that the prince and his handsome servant boy lived together in happiness.
+
+And so it was that the cruel mother and daughters who lived in town, having spent their entire fortune on dresses, sank into wretched poverty.
+
+Momo: Just hold up! If we end it like that, that's not the romantic, yearning prince at all!
+
+Judy: And what about our honor as girls?!
+
+Momo: Cinderella and Snow White, their princes are supposed to be a girl's dream, an ideal!
+
+Momo: These princes are DESPICABLE!
+
+Judy: So, what are you gonna do about it, Momo-chan?
+
+Momo: Turn back the page! I'll do Cinderella this time!
+
+Long ago in a faraway land, there lived a girl with a kind heart named Cinderella.
+
+The girl's father had died young, and she lived with two cruel stepsisters, along with a stepmother yet ten times more unkind.
+
+The only thing that exceeded the cruelty of these three was their pride. Certain, they were, that only they were fit to wed the prince of this kingdom.
+
+Stepmom: Here, Cinderella, clean our rooms immediately!
+
+Today too, the cruel sisters foisted work on Cinderella. However...
+
+Momo: What am I cleaning their rooms for? It's their room, they should clean it up!
+
+Cinderella was extremely strong, and she stood up to her sisters who were always cruel, and defied their bullying.
+
+Judy: Momo-chan, wasn't Cinderella bullied a lot? Somehow this is different than "Cinderella" too...
+
+Momo: There, there, it's okay... Everything's fine so long as I get a happy ending.
+
+Judy: Oh? Then, maybe you can let Judy do what she likes?
+
+Soon, a ball was to be held at the castle, where it was announced that the prince would choose his princess.
+
+The sisters and mother, hearing this, used every penny of their fortune to make an extravagantly beautiful dress.
+
+But, the dress was not for her.
+
+Momo: What about my dress?
+
+Stepmom: But Cinderella, you have no need for a dress!
+
+Cinderella's stepmother, caked in heavy makeup and squeezed into the dress, violently reprimanded her.
+
+Momo: Isn't it this exact kind of mother who doesn't deserve a dress?! Are you forgetting your age? Won't they say you're kidnapping the young prince?
+
+Stepmom: BANG!
+
+Having been so completely roasted, the stepmother broke out in a cold sweat. 
+
+Momo: Hey lady, you look like a ghost with all that makeup on. Hey Ms. Ghost, you really think the prince is gonna fall for a ghost?
+
+Momo: Yo, have you even seen your face in a mirror?
+
+The stepmother made a face like a toad.
+
+Stepmom: That... you...
+
+Momo: Gimme that dress!
+
+Momo: I'm confident I can win the prince's heart, at least more than you!
+
+Stepmom: Shut up! Shut up shut up shut up!
+
+Stepmom: Cinderella, I forbid you to attend the ball! It's settled, it's a matter of law!
+
+Momo: What law?!
+
+Cinderella and her stepmother began to spar, and at that moment, a door opened and a cute little fairy appeared.
+
+Momo: Judy!
+
+Judy: Eheheh. Judy wanted to come play in the story too.
+
+Laughing haughtily, the fairy snapped her finger toward Cinderella!
+
+Judy: Ohhhh ho ho ho ho ho! Cinderella, quit this ugly behavior.
+
+Momo: Wh- what? Ugly?
+
+Judy: Well...
+
+Stepmom: Yeah. Yeah! You're ugly!
+
+The two stepsisters and stepmother, agreeing with the suddenly-appeared fairy, said nothing to contradict her.
+
+But, with a grimace, the fairy turned to face the three women and said:
+
+Judy: But you, you are even more ugly. You're the embodiment of ugliness.
+
+Sis: Gurk!!
+
+Judy: Cinderella, instead of that cheap-looking thing, let me use my magic to present you with a brand-new dress. Wear it, and you'll win the prince's heart for sure!
+
+Momo: Okay! Who will steal the prince's heart? It's on!
+
+Stepmom: Big words from a low-class girl! I'll accept your challenge!
+
+And so, the castle's ballroom is set as the venue where the princess shall be chosen, the ring of the showdown between Cinderella and her stepmother.
+
+On the night of the ball, the sisters and mother put on the dresses they had made for this day and headed to the castle. Their entrance at the ball, naturally, was eye-turning.
+
+Stepmother: Ho ho ho ho ho ho! Young Cinderella, don't you realize it's my mature sex appeal that will win?
+
+Nevertheless, the three failed to win the favor of the prince.
+
+Stepmother: Whaaaaat!?
+
+Indeed, Cinderella made even more of an eye-turning entrance. Cinderella took up the central balcony at the heart of the ballroom and the whole ballroom went stark raving mad over her.
+
+The prince's heart was taken away by this radiant figure of Cinderella. He approached and gave Cinderella his proposal.
+
+Prince: You are my star, my moon, my sun. The world itself would become dark if you were not in it! Therefore, I beg you, please marry me.
+
+Momo: You know, is there any special need to lose my shoe and run away here?
+
+Judy: I don't see any particular reason to, no!
+
+Momo: Well, I guess I can give you my answer then!
+
+At the prince's confession of love, Cinderella, cheeks blushing red, nodded.
+
+Momo: "Yes."
+
+At the castle, a magnificent show of fireworks was launched to celebrate the prince choosing his princess. Without skipping a beat, the ball rolled into a great celebration. 
+
+And they all lived happily ever after.
+
+Judy: Although the scene where she loses her shoe at midnight is missing... Kinda doesn't feel like Cinderella, does it?
+
+Momo: It'll do for now! We didn't have a choice, anyway.
+
