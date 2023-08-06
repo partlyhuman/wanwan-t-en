@@ -689,7 +689,7 @@ Shall we go over the rules?
 * 👉Yes! explain
 * I know, I'm good
 
-Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules arEarb: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
+Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules are: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
 
 *Example plays out*
 
@@ -701,7 +701,7 @@ Think carefully before you answer, Momo-chan.
 
 # Cucumber Cuiz
 
-[Not only are the questions randomized, but the order of the answers is randomized. Use the kana provided to visually match up the right question and answer.]
+[Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer.]
 
 [You have to get 3 correct to move on. Any errors and you'll have to start from the beginning.]
 
@@ -872,7 +872,6 @@ Momo: I can... I can meet my grandpa again!!
 
 Momo: Earb, how do we get to that forest where grandpa is living?
 
-[小一山]
 Earb: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
 
 Clock: But... crossing Mt. Elementary........ that's impossible!
@@ -986,13 +985,11 @@ Unit 01: It's all right, Momo-chan. Thank you for saving me!
 
 Bonbon: Damn! Damn! No fair borrowing Prince Pup's powers, that's cheating!
 
-Momo: Barley one of us, there's nothing "unfair" about it! He's our friend!
+Momo: Barley is one of us, there's nothing "unfair" about it! He's our friend!
 
 Bonbon: You're friends with a dog? That's messed up-bon. Help me out here, bro.
 
-Bonbon: Sure, bro. That Prince Wan is nothing but a sad, pathetic mutt-bon.
-
-[Ouyo. Wan-kou wa shimobe[boku]-da, iyashii[vulgur] aware[pity] na inu-kkoro da]
+Bonbon: Sure, bro. Prince Wan? More like a servant. A pathetic stray mutt-bon.
 
 Earb: That's h-horrible...
 
@@ -1345,7 +1342,7 @@ Gunbot: Gun-chan bestowed on me the honor of the highest regard among all of his
 
 Momo: Gun-chan...? Umm.... Umm....
 
-Gunbot: When you were going to move from your first house, Gun-chan gave me to you, his close friend, to remember him by... Since then, I've thought of you as my second commander, always...
+Gunbot: When you were moving away, Gun-chan gave me to you, his close friend, to remember him by... Since then, I've thought of you as my second commander, always...
 
 Gunbot: Goodbye, Momo-chan...!!
 
@@ -1461,7 +1458,7 @@ Barley: *wan wan!*
 
 Gramps: Ahh? So it's Barley?
 
-Gramps: Look, I've got some cheese, do you like it?
+Gramps: Look, I've got some cheese, do you want it?
 
 Gramps: Haha! Is that good? Huh? One more? All right, all right.
 
@@ -1617,7 +1614,7 @@ Gramps: Well, take good care, everyone. Good luck!
 
 Momo: Okay! Here we gooooo!
 
-Gramps: ...Please take care... Momo...
+Gramps: ...Please be careful... Momo...
 
 ## Picture-Book Forest
 
@@ -1680,24 +1677,41 @@ Shall we explain how to play?
 
 Momo-chan. You'll answer this quiz just like you did with Cukeman's quiz. Good luck, Momo-chan.
 
-[TODO: these ARE presented in random order so write out the japanese later]
+[Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer.]
 
 Momo: Got it! Ok, let's begin!
 
 Pumpkin: Yeah yeah YEAAAAH!
 
+[Unused?] Before facing the Lemons, how many people went inside the Magic Backpack?
 
-Gunbot's first commander was Momo's childhood friend, a boy named:
+1. 2人
+2. 4人
+3. 6人
 
-1. Gen-chan
-2. Gon-chan
-3. Gun-chan
+[Unused?] In the Potato Bonbon's potato field, who saved Momo and her friends?
 
-Momo-chan's oldest toy, Judy. What color is her hair?
+1. オオアリクイ [an anteater]
+2. ミミズ [a worm]
+3. モグラ [a mole]
 
-1. Yellow
-2. White
-3. Black
+[Unused?] At Momo's house, Barley learned "sit" and what else?
+
+1.「チンチン」["Beg"]
+2.「おまわり」 ["Spin"]
+3.「とってこい」 ["Fetch"]
+
+While flying over Mt. Elementary, how many people were riding Momo-01?
+
+1. 6人
+2. 2人
+3. 4人
+
+The tricycle Momo-01. What is its special skill?
+
+1. 地面にもぐれる [Digging through the earth]
+2. 海にもぐれる [Diving through the water]
+3. 空を飛べる [Flying through the air]
 
 What number is written on the alarm clock, Mr. Clock's, face?
 
@@ -1705,61 +1719,60 @@ What number is written on the alarm clock, Mr. Clock's, face?
 2. 10
 3. 12
 
-The tricycle Momo-01. What is its special skill?
+Momo-chan's first toy, Judy. What color is her hair?
 
-1. Flying through the air
-2. Digging through the earth
-3. Diving through the water
+1. 白 [White]
+2. 黒 [Black]
+3. 黄色 [Yellow]
 
-While flying over Mt. Elementary, how many people were riding Momo-01?
+Gunbot's first commander was Momo's childhood friend, a boy named:
 
-1. 4
-2. 6
-3. 2
-
-What's the name of "my seal computer" Momo-chan is playing on?
-
-1. Friendly Memo
-2. Pet World
-3. Loopy
-
-What is the name of this game?
-
-1. "Woof woof" love story
-2. "Yap yap" love story
-3. "Meow meow" love story
-
-What's the name of Momo's doggie?
-
-1. Gunbot
-2. Yikes
-3. Barley
-
-How many Cukemen were at the "super tall tree"?
-
-1. 3
-2. 5
-3. 7
-
-The veggies who said "-Bon!" at the end of every sentence, who Momo-chan defeated with a kick, what were they called?
-
-1. Potato Bomb-bombs
-2. Potato Salad
-3. Potato Bonbons
-
-Who were the sour lemon sisters who made their debut on a hill?
-
-1. Papaya Mangoes
-2. Miracle Lemons
-3. Tomato Kids
+1. ゲンちゃん [Gen-chan]
+2. ゴンちゃん [Gon-chan]
+3. ガンちゃん [Gun-chan]
 
 What do you call the accessory Momo-chan received from her Papa long ago?
 
-1. Flower Bracelet
-2. Flower Necklace
-3. Flower Ring
+1. フラワーネックレス [Flower Necklace]
+2. フラワーリング [Flower Ring]
+3. フラワーブレス [Flower Bracelet]
 
-[TODO: make sure we covered all of them]
+Who were the sour lemon sisters who made their debut on a hill?
+
+1. パパイヤ・マンゴ [Papaya Mangoes]
+2. ミラクル・レモンズ [Miracle Lemons]
+3. トマト・キッド [Tomato Kids]
+
+The veggies who said "-Bon!" at the end of every sentence, who Momo-chan defeated with a kick, what were they called?
+
+1. ポテト・ボムボム [Potato Bomb-bombs]
+2. ポテト・サラダ [Potato Salad]
+3. ポテト・ボンボン [Potato Bonbons]
+
+How many Cukemen were at the "super tall tree"?
+
+1. 3人
+2. 5人
+3. 7人
+
+What's the name of "my seal computer" Momo-chan is playing on?
+
+1. フレンドリーメモ [Friendly Memo]
+2. ペットワールド [Pet World]
+3. ルーピー [Loopy]
+
+What is the name of this game?
+
+1. にゃんにゃん愛情物語 ["Nyan nyan" love story]
+2. きゃんきゃん愛情物語 ["Kyan kyan" love story]
+3. わんわん愛情物語 ["Wan wan" love story]
+
+What's the name of Momo's doggie?
+
+1. ガンボット [Gunbot]
+2. ムク [Yikes!]
+3. Barley
+
 
 ## Quiz over
 
@@ -1973,7 +1986,7 @@ Finally, the ball concluded, without the prince having found his perfect match.
 
 Momo: Hold up... what happens now?!
 
-Prince: Already the bell has rung out midnight at this ball... Wasn't the my perfect match going to drop a shoe on the way out?
+Prince: Already the bell has rung out midnight at this ball... Wasn't my perfect match going to drop a shoe on the way out?
 
 Just as the prince turned toward the moon, muttering these desolate words, a sound emerged from the direction of the garden.
 
@@ -2029,13 +2042,13 @@ Judy: Momo-chan, wasn't Cinderella bullied a lot? Somehow this is different than
 
 Momo: There, there, it's okay... Everything's fine so long as I get a happy ending.
 
-Judy: Oh? Then, maybe you can let Judy do what she likes?
+Judy: Oh? Then, maybe you can let Judy do as she likes?
 
 Soon, a ball was to be held at the castle, where it was announced that the prince would choose his princess.
 
 The sisters and mother, hearing this, used every penny of their fortune to make an extravagantly beautiful dress.
 
-But, the dress was not for her.
+But, the dress was not for Cinderella.
 
 Momo: What about my dress?
 
@@ -2101,7 +2114,7 @@ And so, the castle's ballroom is set as the venue where the princess shall be ch
 
 On the night of the ball, the sisters and mother put on the dresses they had made for this day and headed to the castle. Their entrance at the ball, naturally, was eye-turning.
 
-Stepmother: Ho ho ho ho ho ho! Young Cinderella, don't you realize it's my mature sex appeal that will win?
+Stepmother: Ho ho ho ho ho ho! My naive young Cinderella, don't you realize it's my mature sex appeal that will win?
 
 Nevertheless, the three failed to win the favor of the prince.
 
@@ -2149,9 +2162,9 @@ An old lady also lived alone in the forest. The old woman fell ill, but there wa
 
 Momo: Uhhh... WHAT?!
 
-And nobody lived happily ever after.
+And they lived happily ever after.
 
-Momo: What exactly is happy about that?!
+Momo: Who did?! What part of that is happy?!
 
 Captain: Momo-chan, seems like you need to become Little Red Riding Hood first.
 
@@ -2201,7 +2214,9 @@ Red Riding Hood's words, so suddenly hitting the nail on the head, turned the wo
 
 Wolf: That's b- because I caught a cold...
 
-Momo: Uh-huh. Oh!
+Momo: Uh-huh.
+
+Momo: Oh!
 
 Momo: Granny, your ears, they're huge and pointy, just like a wolf's!
 
@@ -2217,7 +2232,9 @@ Wolf: S-... Uh, sometimes they do!
 
 Wolf: Uh, l- like, you know, l- like, a sp-.. a spon- a spontaneous mutation. Yeah... yeah!
 
-Momo: Ohhhh, is that right. Oh!
+Momo: Ohhhh, is that right.
+
+Momo: Oh!
 
 Momo: Granny, your mouth, it's huge, like a wolf's!
 
@@ -2245,7 +2262,7 @@ At that, the wolf thought he saw his chance. Taking advantage of Red Riding Hood
 
 Wolf: Waaaah! I give up, I give upppp!
 
-Momo: Yes!!!
+Momo: Yatta!!!
 
 Little Red Riding Hood helped out her grandmother from inside the little shed. She handed over the wolf to an old hunter who was passing by the cottage, and brought peace to the forest for once and for all.
 
