@@ -1779,15 +1779,13 @@ P.Pumpkin: Oh-pe-kepe-pon, pe-poPOONNNN!!
 
 Momo: What the?!
 
-[Supposed to be the big one? little one? hard to tell]
-
 P.Pumpkin: Kera-kera-keheheheh! Caughtcha! Caughtcha!
 
 P.Pumpkin: GA-GA-GOTCHA, PIG-BUTTS!
 
 Momo: It's a trap!
 
-P.Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
+Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
 
 ## Snow White
 
@@ -2049,7 +2047,7 @@ Momo: Isn't it this exact kind of mother who doesn't deserve a dress?! Are you f
 
 Stepmom: BANG!
 
-Having been so completely roasted, the stepmother broke out in a cold sweat. 
+Hitting the nail on the head, and having been so completely roasted, the stepmother broke out in a cold sweat. 
 
 Momo: Hey lady, you look like a ghost with all that makeup on. Hey Ms. Ghost, you really think the prince is gonna fall for a ghost?
 
@@ -2133,3 +2131,236 @@ Judy: Although the scene where she loses her shoe at midnight is missing... Kind
 
 Momo: It'll do for now! We didn't have a choice, anyway.
 
+## Little Red Riding Hood
+
+Momo: What's next?
+
+Judy: Okay, if there's a wolf here, you have to think Little Red Riding Hood.
+
+Long ago, in a forest, there lived a wolf. The wolf was always, always hungry, but there was never enough food to go around.
+
+Momo: Let me guess, it's cause of Pumpkin that Red Riding Hood isn't here?
+
+Judy: Yeahhh... Since the main character is missing, it's for sure.
+
+Finally, the wolf got so hungry he died.
+
+An old lady also lived alone in the forest. The old woman fell ill, but there was nobody to come and visit her. So the old lady died too.
+
+Momo: Uhhh... WHAT?!
+
+And nobody lived happily ever after.
+
+Momo: What exactly is happy about that?!
+
+Captain: Momo-chan, seems like you need to become Little Red Riding Hood first.
+
+Momo: Yeah. Turn back the page!
+
+Long ago, there was a girl who was known for her red kerchief as Little Red Riding Hood. Little Red Riding Hood had a grandmother who lived alone in the forest. But the old woman had fallen ill. So, accompanied by a big dog, a tricycle, a little girl, and a stuffed bear, she set off to visit her poor granny.
+
+Judy: Huh? Barley's not here.
+
+Momo: No, he's in the basket. He has to defeat the wolf later on.
+
+Judy: Oh!
+
+In the forest there also lived a wolf, who was always, always hungry. Red Riding Hood's party fascinated his eye, and he devised a plan to eat them up at the first opportunity. So, he went ahead of them and headed towards granny's cottage.
+
+The wolf, arriving at granny's cottage, thought he would eat up grandma first.
+
+Wolf: Hmmm, although, any minute now the much tastier looking Red Riding Hood should be arriving. I'll drop it with granny, and hold onto that hunger just a little longer!
+
+The wolf chucked granny inside the shed, and, posing as her grandma, laid in wait for Red Riding Hood. Before long, Little Red Riding Hood appeared.
+
+Momo: Anyone home?
+
+The wolf, licking his lips, replied.
+
+Wolf: Who's there? *cough cough*
+
+Momo: Granny, it's me! Little Red Riding Hood!
+
+Wolf: Ooohhh, you made it! *cough cough* Well, come in, come in.
+
+Momo: Okaayy!
+
+The wolf, cloaking himself in sheets up to his eyes, waited for his opportunity. But, with her companions keeping watch, there was no chance for him to swoop in.
+
+Momo: Granny, I've come to pay you a visit!
+
+Wolf: Ooohhh, why thank you!
+
+Momo: Oh!
+
+Momo: Granny, your voice, it's become so hoarse, just like a wolf's!
+
+Wolf: Urk!!
+
+Red Riding Hood's words, so suddenly hitting the nail on the head, turned the wolf pale.
+
+Wolf: That's b- because I caught a cold...
+
+Momo: Uh-huh. Oh!
+
+Momo: Granny, your ears, they're huge and pointy, just like a wolf's!
+
+Wolf: Ufkrf-gfhh!?
+
+Red Riding Hood's words, hitting the nail on the head for the second time, made the wolf turn even paler, and he began to tremble.
+
+Wolf: Th- th- th- that's so I can h- hear your voice well...
+
+Momo: That's so weird, I didn't know a human's ears could just... become bigger. Can they?
+
+Wolf: S-... Uh, sometimes they do!
+
+Wolf: Uh, l- like, you know, l- like, a sp-.. a spon- a spontaneous mutation. Yeah... yeah!
+
+Momo: Ohhhh, is that right. Oh!
+
+Momo: Granny, your mouth, it's huge, like a wolf's!
+
+Momo: Looks like it could eat me in a single bite!
+
+Wolf: Ungkrkdhhtfthp!!!
+
+More and more, Red Riding Hood's words turned the wolf completely white as a sheet, and his breath appeared to become faint.
+
+Wolf: T- That's... You...
+
+Momo: So close. For a heinous, evil wolf to deceive and eat up a cute innocent girl.
+
+Wolf: Y- you, have to be careful of that...
+
+Wolf: Cause you... really are... cute...
+
+At the wolf's words, Little Red Riding Hood laughed sweetly and nodded.
+
+Momo: Yes. That's right, granny! I brought along a feast I made for you.
+
+Momo: Look, look.
+
+At that, the wolf thought he saw his chance. Taking advantage of Red Riding Hood's momentary distraction looking inside her basket, the wolf thought he would eat her up. But just as the flap of the basket opened, a small dog flew out. Biting at the wolf's gaping jaw, the puppy defeated the wolf.
+
+Wolf: Waaaah! I give up, I give upppp!
+
+Momo: Yes!!!
+
+Little Red Riding Hood helped out her grandmother from inside the little shed. She handed over the wolf to an old hunter who was passing by the cottage, and brought peace to the forest for once and for all.
+
+And they lived happily ever after.
+
+Momo: Hey, the fog's lifted! Maybe now we can finally get out of this picture book??
+
+Clock: There's no helping it. Momo-chan, what do you think about borrowing the power of your Flower Bracelet?
+
+Judy: That's right! We probably should have realized that a little earlier...
+
+Unit 01: Momo-chan, please!
+
+Momo: Ok. FLOWER BRACELET!
+
+Momo: I wish... we were taken out of this picture book!
+
+Barley: *woof woof woof woof woof woof!*
+
+Captain: *WURF WURF!*
+
+Pumpkin: AIEEEEEEEEEEEEE!
+
+Pumpkin: How did you get out of there!?
+
+Pumpkin: There were still 279 books left!
+
+Pumpkin: You weren't supposed to be able to get out yettt!!
+
+Momo: There'll be no forgiveness for you!
+
+Judy: Captain, do it!
+
+Captain: *grrrr* *WOOF!*
+
+Pumpkin: Ahahahahaha....
+
+Judy: We're raging out! If we find you, I think we'll smash you into a fine powder!
+
+Momo: Okay everyone, ready?
+
+Pumpkin: Zozoooooo~!
+
+Momo: You can't trick us any more! Now return this forest to how you found it!
+
+Pumpkin: I get it! I get itttt! Jeez! *shlorp*
+
+Momo: And there's the matter of the characters you kidnapped from those books.
+
+Pumpkin: About that...
+
+Clock: Return them immediately!
+
+Barley: *grrrrr*
+
+Pumpkin: Eheheh, they're all in a cabbage patch near us!
+
+Momo: After all that, you're trying to trick us again? Looks like this guy hasn't learned his lesson, everyone! Get ready to smash him up!
+
+Captain: *wurf wurf wurf wurf!*
+
+Pumpkin: I'm not lying any more! I swear, I'm tellin ya the truth...
+
+Momo: Fine. Then next you can tell us about the Dark Lord Cabbage's hiding place.
+
+Momo: Where is it?!
+
+Pumpkin: It, it's...
+
+Judy: Spit it out!
+
+Pumpkin: If it gets out that I talked, they'll make me suffer horribly afterward!
+
+Pumpkin: I.. I can't tell you!
+
+Judy: You know...
+
+Judy: You could suffer then... or... you could suffer now... 
+
+Judy: Which-is-it-gonna-be?
+
+Pumpkin: EEeeeeeaaagh, let me gooooo!
+
+Pumpkin: That cabbage patch!!! There's a hint inside that cabbage over there! It's just a hint, forgive meeeeeee!
+
+Judy: INSIDE THE CABBAGE!?
+
+Pumpkin: Made you look, ya dumb pig butts! BYE BYE, BOING!!!!
+
+## Cabbage Patch
+
+Momo: Ahh! Wait!
+
+Judy: What are those...
+
+Unit 01: Cabbages, huh...
+
+Earb: There's something funny about those cabbages-mon.
+
+Earb: It's almost as if there's a leaf in its mouth-mon.
+
+Momo: Something... feels wrong...
+
+Barley: *wan wan!*
+
+Momo: What is it, Barley?
+
+Barley: *wan!*
+
+Captain: He's saying there's something inside that cabbage.
+
+Momo: Could it really be the book's characters like Pumpkin said...?
+
+Earb: Inside the cabbage...?
+
+Clock: At any rate, we had better help it.
+
+Momo: Ah! Barley?
