@@ -47,9 +47,9 @@ Papa: Of course! Well! Your present is in this room. Do you wanna look for it?
 
 Momo: Whaaa?! What could it be?
 
-Puppy: *Kyuun!*
+Puppy: *whimper*
 
-Momo: Eh? EHH?? Just now, was there a *kyuun*??
+Momo: Eh? EHH?? Just now, was there a whimper??
 
 Puppy: *Wan! Wan!*
 
@@ -2352,9 +2352,9 @@ Judy: INSIDE THE CABBAGE!?
 
 Pumpkin: Made you look, ya dumb pig butts! BYE BYE, BOING!!!!
 
-## Cabbage Patch
-
 Momo: Ahh! Wait!
+
+## Cabbage Patch
 
 Judy: What are those...
 
@@ -2362,7 +2362,7 @@ Unit 01: Cabbages, huh...
 
 Earb: There's something funny about those cabbages-mon.
 
-Earb: It's almost as if there's a leaf in its mouth-mon.
+Earb: It's almost as if their leaves are mouths-mon.
 
 Momo: Something... feels wrong...
 
@@ -2380,4 +2380,309 @@ Earb: Inside the cabbage...?
 
 Clock: At any rate, we had better help it.
 
-Momo: Ah! Barley?
+Momo: Ah! Barley!
+
+Momo: Barley, clever, clever boy!
+
+Momo: Barley, well done!
+
+Momo: Can your nose sniff out those main characters even in the dirt?
+
+Barley: *wan!*
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+Momo-chan. Use Barley's nose to search for the heroes of the picture book! Moving Barley is just like in the potato fields, use the D-pad. Try to press the directions toward the smell of the cabbages. There are 5 heroes and heroines. Save them all before they get completely gobbled up! Good luck, Momo-chan!
+
+
+
+Peter Pan: Pheeew, you saved me! Thanks! I'm Peter Pan, nice to meetcha!
+
+Judy: Eeeee! It's Peter Pan! Judy loves that story!
+
+Judy: Mr. Pan! Shake my hand!
+
+Peter: Ahh, okay, okay.
+
+Judy: Um, also, would, would you mind... signing this...?
+
+Peter: Uhh, yeah, you know, I gotta get back to my book... but thanks!
+
+Judy: Wh- nooo, wait up! Mr. Pan!!!
+
+Clock: Judy, enough is enough!
+
+Judy: Tsk! Lame.
+
+
+
+Bunbuku: Buhaaa! You saved me!
+
+Earb: It looks like there's a bowl on your back-mon?
+
+Momo: Earb, that's "Teakettle"! 
+
+[Bunbuku Chagama, or "Bunbuku tea-kettle" is a Japanese folktale about a raccoon that uses its shapeshifting powers to reward its rescuer for his kindness]
+
+Momo: Bunbuku Teakettle Raccoon-san!
+
+Bunbuku: Yahaaa, thank you! When I was eaten by this cabbage I didn't know what to do! Truly, thank you! Bonnnbokoooriiiiiiiin!
+
+
+
+Momo: Are you Kintaro-san?
+
+[Kintarou, or "Golden Boy", is a hero from Japanese folklore. A child of superhuman strength, he became friendly with the animals of the mountain, and caught the demon Shuten-douji. Kintarou is often characterized with an ono, a haragake apron, and sometimes a bear.]
+
+Kintarou: (In broken english) Yes, me is Kintarou! Thanks you for saving me! Well, bye bye!
+
+Judy: Huh... what a weird guy...
+
+
+
+Puss: You saved meeeow! Thank you-nyan!
+
+Judy: That cat, it's... Puss in Boots?
+
+Captain: A cat, wearing long boots... must be the hero of that book.
+
+Puss: Byebye-nyaaaan!
+
+
+
+So, Momo-chan. There's just one storybook hero left to find. Good luck!
+
+
+
+Barley: *whimper!*
+
+Momo: Barley!
+
+???: Gahhh-ha-ha-ha-ha-ha-haaaaa...
+
+Momo: Show yourself!
+
+???: Oooh, caught a tasty one, I did.
+
+???: Gahhh-ha-ha-ha-ha-ha-haaaaa...
+
+TBC: They call me... THE BIG CABBAGE!!
+
+TBC: You impudent fools... you are the scoundrels who dare oppose the Dark Lord Cabbage.
+
+Momo: Give Barley back!!
+
+TBC: Heh. And you must be the one they call Momo.
+
+TBC: You have something to say to ME?
+
+Momo: Give Barley back, you dumb cabbage!
+
+TBC: WHAT! Are you sure you don't want to apologize for that?! You would dare speak such vile words against US?
+
+Momo: What, vile? What did I say?
+
+Momo: I can't remember...
+
+TBC: Why you! Don't wind me up and then drop it!!!
+
+TBC: Shit! Dark Lord Cabbage stole away all your precious memories, and now you can't remember a damn thing!
+
+Momo: That's baloney, I can remember perfectly. I remember everything!
+
+TBC: Gah-hahahahahahahaha! That's a joke, right? Considering all your important memories are here in Momo-land. Shouldn't they have come with you to the real world? Hmm? Don't you think?
+
+Momo: But...
+
+TBC: Gaaaaahh-hahahahaha! You've been so busy growing up, doing homework, games, going to school, blah blah blah, what free time do you have to sit around thinking about stuff from your past!?
+
+TBC: Your Judy doll, his royal highness Earb, that scrap heap Gunbot, Momo-01, you forgot half of them, for crying out loud!
+
+Momo: But... but...
+
+TBC: The minute you return to reality, these memories will vanish without a trace, and you won't be able to recall the first thing about your friends here. No matter what, your memories are being eaten up faster and faster, vanishing, you see?
+
+Momo: ...
+
+TBC: And THAT is the punishment for going against Dark Lord Cabbage. And you'll never in 5.67 million years be able to strike back!
+
+TBC: You can't change a damn thing here, so go back to Reality where you came from!
+
+Momo: Shut up! Shut up shut up shut UP! Give Barley back to me!
+
+TBC: Nnnbeeeeehhhhh! I've taken this thing away from you, and seems like I was wise to do so. It's quite a useful thing, wouldn't you say? It would make a perfect servant for Dark Lord Cabbage, don't you think? Eh, Prince Pup?
+
+Captain: Let Barley go, you can take me as the servant.
+
+Momo: Captain!
+
+TBC: HAH! You? Aren't you a little too frail, old man? This one is a puppy yet, given enough time he'll forget all about Momo and the rest. No, I think not to this little exchange.
+
+Judy: Give Barley BACK!
+
+TBC: CELERY BLADE!
+
+Judy: Kyaaaaaaaaaaaaa!!! That veggie STINKS!!!!
+
+TBC: GAAAA-hahahahahaha!
+
+Momo: Why... Why would you do something so horrible to me?! What does the Dark Cabbage Lord have against me!?
+
+*They disappear*
+
+Momo: Wait! Come back! Come back with Barley!!!
+
+Momo: !!
+
+Earb: Momo-chan, look out!
+
+Earb: Owwwwwww!!
+
+Momo: Earb!
+
+Earb: It hurts! It hurts!!
+
+Momo: Earb, it's my fault you got hurt...
+
+Earb: Was I... helpful?
+
+Momo: Earb...
+
+Momo: Yes...! Earb, thank you!
+
+Earb: I'll be okay-mon. So please, save Barley for me.
+
+Momo: I understand. But Earb, you need help...
+
+Momo: Let's get you back to Grandpa's.
+
+Earb: I've... become a brave boy-mon! I can make it to Momo-chan's Grandpa's on my own now-mon.
+
+Momo: Earb...
+
+Clock: My, but you have grown up, Earb! What a splendid, honorable act!
+
+Momo: Will you really be okay all alone?
+
+Earb: Yeah, I'm fine-mon. *wince*
+
+Judy: Don't overdo it... You don't have to put on a brave face...
+
+Earb: No... Earb doesn't want to slow Momo-chan and her friends down-mon. So, I want you to save Barley, for me-mon.
+
+Momo: What should we do... Captain, Mr. Clock...
+
+Clock: To further waste time here would only serve to dishonor Earb's actions.
+
+Judy: Hey, old man, still griping about the time as usual?! Although a little less loudly than usual.
+
+Clock: That is due to the time and our circumstances. If we want to rescue Barley, there is not a minute to lose to argument.
+
+Momo: That's right... Earb, head straight to Grandpa's, and he'll take care of that injury, okay? After that, you can wait there.
+
+Earb: Okay! Momo-chan, please find your way back to Grandpa's cottage afterward.
+
+Momo: Yes, I promise!
+
+Judy: But... the cabbage that snatched Barley, and the Dark Lord Cabbage, we don't know where either of them are, right? So what are we supposed to do?
+
+Momo: I wish... I wish for Barley back!
+
+Momo: Why...
+
+Unit 01: Momo-chan. The Dark Lord Cabbage's magic is stronger than your Flower Bracelet's. Your Grandpa said so, remember?
+
+Unit 01: Somehow, that big cabbage guy can transfer things instantly, so getting Barley back from the Dark Lord Cabbage... it's not going to be that easy.
+
+Momo: But then... what do we do?
+
+Judy: Momo-chan, you can... forget about Judy. Go back to the real world.
+
+Momo: ....!?
+
+Judy: Momo-chan, we had a lot of fun. Being forgotten about... well, it's a teensy bit sad, but... well, knowing that we all have our own world here makes me kind of happy. Momo, you can go back to reality, where your mama and papa are waiting for you.
+
+Unit 01: Quaack... We've done everything we can-wak. There's nothing left... wak... wak...
+
+Momo: But... if I give up on you all... you'll all... all of you will...
+
+Momo: I'll forget everything about you... and Barley...
+
+Momo: I won't do it! I can't just forget about all of you! I can't leave Barley behind!!
+
+Momo: And above all, I'm sorry, but I can't let down Earb, who got hurt defending me! If I turned back now, I'd be breaking the promise I made to him. I won't do it!
+
+Judy: Momo-chan...
+
+Momo: I don't want to lose you all! Even when I grow up, even when I'm an old lady, I don't want to forget you!
+
+Momo: If I had been more careful, Barley would be safe... If I thought more about Barley's feelings... So... So... I alone have to be the one to rescue him! It's my fault that he got caught by the cabbage. If I don't go...
+
+Captain: *Wurf!*
+
+Momo: Captain... You'll come with me?
+
+Captain: It's my duty to keep you safe.
+
+Unit 01: Quaaaack! I got it, Momo-chan! I'll go with you-wak! I don't know what to do about Dark Lord Cabbage or any of that, but wherever you go, I'll fly along-wak-wak!
+
+Momo: Momo-1...
+
+Judy: Guess there's no getting out of it, Judy will come along with you too. It's not Judy's fight, but if I don't go I'll just sit up worrying what you'll do without me.
+
+Unit 01: We'd be the ones worrying about Judy-wak!
+
+Judy: Come here and say that! Anyway I'm only doing it for my best friend Momo. And because it's too sad to think of Barley enslaved by a cabbage.
+
+Clock: Ooooookay! Let's go!
+
+## Forest
+
+Momo: Where was Barley taken off to...
+
+Judy: What if we asked the Flower Bracelet to take us to the Hallo-Pumpkin again?
+
+Unit 01: No no. He's nothing but a liar, we listen to him and we'd just get tricked again. Only tricks and lies.
+
+Judy: Well, what if we asked the location of the big cabbage?
+
+Captain: No, it'd be a total waste. He's got to be near Dark Lord Cabbage, so his magic will protect them.
+
+Judy: Hmm...
+
+Momo: Hey, how about this? What if I ask the Flower Bracelet for a map of this land?
+
+Clock: A map?
+
+Momo: Yeah, nobody can know the entirety of this place. Since we don't have the slightest idea of where to go, with a map we'd figure it out, right? We can look for any inconspicuous places!
+
+Judy: Momo-chan, that's great! Great!
+
+Unit 01: That's our Momo-chan!
+
+Momo: Ehehe! Okay, okay.
+
+Momo: Alright! This is my wish:
+
+Momo: I wish for a map of this land!
+
+Momo: I wish for a map with the territory occupied by the Vegetable Corps, mountains and rivers, all marked on it!
+
+Momo: I wish it, Flower Bracelet!
+
+Momo: That's a strange shape... There's nothing written here, what's that about?
+
+Unit 01: Wak wak! The Flower Bracelet's power was counteracted by that of the Dark Lord-wak!
+
+Judy: Don't be dumb. You can see for yourself all the good hiding spots!
+
+Captain: Hoh hoh hoh. It looks like we know where we're going.
+
+Momo: That's right. Everyone, let's go!
+
+## Camp
+
+
