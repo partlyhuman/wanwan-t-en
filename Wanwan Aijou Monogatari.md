@@ -2685,4 +2685,107 @@ Momo: That's right. Everyone, let's go!
 
 ## Camp
 
+Judy: Are you up, Momo-chan?
+
+Judy: I wonder why the Dark Lord Cabbage is doing such awful things to Momo-chan?
+
+Momo: You know, I've thought a lot about it too. I wish I knew...
+
+Unit 01: The cabbage guy was saying try to listening to your heart?-wak.
+
+Judy: Nothing comes to mind?
+
+Momo: No... Nothing...
+
+Momo: Thing is, it's been eating me up, I can't think of what the Lord and Big cabbages have against me at all.
+
+Momo: That, and what happened to Barley.
+
+Momo: I wish he didn't have to go through all this...
+
+Captain: We should all get moving first thing tomorrow. So, for now, let's get some rest.
+
+Momo: Yeah. Goodnight...
+
+Momo: Barley, goodnight...
+
+## Flying
+
+Judy: Hey, does anyone else smell veggies?
+
+Momo: Oh?
+
+Judy: Isn't there something odd about the forest down there?
+
+Momo: You're right! There are huge vegetables sprouting there... the ground seems strange...
+
+Judy: Eeeeekkk! This fog stinks like celery on top of peppers!
+
+Judy: Noooooo! カミにおいがつくーッッ
+
+Unit 01: Wak wak! Do you ever stop complaining, Judy?!
+
+Judy: Buutt... it stiiiiinnnnnks!
+
+Momo: What was that?!
+
+Unit 01: Qua?! I don't know! All of a sudden, our lift weakened!
+
+Unit 01: WAAAAAK! We're quacked, Momo-chan!!
+
+Unit 01: Dark Lord Cabbage's power is too great here-quaaack!
+
+Unit 01: I can't keep everyone aloft in this green fog-wak!!
+
+Momo: What? But it's just a little farther!
+
+Unit 01: Waak! I'm sorry! If we don't land here I'll crash!
+
+## Big veggie patch
+
+Judy: Hurrrk... I can't go on.
+
+Judy: Judy's... gonna... die...
+
+Unit 01: Wak! Judy! Again with the whining! Can't you put up with it for Momo-chan-wak?
+
+Judy: But... I HAAAAAAAATE VEGETABLES!!!! The smell is inside my nose... oh god, I'm gonna throw up...
+
+Momo: Huh. I don't especially hate the smell of veggies...
+
+Judy: WHAT! Are you kidding me?! Momo-chan, aside from cauliflower, EVERYBODY HATES vegetables!
+
+Momo: Huh?! That's like a kindergarten attitude! Since elementary school I've been eating all kinds of veggies.
+
+Judy: OOOFFF!!! I... I had no idea...
+
+Judy: So, this, smell, it's... you're okay with it?
+
+Momo: It's fine! It's fine! Look! *inhales deeply*
+
+Judy: Uhghh-ghhg-hurrrrrrkkk.
+
+Momo: Well, let's go.
+
+Momo: What's up?
+
+Unit 01: Momo-chan, around the time you were in kindergarten, is it possible you disliked cabbage?
+
+Momo: Hmm, actually, I did. Something about its lack of flavor, and the "jagujagu" feel of chewing it, just grossed me out. So like if there was shredded cabbage in a salad, I would eat around it, and stuff.
+
+Clock: Just as I suspected!
+
+Momo: But, I like it now! On hot-pot nights, cabbage is the best!... AH!
+
+Momo: Is that...?!
+
+Unit 01: That's it! The cabbage you hated... Dark Lord Cabbage... became resentful. He was hated by the younger Momo-chan, and he wants revenge on you now!
+
+Momo: So... what originally made the Dark Lord Cabbage and his Veggie Corps rise up... my own likes and dislikes were the cause?
+
+Clock: The Dark Lord Cabbage still believes you despise his kind... but this is a misapprehension!
+
+Clock: (Though needless to say, Judy does despise vegetables.)
+
+Clock: 
 
