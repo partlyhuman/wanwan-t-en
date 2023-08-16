@@ -2751,11 +2751,11 @@ Unit 01: Wak! Judy! Again with the whining! Can't you put up with it for Momo-ch
 
 Judy: But... I HAAAAAAAATE VEGETABLES!!!! The smell is inside my nose... oh god, I'm gonna throw up...
 
-Momo: Huh. I don't especially hate the smell of veggies...
+Momo: Wow, I mean, veggies don't really... smell or anything...
 
-Judy: WHAT! Are you kidding me?! Momo-chan, aside from cauliflower, EVERYBODY HATES vegetables!
+Judy: WHAT! Are you kidding me?! Momo-chan, other than cauliflower, EVERYBODY HATES vegetables!
 
-Momo: Huh?! That's like a kindergarten attitude! Since elementary school I've been eating all kinds of veggies.
+Momo: Huh?! Isn't that like a kindergarten attitude? I've been eating all kinds of vegetables since elementary school!
 
 Judy: OOOFFF!!! I... I had no idea...
 
@@ -2767,25 +2767,132 @@ Judy: Uhghh-ghhg-hurrrrrrkkk.
 
 Momo: Well, let's go.
 
-Momo: What's up?
+Momo: What's wrong?
 
 Unit 01: Momo-chan, around the time you were in kindergarten, is it possible you disliked cabbage?
 
-Momo: Hmm, actually, I did. Something about its lack of flavor, and the "jagujagu" feel of chewing it, just grossed me out. So like if there was shredded cabbage in a salad, I would eat around it, and stuff.
+Momo: You know, I guess I did hate it back then. Something about its lack of flavor, and the "jagujagu" feel of chewing it, just grossed me out. So like, if there was shredded cabbage in a salad or something, I'd always eat around it.
 
 Clock: Just as I suspected!
 
 Momo: But, I like it now! On hot-pot nights, cabbage is the best!... AH!
 
-Momo: Is that...?!
+Momo: Could that be why...?!
 
-Unit 01: That's it! The cabbage you hated... Dark Lord Cabbage... became resentful. He was hated by the younger Momo-chan, and he wants revenge on you now!
+Unit 01: That's it! The cabbage you hated... Dark Lord Cabbage... he became resentful. After being hated so much by your younger self, he's vowed to take his revenge on your present self!
 
-Momo: So... what originally made the Dark Lord Cabbage and his Veggie Corps rise up... my own likes and dislikes were the cause?
+Momo: So... the whole reason the Dark Lord Cabbage and his Veggie Corps rose up... my own likes and dislikes were the cause of it all?
 
 Clock: The Dark Lord Cabbage still believes you despise his kind... but this is a misapprehension!
 
 Clock: (Though needless to say, Judy does despise vegetables.)
 
-Clock: 
+Clock: Therefore, if we were to clear up this misunderstanding, perhaps...
+
+Momo: But I'm not sure that's gonna be enough...
+
+Momo: And how did this cabbage become a Dark Lord, anyhow? It can't just be cause I didn't particularly like cabbage...?
+
+Clock: Hmmmm... While it is true that this Cabbage must have felt great resentment... I suppose not... Hrm... just a grudge...?
+
+Captain: *Wurf!* Momo-chan, right now our first priority is to rescue Barley.
+
+Momo: You're absolutely right! Let's go!
+
+Unit 01: Momo-chan, look!
+
+Momo: Yeah... the Dark Lord Cabbage is in there, I'm sure of it.
+
+Clock: All right, let's GO!!!
+
+Gunbot: ......
+
+## Gate Puzzle
+
+Unit 01: Look, a gate!
+
+Momo: Let's get a closer look!
+
+Unit 01: There's something written here-wak!
+
+Clock: "WHOOO is the most fabulous in all the land?"
+
+Judy: WHAT? This is so lame...
+
+Momo: Looks like one of those doors that doesn't open without a code.
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+I wonder what we should put in for the code? To enter a digit, press up and down on the D-pad and choose a number... up, up, up, down, down, down, down... Left and right change columns. Right, right, left, right, right, right.... If you're done entering the code... Use the A button to lock it in. Good luck, Momo-chan!
+
+Clock: So, Momo-chan, what number will you enter?
+
+👉0000
+
+Captain: Seems like that wasn't it...
+
+Captain: Momo-chan, was there a hint in there somewhere?
+
+👉9999
+
+Judy: Ahhh... it's no uuuuse! It won't opeeennn!
+
+Momo: Yeah... ugh, this is really hard...
+
+Unit-01: Quaack? Who the heck could "the most fabulous in all the land" be-waaakk??! Who indeed-wak!?
+
+👉1337
+
+Clock: The words inscribed on this plate must have another meaning. They must!
+
+Judy: Why do you think that? That cabbage-head could have just written it to brag about himself!
+
+Captain: The most fabulous in all the land...?
+
+Captain: Certainly, the Dark Lord Cabbage has the most POWER in this World of Memories, but...
+
+Momo: Cabbage... Hakusai... Ha-ku-sa-i...?
+
+👉1234
+
+Judy: It's no use! We're not going to get the code by guessing, no matter how many combinations of 4 numbers we try.
+
+Momo: You're right...
+
+Unit 01: Quaaack, you couldn't spell a word using 4 numbers, could you-wak?
+
+Unit 01: Like "Yo-ro-shi-ku" from "4649", for example...
+
+[Sounding out the numbers, 4=YOn 6=ROku 4=SHI 9=KU. Some numbers can be read in multiple ways like four is here.]
+
+Judy: Mm? So "hakusai" would be...?
+
+👉4321
+
+Clock: Aha! By jove, I've got it! Judy, press the keys as I say:
+
+Momo: Mr. Clock, you figured it out?
+
+Clock: And just who do you think I am? Remember, I am a Gatekeeper! If it's a door, I'll handle it!!
+
+Judy: So handle it already!!!
+
+Clock: "WHOOO is the most fabulous in all the land?"... as this riddle must be referring to the Dark Lord Cabbage, the code is "hakusai", in other words, it must be "8-9-3-1"!!
+
+[8=HAchi 9=KU 3=SAn 1=Ichi]
+
+Momo: Ohhhh.... Incredible, Mr. Clock!!!
+
+Judy: All right, here we go! 8, 9, 3, 1!
+
+👉8931
+
+Judy: Yattaaaa!! It opened!
+
+## Castle Keep
+
+
 
