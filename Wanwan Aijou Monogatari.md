@@ -2842,7 +2842,7 @@ Judy: Ahhh... it's no uuuuse! It won't opeeennn!
 
 Momo: Yeah... ugh, this is really hard...
 
-Unit-01: Quaack? Who the heck could "the most fabulous in all the land" be-waaakk??! Who indeed-wak!?
+Unit 01: Quaack? Who the heck could "the most fabulous in all the land" be-waaakk??! Who indeed-wak!?
 
 👉1337
 
@@ -2894,5 +2894,273 @@ Judy: Yattaaaa!! It opened!
 
 ## Castle Keep
 
+Judy: Momo-chan, now's your chance, go ahead! Judy will distract them!
 
+Captain: Momo-chan, it might be better if we split into two groups. If we all go at once, we'd be easily noticed.
+
+Momo: All right, I'll go with Momo-1.
+
+Unit 01: Quaaack... o- okay... I'll go... wak..
+
+Captain: I'll be right behind you.
+
+Clock: Hey! It's dangerous to go alone! I shall go with Captain.
+
+Momo: OK. Mr. Clock, Captain is older, so be sure to do exactly as he says!
+
+## Cuke Maze
+
+Judy: Alright, ready? Let's go, Momo-chan!
+
+Judy: Hey! You! Come and get me!
+
+Cuke: CyuuuuuuuuuuuuUU! Suspicious activity detected-cuke!!
+
+Cuke: Sieze her-cuke! Sieze her-cuuuuke!
+
+Judy: Oh mister-cuukeypoo! Over this way!
+
+Cuke: Wait-cuke! Waiiit-cuuuuke!
+
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+All right, Momo-chan. You have to get across this room (using?) the doors Judy lured the Cukemen into! The exit is on the right side of the screen. If you cross the line of sight of a cukeman (up, down, left, or right of one at any distance) you'll be caught. Use the pillars to hide as you cross the room, so you won't be found!
+
+Momo: Momo-1, now!
+
+Unit 01: Leave it to me-wak! Momo-chan, hold on tight!
+
+*Momo makes it across*
+
+Momo: Yatta! Next is Captain and Mr. Clock.
+
+Unit 01: ....r- right, Momo-chan.
+
+Momo: Momo-1?
+
+Clock: It's our turn now, Captain. Let us go!
+
+Captain: Hrm, well then, let's get to it.
+
+Judy: Eeeeeeek!!! Hold up! Is that as fast as you two can go!?
+
+Cuke: Cyu-cyu-cyu-cyu-cyuuuuke! Wait-cuke! Waiiit-cuuuke!
+
+*Captain makes it across*
+
+Momo: Yatta!!!!
+
+Momo: !?
+
+Momo: Kyaaaaaaaaaaaahhh!!
+
+*Unit 01's axle breaks, sending Momo flying*
+
+## Castle Room
+
+Momo: Owwwww... Everyone okay?
+
+Momo: Momo-1!!!!
+
+Momo: Your front axle, it broke! How in the world did that happen?
+
+Unit 01: Qua... quakkkk....
+
+Unit 01: The mist that swallowed us up earlier... it rusted me out-wak... qua...
+
+Momo: Momo-1... why?! Why didn't you say anything until now?
+
+Unit 01: Wak... I'm sorry, Momo-chan...
+
+Unit 01: Quaaa... I just wanted to stay by your side-wak...
+
+Unit 01: I was able to help... one last time-wak...
+
+Unit 01: But from here out you'll have to go without me...
+
+Unit 01: Quaaack... Please, leave me here.
+
+Momo: But, but...!
+
+Judy: Puff, puff... it's no use... I'm tuckered out... puff...
+
+Momo: Judy...... Momo-1.....!
+
+Unit 01: Quackk!! Go, now! I'll be fine-wak!!
+
+Unit 01: Waaak! Momo-chan! Don't let your memories die! Don't forget me. Don't forget us!
+
+Momo: Momo-1...
+
+Unit 01: QUAAAAAAAACK! Hurry! Go!
+
+Cuke: Kyu-kyu? Think I heard somethin' over here!
+
+Judy: Well... no way... around it... here I go... again!
+
+Judy: Momo...chan... I believe in you... and Judy can do it too... but... I'll give these... cukes... one last chase...
+
+Cuke: Kyu-kyu? This way!
+
+Captain: Momo-chan, I will stay behind to protect Momo-1. So please, don't worry, go find Barley!
+
+Clock: Such magnificent resolve, Captain, I expected no less! Come, Momo-chan! 
+
+Momo: Captain, don't do anything rash! If you have the chance, run! Promise me!
+
+Captain: *wurf!*
+
+## Castle Hallway
+
+Cuke 1: Ey, what was that doggie called? The one tha' Head Cabbage snatched up?
+
+Cuke 2: Barley or somethin', cuke.
+
+Cuke 1: He's a cukin' moron! He does nothin' but defy tha' Dark Lord, he's only gonna get the stink eye that way.
+
+Barley: *whimper! whimper!*
+
+Cuke 1: Kyu-kyu. He's makin' him do it again-cuke. Gettin' tormented like that every day, he's gotta be gettin' pretty weak-cuke.
+
+Cuke 2: What a cukin' idiot! Speakin' of, if we don't get back to it, tha' Dark Lord's gonna compost us-cuke.
+
+Cuke 1: Yer right-cuke.
+
+Momo: Barley...
+
+Clock: It is woeful, Barley seems to be suffering a great ordeal.
+
+Momo: Mr. Clock, we have to hurry!
+
+*They run off*
+
+Momo: Ahhh!
+
+*Momo trips over a trigger tile*
+
+Momo: Owwww....
+
+Clock: ???
+
+Momo: No!!!
+
+Clock: What!! The ceiling, it's...!!! Momo-chan! Look out!
+
+Clock: Hurry! This way!
+
+Momo: My leg...! My leg's hurt, I... I can't go any faster!
+
+Momo: Aieeeeeee! It's over!
+
+*flash*
+
+Gunbot: NOOOOO!!!
+
+Momo: GUNBOT!
+
+Gunbot: No matter what! You're my second commander! -GUNNNN!!
+
+Gunbot: I can't abandon you!!!
+
+Gunbot: GOOOOOOO!!!
+
+Momo: Gunbot! You came back for us!
+
+Gunbot: Y- you remembered me-gun!
+
+Gunbot: Momo-chan... you're my... second commander... after... all!
+
+Gunbot: Momo-chan... hurry... run...-gun!!
+
+Clock: Momo-chan! Quickly!
+
+*She climbs out of harm's way*
+
+Momo: Gunbot! I'm fine now! Hurry, drop it!
+
+Gunbot: Negative...-gun... if I move... you'll... have no way... to get back..kk...k
+
+Momo: What? No! That's crazy! Gunbot!!!
+
+Gunbot: I am... a... super robot... I'll... be... fine... I'll... be...
+
+Clock: Momo-chan! He is enduring!
+
+Clock: Do not relinquish Gunbot's spirit! You must continue on!
+
+Momo: Gunbot... I'm sorry... I'll come back for you!
+
+Gunbot: It's... it's a... promise...-gun.... Momo-chan...
+
+## Hallway
+
+Barley: *wan!*
+
+Cuke: Kyu-kyu!
+
+Cuke: Did you hear something?
+
+Cuke: Ahhh! It's Momo-cuke! It's Momo-cuke!!!!
+
+Clock: Curses! We're found!
+
+Cuke: Oiiii!!! Momo's here! Momo's over here!!!
+
+Cuke: We got you now-cuke!!
+
+Cukes: We got you-cuke! We got you-cuke!
+
+Momo: Barley.......
+
+## Prison
+
+Momo: Barley! Barleyyy!!
+
+Momo: Hang on, Barley!
+
+Clock: Alas! it appears he is injured.
+
+Clock: Barley! Do not overexert yourself!
+
+Momo: Barley...
+
+Barley: *whimper*
+
+Momo: Barley... I'm sorry... It's my fault...
+
+Momo: Barley! Where are you going?
+
+Momo: Please, you have to sit still!
+
+Momo: Barley! Please stop! I'm all right, please, don't do any more!
+
+Momo: Barley...... Barley.......
+
+
+Shall we explain how to play?
+
+* 👉Yes! explain
+* I know, I'm good
+
+Barley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the [A button] repeatedly, as fast as you can! You can do it, Momo-chan!
+
+Momo: Please, you can do it, Barley!
+
+Momo: Barley, give it all you've got!
+
+Momo: Hang in there, Barley!
+
+Momo: You can do it!
+
+Momo: You can do it, Barley!
+
+Momo: Just a little more, Barley!
+
+Momo: Almost there!!
+
+## Doorway
 
