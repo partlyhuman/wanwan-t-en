@@ -3164,3 +3164,112 @@ Momo: Almost there!!
 
 ## Doorway
 
+Voice: Oh? It seems you've escaped your cage....
+
+Pumpkin: But did you really think I'd just let you goooo?
+
+TBC: Looks like you've jumped out of the frying pan and into the fire! GAAA-HA-HA-HA-HA-HAAAAA!
+
+Voice: Mo-mo.....
+
+Voice: I've been here for one hundred years now... (I've been waiting for you for one hundred years...)
+
+Momo: The Dark Lord Cabbage!
+
+Barley: *grrrrr!*
+
+Momo: Barley! No! Stop it!
+
+Clock: Momo-chan! What is wrong?!
+
+DLC: Ho-hohhh, you would do well to stop right there, my Momo.
+
+Momo: I didn't come here to fight you!
+
+Momo: Listen! Dark Lord Cabbage! There's been a misunderstanding!
+
+DLC: What, you say?
+
+Momo: When I was a child, I didn't like vegetables. But now! Now I'm older, and I'll eat anything!
+
+DLC: And, so what, hmm?
+
+Momo: I like them now! I like vegetables! So, please, stop all of this!
+
+Pumpkin: She lies, my lord!
+
+TBC: That's right! You really think Momo, worldwide MVP of team no-veg, up and switched sides just like that?
+
+DLC: .........
+
+Pumpkin: My lord! How many times did she leave you on her plate, surely you remember!
+
+Pumpkin: Whenever you were in her salads, perfectly coated in dressing? "When, I wonder, will she finally eat me," you waited anxiously, heart pounding? No matter how long you waited, she wouldn't touch you...
+
+TBC: That's right! One after the other, she ate the tomatoes, the lettuce... "Surely she must be saving me for last..." but, time and time again, it all ended with "May I be excused?"
+
+Pumpkin: The only thing sadder is the parsley! On almost every dish, there it is, pretty as can be. But in almost every case, nobody will even touch it!!!
+
+TBC: That's right! After you tossed us veggies aside, do you even know what they did to us?!
+
+Momo: *sniff*...
+
+Pumpkin: We were.... we were... because we were just a waste, you understand... we were used as fish food, tossed to the koi in the neighborhood park! Even though we were grown in faraway fields, specifically to be eaten by people!
+
+TBC: You'd be lucky if you got eaten by a dirty carp! When us veggies weren't used in place of fish food, we'd wither to nothing in the refrigerator. And finally, in the end, it was into the garbage bag for us.
+
+TBC: After everything is said and done, we were just made to be be thrown away, us veggies who came from far-off fields all the way to Momo's house.
+
+Momo: I'm... I'm sorry! I'm really, really sorry!! But... but...
+
+TBC: But what!
+
+Pumpkin: Don't make excuses!!
+
+Momo: I know! I was in the wrong! But, every child has their likes and dislikes... and particularly vegetables... it was a weak spot...
+
+DLC: ... Momo-chan, I get it now.
+
+TBC: EEEEEehhhhhHHh!! Dark Lord Cabbaaaage?!
+
+Pumpkin: Wh, what! What are you saying!?
+
+Momo: Really?! You'll forgive me?
+
+DLC: Yes, it's true. Momo-chan, you truly don't hate vegetables any more? You say you even like cabbage now?
+
+Momo: Yes! I do!
+
+DLC: So... you absolutely could not stand carrots back then. You say you LIKE them now?
+
+Momo: Yeah! I love carrots on the side of a steak, they're are sweet and delicious!
+
+DLC: Oh...? So... how about peas? Back then you held your nose to eat green pea rice, you say you like them now?
+
+Momo: W-well... green pea rice... um... I... I can eat it, but...
+
+DLC: But you love it, of course?
+
+Momo: Umm.... yeeeeeeah... I... I like... I like it all right...
+
+DLC: And how about parsley? When you go out to eat, and there's parsley perched on the edge of the plate, how about it? Of course, since you've grown to like veggies so much, you must eat the parsley, too, instead of leaving it behind, don't you say?
+
+Momo: Eh... p- parsley?
+
+DLC: Yes? How about it...?
+
+Momo: Umm.... Uhhhh... it's not like I HATE it, that is... I haven't gotten in the habit of eating it, per se....
+
+DLC: .........
+
+Momo: .........
+
+DLC: YOU ABSOLUTE EEEEEEEEIIIIIIDIOTTT!!!!! THEN HOW CAN YOU SAY YOU LOVE VEGGIIEEEEEEEEESSSSS!!?!??
+
+DLC: WHAT TOTAL AND COMPLETE LUNACY!!!!!
+
+Momo: But!! W-wait-
+
+DLC: SHUT UP!!!!!!!
+
+DLC: "Oohhh, I'm so grown up, I can eat you now, I just need to hold my nose!" You expect us to sit down and sing kumbaya with you, after this pathetic lie?!
