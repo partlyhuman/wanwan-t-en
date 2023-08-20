@@ -2,7 +2,7 @@
 
 AKA "Puppy Love Story" <3
 
-## Main menu
+# Main menu
 
 Hello! Welcome to the world of "Puppy Love Story!" 
 
@@ -26,6 +26,8 @@ Ah, Momo-chan, yes?
 (Yes/No)
 
 Ahem! Well then, let "Puppy Love Story" begin!
+
+# Main Script
 
 ## At home
 
@@ -3172,7 +3174,7 @@ TBC: Looks like you've jumped out of the frying pan and into the fire! GAAA-HA-H
 
 Voice: Mo-mo.....
 
-Voice: I've been here for one hundred years now... (I've been waiting for you for one hundred years...)
+Voice: One hundred years... I've waited for you...
 
 Momo: The Dark Lord Cabbage!
 
@@ -3188,47 +3190,47 @@ Momo: I didn't come here to fight you!
 
 Momo: Listen! Dark Lord Cabbage! There's been a misunderstanding!
 
-DLC: What, you say?
+DLC: What's this?
 
 Momo: When I was a child, I didn't like vegetables. But now! Now I'm older, and I'll eat anything!
 
 DLC: And, so what, hmm?
 
-Momo: I like them now! I like vegetables! So, please, stop all of this!
+Momo: I like them now! I love vegetables! So, stop all of this! Please!
 
 Pumpkin: She lies, my lord!
 
-TBC: That's right! You really think Momo, worldwide MVP of team no-veg, up and switched sides just like that?
+TBC: That's right! You really think Momo, worldwide MVP of hating vegetables, up and switched teams just like that?
 
 DLC: .........
 
-Pumpkin: My lord! How many times did she leave you on her plate, surely you remember!
+Pumpkin: My lord! How many times did she leave us on her plate, surely you remember!
 
-Pumpkin: Whenever you were in her salads, perfectly coated in dressing? "When, I wonder, will she finally eat me," you waited anxiously, heart pounding? No matter how long you waited, she wouldn't touch you...
+Pumpkin: Whenever we were in her salads, perfectly coated in dressing? "When, I wonder, will she finally eat me," we waited anxiously, heart pounding? No matter how long we waited, she wouldn't touch us...
 
-TBC: That's right! One after the other, she ate the tomatoes, the lettuce... "Surely she must be saving me for last..." but, time and time again, it all ended with "May I be excused?"
+TBC: That's right! One by one, she ate the tomatoes, then the lettuce... "Surely she must be saving me for last..." but, time and time again, it all ended with "May I be excused?"
 
-Pumpkin: The only thing sadder is the parsley! On almost every dish, there it is, pretty as can be. But in almost every case, nobody will even touch it!!!
+Pumpkin: The only thing sadder is the parsley! On almost every dish, there it is, pretty as can be. But most times, nobody will even touch it!!!
 
 TBC: That's right! After you tossed us veggies aside, do you even know what they did to us?!
 
 Momo: *sniff*...
 
-Pumpkin: We were.... we were... because we were just a waste, you understand... we were used as fish food, tossed to the koi in the neighborhood park! Even though we were grown in faraway fields, specifically to be eaten by people!
+Pumpkin: We were.... we were... because we were just wasted, you see... we were used as fish food, tossed to the koi in the neighborhood park! Even though we were farmed in faraway fields, specifically to be eaten by people!
 
-TBC: You'd be lucky if you got eaten by a dirty carp! When us veggies weren't used in place of fish food, we'd wither to nothing in the refrigerator. And finally, in the end, it was into the garbage bag for us.
+TBC: Those were the lucky ones! At least they got eaten, even if it was by a carp! Those of us who didn't become fish food, we'd wither to nothing in the refrigerator. And finally, in the end, it was into the garbage bag for us.
 
-TBC: After everything is said and done, we were just made to be be thrown away, us veggies who came from far-off fields all the way to Momo's house.
+TBC: After everything is said and done, we were created just to be be thrown away, us veggies who came from faraway fields all the way to Momo's house.
 
 Momo: I'm... I'm sorry! I'm really, really sorry!! But... but...
 
-TBC: But what!
+TBC: But what?!
 
 Pumpkin: Don't make excuses!!
 
-Momo: I know! I was in the wrong! But, every child has their likes and dislikes... and particularly vegetables... it was a weak spot...
+Momo: I know! I was in the wrong! But, every child has their likes and dislikes... and particularly vegetables... it was a weakness...
 
-DLC: ... Momo-chan, I get it now.
+DLC: ...Momo-chan, I understand.
 
 TBC: EEEEEehhhhhHHh!! Dark Lord Cabbaaaage?!
 
@@ -3236,40 +3238,282 @@ Pumpkin: Wh, what! What are you saying!?
 
 Momo: Really?! You'll forgive me?
 
-DLC: Yes, it's true. Momo-chan, you truly don't hate vegetables any more? You say you even like cabbage now?
+DLC: Yes, it's true. Momo-chan, you truly don't hate vegetables any more? You say you like us now, even cabbage?
 
 Momo: Yes! I do!
 
-DLC: So... you absolutely could not stand carrots back then. You say you LIKE them now?
+DLC: So, back then, you couldn't STAND carrots. You say you LOVE them now?
 
 Momo: Yeah! I love carrots on the side of a steak, they're are sweet and delicious!
 
-DLC: Oh...? So... how about peas? Back then you held your nose to eat green pea rice, you say you like them now?
+DLC: Oh...? So how about peas? Back then you held your nose to eat green pea rice, you say you've grown to LOVE it?
 
 Momo: W-well... green pea rice... um... I... I can eat it, but...
 
-DLC: But you love it, of course?
+DLC: But of course, you LOVE it, right?
 
-Momo: Umm.... yeeeeeeah... I... I like... I like it all right...
+Momo: Umm.... yeeeeeeah... I... I like... I like it okay......
 
-DLC: And how about parsley? When you go out to eat, and there's parsley perched on the edge of the plate, how about it? Of course, since you've grown to like veggies so much, you must eat the parsley, too, instead of leaving it behind, don't you say?
+DLC: How about parsley? When you go out to eat, that parsley that you usually find perched on the edge of the plate? Of course, since you've grown to LOVE veggies, you must be sure to eat the parsley, too, never leaving it behind, you're saying?
 
-Momo: Eh... p- parsley?
+Momo: Eh... p- parsley? Umm.... parsley... eheh...
 
-DLC: Yes? How about it...?
+DLC: Hmm? How about it...?
 
-Momo: Umm.... Uhhhh... it's not like I HATE it, that is... I haven't gotten in the habit of eating it, per se....
+Momo: Umm.... Uhhhh... it's not that I HATE it... that is... I haven't gotten in the habit of eating it, per se....
 
 DLC: .........
 
 Momo: .........
 
-DLC: YOU ABSOLUTE EEEEEEEEIIIIIIDIOTTT!!!!! THEN HOW CAN YOU SAY YOU LOVE VEGGIIEEEEEEEEESSSSS!!?!??
+DLC: EEEEEEEEIIIIIIDIOTTT!!!!! THEN HOW CAN YOU SAY YOU LOVE VEGGIIEEEEEEEEESSSSS!!?!??
 
-DLC: WHAT TOTAL AND COMPLETE LUNACY!!!!!
+DLC: WHAT COMPLETE AND UTTER LUNACY!!!!!
 
 Momo: But!! W-wait-
 
-DLC: SHUT UP!!!!!!!
+DLC: SILENCE!!!!!!!
 
-DLC: "Oohhh, I'm so grown up, I can eat you now, I just need to hold my nose!" You expect us to sit down and sing kumbaya with you, after this pathetic lie?!
+DLC: "Oohhh, I'm so grown up, I can eat you now... I just need to hold my nose!" You actually expect us to surrender, with this pathetic lie?!
+
+TBC: UWAHAHA!!! My lord!! Now you're talking!
+
+Pumpkin: Yeah yeah yeah! Any jerk who leaves the parsley CAN'T SAY THEY LOVE VEGGIES!!
+
+Pumpkin: Us VEGETABLES see RIGHT THROUGH YOU, Momo!
+
+Momo: But... Well, what do you want from me?!
+
+DLC: Piss off back to the Real World, Momo-moron! WE. VEGGIES. HATE. YOU.
+
+Momo: Dark Lord Cabbage...
+
+DLC: That's all it is! We... I just HATE YOU!! You dummy!!
+
+TBC: AH! My lord!!! Your... rear is showing!!!
+
+[It reads "DUMMMY. HATE YOU."]
+
+Momo: AH...! That's..!!
+
+DLC: D- don't look.... don't look! Don't look at my butt!!
+
+Momo: I remember now... writing it, when I was a little kid...
+
+DLC: THAT, Momo!!
+
+DLC: Your mom had just gone shopping, bought me, and brought me home for you, but you took me out and hid me away and you SCRIBBLED on me with CRAYONS!!!
+
+[Little Momo writes "Dummy" on a cabbage in the photo]
+
+Momo: AH!
+
+DLC: You REMEMBER NOW???! How... how dare... HOW COULD YOUUUUU!!!
+
+Momo: I... I... 
+
+DLC: LOOK WHAT YOU DID TO MEEEEE!!!
+
+DLC: WHY DO YOU HATE MEEEEEEEEE!!!
+
+DLC: WHY WHY WHY WHYYYY DID YOU SCRIBBLE SUCH MEAN THINGS ON MEEEEE!!
+
+DLC: I WILL NEVER FORGIVE YOU, MOMOOOOOOO!!!!
+
+TBC: Pumpkin, let's do it!!!
+
+Pumpkin: Hup!!
+
+DLC: Stay out of this, you two! This battle is between me and Momo!!
+
+TBC: Dark Lord...
+
+Momo: I... did a horrible thing... I had forgotten...
+
+Clock: Momo-chan, in order to grow up, children must forget their memories and dreams. They must let them go and walk away.
+
+Clock: When you were little, you said you wanted to be an airline pilot, yes? But in reality, do that many people get to do that?
+
+Clock: More importantly, remaining here is perilous! Run! Return to the Real World!
+
+Momo: I can't. That would be just like an excuse.
+
+Momo: Mr. Clock, look at the Dark Lord Cabbage! Look how hurt he is! Look how miserable! I.. I can't run away and leave him like this!
+
+Clock: But! But he's too dangerous, he's ENRAGED!
+
+Momo: If I go back like this, I'll forget about all of you a second time, right?! That's not how you treat people you care about! My childhood memories, my dreams, they're important... they're important parts of who I am!
+
+Momo: Barley!
+
+DLC: MOMO....!!! REMEMBEEEEEERRRR!!!!!
+
+Momo: Stop! Barley's got nothing to do with this!
+
+DLC: HIYAAAAAAAAAAA!!!!
+
+Momo: BARLEYYYYYY!!!!
+
+Captain: *WOOF!*
+
+Momo: CAPTAIN!
+
+Captain: *pant* *pant* can't... let Barley... die...
+
+Captain: Barley's duty... in the Real World... to protect Momo-chan... *pant*
+
+DLC: IDIOT! IDIOT!!!
+
+DLC: Where'd you come from? You should have kept your dirty paws out of this!
+
+Captain: ... protecting... Momo-chan... was... my...
+
+Captain: du... ty......
+
+Momo: Captain...?
+
+Momo: ...... CAPTAIN!??
+
+Momo: ...no...
+
+Momo: ...you can't...
+
+Momo: CAPTAIIIIINNN!!!!
+
+Barley: *grrr!*
+
+Momo: Barley! Stop!! It's no use!!
+
+Barley: Momo... chan...
+
+Barley: Protect    Momo-chan
+
+Barley: Barley also    protect     Momo-chan!
+
+Barley: *BITE!*
+
+DLC: STUPID MUTT!
+
+Momo: Please, stop!!!
+
+DLC: GAAAAHAHAHAHAHAHA!! Momo, no matter the tears you spill, this is your end.
+
+Momo: ...*sob*...
+
+Clock: Momo-chan!! The Door of Time! Quickly! You must run!!!
+
+DLC: Time to finally do away with you!!!
+
+Momo: Everyone... who stuck with me... who desperately tried to save me... everyone...
+
+DLC: MOMO!! Disappear forever!!
+
+Momo: Forgive me, I was weak... I wasn't even able to do this... for you... but...
+
+Momo: I won't run away...!
+
+Clock: Momo-chan! What are you doing?! Quickly!
+
+DLC: I WAS SO ANGRYYYYYYYY!!!!!
+
+Momo: I'm scared... but... I won't run...
+
+Momo: At least, here, I can pray... for all of you... for the Dark Lord to find peace... until my last breath, I'll pray...
+
+DLC: I WAS SO SAAAADDDDD!!!!!
+
+Momo: For all the vegetables I hated as a child... I'm sorry... forgive me...
+
+DLC: UWAAAAAAAAA!!!!
+
+Momo: All the vegetables I had sad thoughts towards... somehow... everyone... forgive me... 
+
+Momo: Every one... each and every one of you is a precious memory... I love you all... 
+
+DLC: UWAAAAAAAAA!!!!
+
+
+
+Voice: ... I ... was despised... I was sad... I just... wanted to be eaten..... that's all...
+
+Voice: I'm sorry.... Momo-chan... thank you...
+
+
+## Somewhere
+
+Momo: Ah... everyone...!
+
+Clock: Momo-chan, you did it!
+
+Momo: Captain! Barley, are you?!
+
+Clock: They will be all right. I have already checked on them. They have sustained injuries, but their lives are not in danger.
+
+Momo: Judy...! Momo-1! Gunbot!!
+
+Judy: Unnnnghh... it's no use... I can't run any more...
+
+Unit 01: Waaakkk... I didn't know you were there, Momo-chan...
+
+Gunbot: I've got the guts... I can take it-gun... Unnnngh....
+
+Momo: You're all.... okay...!
+
+Clock: It is a miracle... the Dark Lord Cabbage, he... disappeared completely!
+
+Momo: Yeah... I... felt it? The Dark Lord, Pumpkin, Big Cabbage, at the last second they winked out....
+
+Clock: Momo-chan, your heart opened up. We were all born again and returned to this world.
+
+Momo: I wonder if we'll meet again, the Cabbages...
+
+Clock: Do not worry, we are safe. So, allow me to bring everyone back to Grandpa's house.
+
+Momo: Yeah, we need his help!
+
+
+## Grandpa's
+
+Momo: Hey everyone, let's take a photo! So after I go back to the Real World, I'll always have it to remember you by.
+
+Judy: Yattaaa! Selfie! Selfie!
+
+Judy: Judy in front!!!
+
+Momo: Okay, everyone get in here...
+
+Momo: And, POSE!!!
+
+Barley: Momo-chan    we go   back home?
+
+Momo: That's right! We're going home, Barley.
+
+
+## Credits
+
+---
+
+# Post-Game
+
+DLC: Momo-chan, should we make a seal commemorating our reconciliation?
+
+👉 Yeah, let's make it!
+Ewwww, noooo
+
+DLC: All right! Here we go, just wait a minute!
+
+[Put some ascii art here?]
+
+DLC: Hooo, there we are! Treasure it, Momo-chan.
+
+DLC: Okay, actually, there's a second seal! Just another sec.
+
+[More art or?]
+
+DLC: Hooo, there we are! Treasure it, Momo-chan.
+
+DLC: Well, this is the end. Don't worry, I'm sure we'll meet again some day.
+
+DLC: Well then! Bye-bye, Momo-chan!
+
+
