@@ -15,11 +15,11 @@ Choose from the below menu:
 
 ## New game
 
-First, choose a diary from below-mon! Use the d-pad for up and down and push the A button-mon!
+First, choose a diary from below-mon! Use the D-pad for up and down and push the A button-mon!
 
 (Your saves here)
 
-What's the name of our hero? Use the d-pad to select up, down, left, right, and A buton to choose. To delete a character use the B button.
+What's the name of our hero? Use the D-pad to select up, down, left, right, and A button to choose. To delete a character, use the B button.
 
 Ah, Momo-chan, yes?
 
@@ -55,31 +55,31 @@ Momo: Eh? EHH?? Just now, was there a whimper??
 
 Puppy: *Wan! Wan!*
 
-Momo: UWAAAA! KAWAIII!!!! A PUPPYYYYY!!!!
+Momo: UWAAAA! SO CUUUUTE!!!! A PUPPYYYYY!!!!
 
 Momo: PAPA!! A PUPPYYYYY!
 
 Puppy: *Wan!*
 
-Mama: Ahh! A puppy! And what a cutey!
+Mama: Ahh! A puppy! And what a cutie!
 
 Papa: Hahaha, well, it has been quite a while since our old dog, Captain, passed away, hasn't it?
 
 Mama: Momo-chan, won't you give our new family member a name?
 
-Momo: Uhu, kawaii!!! A name... What should it be...
+Momo: Uhu, so cute!!! A name... What should it be...
 
 Papa: What name will you choose for the puppy? Use the D pad, A button, B button erases. (you get the drill)
 
-(Doggie's name here. I'm gonna call him..... Barley!)
+(Doggie's name here. I'm gonna call him..... Barkley!)
 
-Papa: Barley. (Yes/No)
+Papa: Barkley. (Yes/No)
 
-Momo: Barley, your name is Barley. Got it?
+Momo: Barkley, your name is Barkley. Got it?
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
-Momo: Barley! Barley! Kawwwwaiii!
+Momo: Barkley! Barkley! Kawwwwaiii!
 
 Momo: Such big ears! Hehe, looks like you could fly through the air.
 
@@ -99,19 +99,19 @@ Momo: How do we do that?
 
 Papa: Papa will show you, so watch closely.
 
-Papa: Okay, Momo? So, tap here, on Barley's back... and say "Sit!"
+Papa: Okay, Momo? So, tap here, on Barkley's back... and say "Sit!"
 
-Papa: Barley...
+Papa: Barkley...
 
 Papa: Sit!
 
-Papa: Barley, Barley!
+Papa: Barkley, Barkley!
 
-Papa: Sit! Barley, sit!
+Papa: Sit! Barkley, sit!
 
-Papa: Good! Good! You're a very smart boy, Barley! You get it now?
+Papa: Good! Good! You're a very smart boy, Barkley! You get it now?
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Papa: Gooood! Good boy, good boy!
 
@@ -121,19 +121,19 @@ Momo: Okay!
 
 - 👉Teach "sit"
 
-Momo: Barley!
+Momo: Barkley!
 
 Momo: Sit!
 
-Momo: Barley, sit!
+Momo: Barkley, sit!
 
-Barley: .....
+Barkley: .....
 
-Momo: Barley! Sit!
+Momo: Barkley! Sit!
 
-Barley: ??? *Wan wan!*
+Barkley: ??? *Wan wan!*
 
-Momo: Papaaaa.... Barley won't sit...
+Momo: Papaaaa.... Barkley won't sit...
 
 Papa: Don't give up, Momo. Try one more time.
 
@@ -142,121 +142,121 @@ Momo: OK.
 - 👉Teach "sit" 
 - Quit teaching
 
-Momo: Barley! Sit!
+Momo: Barkley! Sit!
 
 - 👉Teach "sit" 
 - Quit teaching
 
-Momo: Barley! Sit!
+Momo: Barkley! Sit!
 
 - 👉Teach "sit" 
 - Quit teaching
 
-Momo: Barley! Sit!
+Momo: Barkley! Sit!
 
 - 👉Teach "sit" 
 - Quit teaching
 
-Momo: Barley! Sit!
+Momo: Barkley! Sit!
 
-Barley: *sits*
+Barkley: *sits*
 
-Momo: YATTA!!! WONDERFUL, Barley!!
+Momo: YATTA!!! WONDERFUL, Barkley!!
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
-Momo: Papa, Barley learned SIT!
+Momo: Papa, Barkley learned SIT!
 
 Papa: Goooood! Well! Next up is "fetch!"
 
 Papa: Watch closely how Papa does this.
 
-Papa: Barley!
+Papa: Barkley!
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Papa: Barley. See the ball over there?
+Papa: Barkley. See the ball over there?
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
-Papa: Momo, show Barley the ball there.
+Papa: Momo, show Barkley the ball there.
 
 Momo: OK!
 
-Momo: Barley!
+Momo: Barkley!
 
 Momo: Over here! The ball's over here!
 
-Papa: Barley, over there. There's the ball.
+Papa: Barkley, over there. There's the ball.
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Papa: Yes, Barley! Go get it!
+Papa: Yes, Barkley! Go get it!
 
-Papa: Barley. Bring me the ball! Ball!
+Papa: Barkley. Bring me the ball! Ball!
 
-Barley: *Wan!* *Homf*
+Barkley: *Wan!* *Homf*
 
-Momo: Yes, Barley, that way! Take it to papa!
+Momo: Yes, Barkley, that way! Take it to papa!
 
-Papa: Barley, bring the ball. Bring papa the ball.
+Papa: Barkley, bring the ball. Bring papa the ball.
 
-Barley: *Brings it*
+Barkley: *Brings it*
 
 Momo: Yatta!!!
 
-Papa: Gooooood, Barley! Great, Barley!
+Papa: Gooooood, Barkley! Great, Barkley!
 
-Barley: *Happy yip yap!!*
+Barkley: *Happy yip yap!!*
 
 Papa: Good, just like that. Momo, now you try.
 
 Momo: OK!
 
-Momo: Barley, come here!
+Momo: Barkley, come here!
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Momo: Good, Barley! Good boy, good boy!
+Momo: Good, Barkley! Good boy, good boy!
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
-Momo: Barley, ball! That ball! Bring me that ball!
+Momo: Barkley, ball! That ball! Bring me that ball!
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Momo: Barley.....
-
-- 👉Teach "fetch" 
-- Quit teaching
-
-Momo: Barley, ball! Bring me the ball!
-
-Barley: *sniff sniff*
-
-Momo: No, Barley....
+Momo: Barkley.....
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-Momo: Barley! Go get the ball! Please!
+Momo: Barkley, ball! Bring me the ball!
 
-Barley: *Yawn*
+Barkley: *sniff sniff*
+
+Momo: No, Barkley....
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-Momo: .....Barley!! BALL! GET THE BALL!
+Momo: Barkley! Go get the ball! Please!
 
-Barley: *whimper*
+Barkley: *Yawn*
+
+- 👉Teach "fetch" 
+- Quit teaching
+
+Momo: .....Barkley!! BALL! GET THE BALL!
+
+Barkley: *whimper*
 
 Papa: Momo... Momo, you're getting a little frustrated, aren't you?
 
 Momo: ?!
 
-Papa: Barley has a heart, you know. Since Barley won't do what you want, you got a little frustrated, right? Barley is very sensitive. He can understand your body language... and he won't come to you if you're irritated.
+Papa: Barkley has a heart, you know. Since Barkley won't do what you want, you got a little frustrated, right? Barkley is very sensitive. He can understand your body language... and he won't come to you if you're irritated.
 
-Mama: Right. So if Barley fetches even once, maybe you should lavish him with praise! That would make him happy, very happy. If you do that, Barley might bring you the ball to get that praise again!
+Mama: Right. So if Barkley fetches even once, maybe you should lavish him with praise! That would make him happy, very happy. If you do that, Barkley might bring you the ball to get that praise again!
 
 Momo: Ohhhh..... OK, I got it! I won't get frustrated! I'll praise him a bunch!... Right?
 
@@ -265,16 +265,16 @@ Momo: Let's try it!
 - 👉Teach "fetch" 
 - Quit teaching
 
-Momo: Barley. Bring me the ball! Ball. The ball!
+Momo: Barkley. Bring me the ball! Ball. The ball!
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 - 👉Teach "fetch" 
 - Quit teaching
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Momo: Look, Barley. Over there. Bring me that ball.
+Momo: Look, Barkley. Over there. Bring me that ball.
 
 Momo: *Wan?*
 
@@ -282,37 +282,37 @@ Momo: Yes! Bring that ball!
 
 Momo: *hehe*
 
-Momo: Nooo, Barley. Hm, he doesn't get it...
+Momo: Nooo, Barkley. Hm, he doesn't get it...
 
-Momo: Look, Barley. There. That ball.
+Momo: Look, Barkley. There. That ball.
 
-Barley: *Wan wan! Wan wan!*
+Barkley: *Wan wan! Wan wan!*
 
 Momo: .....!!
 
-Barley: *almoooost*
+Barkley: *almoooost*
 
-Papa: Look, Barley! Over to Momo!
+Papa: Look, Barkley! Over to Momo!
 
-Momo: Barley, bring me that ball like a good boy! Barley!
+Momo: Barkley, bring me that ball like a good boy! Barkley!
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
-Momo: Barley! Bring it. Bring it here!
+Momo: Barkley! Bring it. Bring it here!
 
-Barley: *Fetches like a champ*
+Barkley: *Fetches like a champ*
 
-Momo: Barley..... YOU DID IT! YOU FETCHED!
+Momo: Barkley..... YOU DID IT! YOU FETCHED!
 
-Momo: Barley! Wonderful! Wonderful! Barley is a very good boy!
+Momo: Barkley! Wonderful! Wonderful! Barkley is a very good boy!
 
-Momo: Papa, Mama, Barley finally learned how to fetch!
+Momo: Papa, Mama, Barkley finally learned how to fetch!
 
 Mama: Yes, very good, Momo!
 
-Papa: I think Barley might have understood your heart, Momo.
+Papa: I think Barkley might have understood your heart, Momo.
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Mama: Sleep is very important for a puppy, isn't it? It would be very very bad for him to get sick. So! Let's put him to bed, shall we?
 
@@ -320,15 +320,15 @@ Momo: Haaaai.
 
 Papa: Tomorrow you can play with the ball, Momo.
 
-Momo: That's right! Good night, Barley!
+Momo: That's right! Good night, Barkley!
 
 ## At home
 
-Papa: It's Sunday today, so it'd be nice to go to the park and play ball with Barley.
+Papa: It's Sunday today, so it'd be nice to go to the park and play ball with Barkley.
 
-Momo: Yeah! Let's go! Barley!!
+Momo: Yeah! Let's go! Barkley!!
 
-Barley: *Wan! Wan!*
+Barkley: *Wan! Wan!*
 
 Momo: Be back sooooon!
 
@@ -336,14 +336,14 @@ Mama: Take care!
 
 ## At the park
 
-Momo: Good, Barley! Can you fetch this? Here we go!
+Momo: Good, Barkley! Can you fetch this? Here we go!
 
 - 👉Throw gently
 - Throw hard
 
 Momo: Here goes!
 
-Momo: Barley, amazing! You learned how to fetch perfectly!
+Momo: Barkley, amazing! You learned how to fetch perfectly!
 
 Momo: Here comes one more!
 
@@ -352,42 +352,42 @@ Momo: Here comes one more!
 
 Momo: There!
 
-Barley: *Epic jump catch*
+Barkley: *Epic jump catch*
 
-Momo: Awesome, Barley! How come you can do that, I never taught you!
+Momo: Awesome, Barkley! How come you can do that, I never taught you!
 
 Momo: Here comes one more!
 
 - Throw gently
 - 👉Throw hard
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Momo: Okaaay, this next one is gonna be hard, think you can do it?
 
-Momo: Okay, here we go, Barley! THERE!
+Momo: Okay, here we go, Barkley! THERE!
 
-Barley: *Jumps into bush*
+Barkley: *Jumps into bush*
 
-Momo: Barley, you there?
+Momo: Barkley, you there?
 
-Momo: ....Barleyyy?
+Momo: ....Barkleyyy?
 
-Momo: Barley, Barley! Come! Come back!
+Momo: Barkley, Barkley! Come! Come back!
 
-Momo: Barleyyy. (While calling out Barley's name, I got hungry all of a sudden...)
+Momo: Barkleyyy. (While calling out Barkley's name, I got hungry all of a sudden...)
 
-Momo: Barleyyy.... What happened...?
+Momo: Barkleyyy.... What happened...?
 
-Barley: *Jumps out with a definitely not creepy doll*
+Barkley: *Jumps out with a definitely not creepy doll*
 
-Momo: Barley!
+Momo: Barkley!
 
 Momo: What were you doinnng? I was worrrieedd!
 
 Momo: Wh, what's that? You picked up something other than the ball...
 
-Barley: *Wan!*
+Barkley: *Wan!*
 
 Momo: That... That doll, where do I...?
 
@@ -399,7 +399,7 @@ Momo: It was really important, so why can't I remember...
 
 Momo: Judy... That's it! This is Judy!!!
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Judy: *JUMPS TO LIFE TERRIFYINGLY*
 
@@ -499,9 +499,9 @@ Momo: Eeehh! Judy!!!
 
 Momo: Mr. Clock!
 
-Barley: *Wan!* *Jumps in the bushes*
+Barkley: *Wan!* *Jumps in the bushes*
 
-Momo: Ah... Barley! Oh... wait for meeeeeeeeee!
+Momo: Ah... Barkley! Oh... wait for meeeeeeeeee!
 
 ## Forest
 
@@ -511,9 +511,9 @@ Voice: Momo-chan... Momo-chan...
 
 Momo: *Waking up* Mama? What time is it?
 
-Barley: *lick*
+Barkley: *lick*
 
-Momo: Kya! Barley... Where am i?
+Momo: Kya! Barkley... Where am i?
 
 Clock: Momo-chan, this is Momoland.
 
@@ -601,25 +601,25 @@ Clock: Well then, let us briskly and without sluggishness return these memories.
 
 Momo: But... how?
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Clock: UWAAAAAAAAAAAAH! DOG!! HERE!!! REMAIN CALM!
 
-Momo: Barley, what is it?
+Momo: Barkley, what is it?
 
-Momo: Could Barley have found something that could be a clue?
+Momo: Could Barkley have found something that could be a clue?
 
 Judy: If so, he may be small, but he's certainly a very helpful dog!
 
-Momo: Barley, it's all you!
+Momo: Barkley, it's all you!
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 ## Tree
 
-Momo: Huff huff... Barley.... huff... is there something... huff... about this tree?
+Momo: Huff huff... Barkley.... huff... is there something... huff... about this tree?
 
-Barley: *Wan wan!*
+Barkley: *Wan wan!*
 
 Voice: Ahhhhh, help meee!
 
@@ -627,19 +627,19 @@ Momo: Was that someone's... voice?
 
 Judy: That voice...
 
-Earb: Someone helllp meeee!
+Muku: Someone helllp meeee!
 
-Earb: Ahhh, won't someone return my ear-mon!
+Muku: Ahhh, won't someone return my ear-mon!
 
 Cukeman: Cyu-cyu-cyu-cyuke!
 
 Cukeman: If you want it back so bad, why dont'cha come on down from da tree and get it? Haw haw!
 
-Earb: Ohhh...
+Muku: Ohhh...
 
 Cukeman: Cyu-cyu-cyuke! Haw haw! What's wrong? Come on dowwwwn!
 
-Earb: I'M SCARED! Someone help meeeeee!
+Muku: I'M SCARED! Someone help meeeeee!
 
 Clock: Why, that bear is...
 
@@ -649,7 +649,7 @@ Momo: But it's familiar... Ummm, umm, a bear...
 
 Judy: Momo-chan, you can do it! Think back!
 
-Momo: Errr... That's right! Earb the bear!! It's Earb!
+Momo: Errr... That's right! Muku the bear!! It's Muku!
 
 Cukeman: Cyu cyuke, what's dis, youse some kinda friends of Prince Bear over there?
 
@@ -659,7 +659,7 @@ Judy: You cucumbers all are just minions of the Dark Lord Cabbage, aren't you?
 
 Judy: Stop picking on defenseless people!
 
-Barley: *grrrr*
+Barkley: *grrrr*
 
 Cukeman: Cyu-cyu-cyuke. Well, what are you gonna do about it, hmm?
 
@@ -667,15 +667,15 @@ Cukeman: Youse! You wanna start something with me, Cukeman??!
 
 Cukeman: I'll scrub your cucumberbumps clean off yas!
 
-Barley: *Jumps into hole in tree* 
+Barkley: *Jumps into hole in tree* 
 
-Barley: *Emerges from another hole*
+Barkley: *Emerges from another hole*
 
-Clock: Ah, Barley! I see, the holes must be connected.
+Clock: Ah, Barkley! I see, the holes must be connected.
 
 Cukeman: O-ho! Prince Pup's come out to play, cuke.
 
-Barley: *grrr, wan!*
+Barkley: *grrr, wan!*
 
 Cukeman: Oi, Prince Puppy. One thing about us cukes is we loooooooooooove riddles-cuke.
 
@@ -691,17 +691,17 @@ Shall we go over the rules?
 * 👉Yes! explain
 * I know, I'm good
 
-Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules are: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
+Momo-chan. Since Barkley can't really be expected to know riddles, you'll give him the answers. The rules are: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
 
 *Example plays out*
 
-Momo: Barley, number two!
+Momo: Barkley, number two!
 
-Barley: *barks twice!*
+Barkley: *barks twice!*
 
 Think carefully before you answer, Momo-chan.
 
-# Cucumber Cuiz
+# Q-cumber Quiz
 
 [Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer.]
 
@@ -771,7 +771,7 @@ I'm far away, but I look like I'm near by. What kind of shop am I?
 2. ソバ屋 [soba shop]
 3. ラーメン屋 [ramen shop]
 
-[Hint: "soba" also means "nearby"]
+[Hint: "soba" also means "nMukuy"]
 
 The darker it gets, the easier you can see me. What am I?
 
@@ -810,7 +810,7 @@ Cukeman: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
 
 Momo: Do you give up?!
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Cukeman: Cuke... it's over... we lost-cuke.
 
@@ -818,37 +818,37 @@ Cukeman: We lost to... lost to a.. a Prince Pup...
 
 Cukeman: Shoot. You'll regret dis!
 
-Earb: You brought my ear back!
+Muku: You brought my ear back!
 
-Barley: *wanwan!*
+Barkley: *wanwan!*
 
-Earb: Thank you!
+Muku: Thank you!
 
-Momo: Barley, this is Earb.
+Momo: Barkley, this is Muku.
 
-Barley: *wan!*
+Barkley: *wan!*
 
-Momo: Earb might be a little bit of a crybaby, but he's a very, very sweet bear.
+Momo: Muku might be a little bit of a crybaby, but he's a very, very sweet bear.
 
-Momo: When I was a little girl, I was afraid of thunder, and I'd cling to Earb.
+Momo: When I was a little girl, I was afraid of thunder, and I'd cling to Muku.
 
-Momo: Ever since then, Earb has always been by my side, absorbing all my fears.
+Momo: Ever since then, Muku has always been by my side, absorbing all my fears.
 
 Momo: How could anyone bully such a sweet bear?
 
-Earb: I, I dunno-mon.
+Muku: I, I dunno-mon.
 
-Earb: I was just playing at home when the Dark Lord Cabbage and his Cukemen came...
+Muku: I was just playing at home when the Dark Lord Cabbage and his Cukemen came...
 
-Earb: *sniffle* My ear... they... tore it up-mon...
+Muku: *sniffle* My ear... they... tore it up-mon...
 
 Judy: That's horrible!!
 
 Momo: So, you were waiting all this time for us to come?
 
-Earb: That's right-mon.
+Muku: That's right-mon.
 
-Earb: Even though I'm afraid of heights, I had to wait it out up in that tree-mon.
+Muku: Even though I'm afraid of heights, I had to wait it out up in that tree-mon.
 
 Judy: Ah! Wait, is that... possibly... a doghouse?
 
@@ -856,25 +856,25 @@ Momo: I, I recognize that! That's... that's... that's right!
 
 Momo: Captain! Captain's doghouse!
 
-Momo: Barley, when I was little, looong before you came to our house, a dog named Captain lived with us.
+Momo: Barkley, when I was little, looong before you came to our house, a dog named Captain lived with us.
 
 Momo: He was also much, muuuch bigger than you.
 
-Momo: Earb, is Captain in this world too!?
+Momo: Muku, is Captain in this world too!?
 
-Earb: He lives with an old man in a forest wayyyyyyyyyy out there, way beyond that mountain-mon.
+Muku: He lives with an old man in a forest wayyyyyyyyyy out there, way beyond that mountain-mon.
 
 Momo: Old man... it couldn't be... grandpa?
 
 Momo: My grandpa... who passed away?!
 
-Earb: That's right-mon.
+Muku: That's right-mon.
 
 Momo: I can... I can meet my grandpa again!!
 
-Momo: Earb, how do we get to that forest where grandpa is living?
+Momo: Muku, how do we get to that forest where grandpa is living?
 
-Earb: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
+Muku: I... don't know.... But I heard it's on the other side of that huge mountain, Mt. Elementary.
 
 Clock: But... crossing Mt. Elementary........ that's impossible!
 
@@ -884,9 +884,9 @@ Judy: Right? *points to map*
 
 Momo: Oh... well, what should we do...
 
-Earb: It might be best if you take Momo Unit 01.
+Muku: It might be best if you take Momo Unit 01.
 
-Earb: Momo Unit 01 can fly through the air!
+Muku: Momo Unit 01 can fly through the air!
 
 Momo: Momo Unit 01?
 
@@ -898,9 +898,9 @@ Clock: All too common an occurrence among young children, I am afraid. Regrettab
 
 Momo: Sure, it was important to me, but... but FLYING with Momo-1...
 
-Momo: Earb, where is Momo Unit 01?
+Momo: Muku, where is Momo Unit 01?
 
-Earb: Since this is the land of memories, Momo-1 should be in the place from your memories: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
+Muku: Since this is the land of memories, Momo-1 should be in the place from your memories: "Kindergarten"-mon. Unfortunately, since Kindergarten was claimed by the Potato Bonbons as part of their territory, they may have made it into farmland-mon.
 
 Momo: Which way is Kindergarten?
 
@@ -910,7 +910,7 @@ Clock: I despise Kindergarten! For starters, the little grains of sand in the sa
 
 Judy: Shut up, old man!
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
 Momo: Well, what are we waiting for, guys?
 
@@ -934,23 +934,23 @@ Bonbon: Bahahahahaaaaa! You got it good-bonbon! You dingleberries are stuck with
 
 Momo: What do we do now...
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Momo: .... What, Barley?
+Momo: .... What, Barkley?
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Momo: Barley, what are you trying to say?
+Momo: Barkley, what are you trying to say?
 
-Barley: *wan wan wan!*
+Barkley: *wan wan wan!*
 
-Judy: Could Barley be saying that he can sniff out the bombs?
+Judy: Could Barkley be saying that he can sniff out the bombs?
 
-Earb: That's right-mon! Barley is saying exactly that!
+Muku: That's right-mon! Barkley is saying exactly that!
 
-Momo: Barley, we're counting on you. Guide us to Momo-1 safely, please!
+Momo: Barkley, we're counting on you. Guide us to Momo-1 safely, please!
 
-Barley: *wan!*
+Barkley: *wan!*
 
 ## Potatomaze
 
@@ -959,13 +959,13 @@ Shall we explain how to play?
 * 👉Yes! explain
 * I know, I'm good
 
-Barley is able to find the potatobombs by smell. Move Barley to Momo-1 without making him step on any bombs. Use the D-pad to move Barley. If there are any bombs, Barley will find them on his own. If you step on any, they'll explode, so be careful.
+Barkley is able to find the potatobombs by smell. Move Barkley to Momo-1 without making him step on any bombs. Use the D-pad to move Barkley. If there are any bombs, Barkley will find them on his own. If you step on any, they'll explode, so be careful.
 
 [Notes: There are also holes to investigate. Walking over a hole will not cause you to fall or anything.]
 
 ### Uncovering a mole
 
-Momo: Ah! A mole! Kawaiiiiii!
+Momo: Ah! A mole! So cute!
 
 Bonbon: Heeeeeeeee!! I hate moles! HAAATE MOLLEEESSSS-BONNNN!!
 
@@ -979,7 +979,7 @@ Momo: Yes! Thank you, Mr. Mole!
 
 ### Reaching Momo-1
 
-Momo: Yatttaaaaaa! Awesome, Barley!!!
+Momo: Yatttaaaaaa! Awesome, Barkley!!!
 
 Momo: I'm sorry, Momo-1, for leaving you...
 
@@ -987,27 +987,27 @@ Unit 01: It's all right, Momo-chan. Thank you for saving me!
 
 Bonbon: Damn! Damn! No fair borrowing Prince Pup's powers, that's cheating!
 
-Momo: Barley is one of us, there's nothing "unfair" about it! He's our friend!
+Momo: Barkley is one of us, there's nothing "unfair" about it! He's our friend!
 
 Bonbon: You're friends with a dog? That's messed up-bon. Help me out here, bro.
 
 Bonbon: Sure, bro. Prince Wan? More like a servant. A pathetic stray mutt-bon.
 
-Earb: That's h-horrible...
+Muku: That's h-horrible...
 
 Momo: You guys! What do you think you're saying?!
 
 Bonbon: He's just telling it like it is-bon.
 
-Momo: ENOUGH!!! Barley is our very, very dear friend!
+Momo: ENOUGH!!! Barkley is our very, very dear friend!
 
 Momo: *kicks bonbons into space*
 
 Bonbon: Shiiiiiii- We won't forget this-bonnnnnnnnnn....
 
-Momo: Barley, you ARE our best friend.
+Momo: Barkley, you ARE our best friend.
 
-Judy: Momo-chan! Which of us is your best friend, me or Barley!?
+Judy: Momo-chan! Which of us is your best friend, me or Barkley!?
 
 Momo: Eh? Eh?
 
@@ -1015,23 +1015,23 @@ Judy: Which is your best friend!? You have to pick!
 
 Momo: Which is best? You can't be compared like that.
 
-Judy: No way, no way!! You and me have been together SO much longer than Barley!
+Judy: No way, no way!! You and me have been together SO much longer than Barkley!
 
 Momo: Judy....
 
-Earb: Judy, stop being jealous-mon.
+Muku: Judy, stop being jealous-mon.
 
 Judy: Hey!
 
-Earb: More importantly, Momo-chan, without Mr. Clock, you can't go back home-mon... what are you going to do?
+Muku: More importantly, Momo-chan, without Mr. Clock, you can't go back home-mon... what are you going to do?
 
 Momo: Yeah...... But my grandpa is somewhere in this world, right? Grandpa's hobby was tinkering with mechanical stuff! I think he could definitely fix Mr. Clock for us!
 
-Momo: What is it, Barley? There's no more bombs, you don't have to keep sniffing for them.
+Momo: What is it, Barkley? There's no more bombs, you don't have to keep sniffing for them.
 
-Barley: *digs* *wan wan!*
+Barkley: *digs* *wan wan!*
 
-Earb: I wonder if he's saying there's something here?
+Muku: I wonder if he's saying there's something here?
 
 Judy: Kyaaah! A bomb?!
 
@@ -1045,7 +1045,7 @@ Unit 01: That's right, it's the backpack you used in Kindergarten.
 
 Momo: But, the shoulder strap broke, and I couldn't use it any more. Ahh, that's right... when I put something in it I'd call it my magic bag...
 
-Earb: Well, then this is a REAL magic bag-mon! The things you believed in are all true here, you see-mon?
+Muku: Well, then this is a REAL magic bag-mon! The things you believed in are all true here, you see-mon?
 
 Momo: For real? It's really a magic bag??
 
@@ -1069,39 +1069,39 @@ Unit 01: But I'm okay now! You remembered, so now I can fly freely-wak!
 
 Momo: All right, everyone! Let's go find Grandpa! On Momo Unit 01!
 
-Momo: Oh, what should we do about Barley?
+Momo: Oh, what should we do about Barkley?
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Momo: Is there any way... in this world, could Barley fly, I wonder?
+Momo: Is there any way... in this world, could Barkley fly, I wonder?
 
 Unit 01: It's okay-wak, Momo-chan. As long as he's by me, with those big ears, he can surely fly!
 
 *UNIT 01 TRANSFORM!*
 
-Momo: Whaaa! This is incredible! Barley, you really can fly!
+Momo: Whaaa! This is incredible! Barkley, you really can fly!
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Momo: Barley, I wonder why you can't talk like everyone else?
+Momo: Barkley, I wonder why you can't talk like everyone else?
 
-Judy: It's gotta be because Barley isn't your REAL friend yet. You've been talking to ME for 10 years already!
+Judy: It's gotta be because Barkley isn't your REAL friend yet. You've been talking to ME for 10 years already!
 
 Momo: Ugh, enough, Judy! Change up your attitude or you're gonna get a tickling!
 
 Judy: Poop.
 
-Momo: But, it would sure be nice if you could talk like everyone else, Barley.
+Momo: But, it would sure be nice if you could talk like everyone else, Barkley.
 
-Barley: *whimper*
+Barkley: *whimper*
 
 Judy: Hey, how'd you like to get a better look at the scenery?
 
-Earb: Stooop. It's scary-mon...
+Muku: Stooop. It's scary-mon...
 
 Judy: Lookie, lookie!
 
-Earb: Stopitstopitstopit-mon! Quit it, Judyyyy, quit itttt!
+Muku: Stopitstopitstopit-mon! Quit it, Judyyyy, quit itttt!
 
 Momo: HEY! JUDY! It's tickle time!
 
@@ -1125,7 +1125,7 @@ Judy: Wait a second!! Momo-chan!! Before we get to the forest, isn't there... Le
 
 Momo: Oh, okay.... is something wrong with that?
 
-Earb: It's terrible! That's where the Miracle Lemons are!
+Muku: It's terrible! That's where the Miracle Lemons are!
 
 Unit 01: Oh, Momo-chan, I'm no good with the Miracle Lemons... just ONE of their acid slice attacks and folks like me go rusty instantly-wak!
 
@@ -1133,7 +1133,7 @@ Momo: Why? So maybe we should just keep flying? After all, we just flew over a h
 
 Unit 01: There's crazy strong wind currents above Lemon Hill, we simply can't cross it by flying-wak!
 
-Earb: I hate sour stuff-mon. It stings my eye-eyes-mon.
+Muku: I hate sour stuff-mon. It stings my eye-eyes-mon.
 
 Judy: Lemon facials are to blame for this blotch on my skin! Those lemons are the only thing I can't stand!
 
@@ -1143,15 +1143,15 @@ Momo: I guess there's no alternative... let's go in for a landing.
 
 Momo: What should we do... Since you all have problems with the Lemons...
 
-Momo: Looks like there's no other way, should Barley and I go ahead?
+Momo: Looks like there's no other way, should Barkley and I go ahead?
 
 Judy: Nonono! Judy will go too! We can't get separated!
 
-Earb: Judy, don't be selfish-mon.
+Muku: Judy, don't be selfish-mon.
 
 Unit 01: Quaaaack! Momo-chan, the backpack! The magic bag-wak!
 
-Momo: Eh?? You mean the backpack Barley just dug up?
+Momo: Eh?? You mean the backpack Barkley just dug up?
 
 Unit 01: Quack-quack-that's-right. Everyone, we can go in there together-wak!
 
@@ -1177,21 +1177,21 @@ Unit 01: Wak... Momo-chan, sorry I can't be of service...
 
 Unit 01: But we'll be cheering you on, wak wak!
 
-Earb: I think the Lemons will definitely know where your Grandpa lives. Momochan, good luck!
+Muku: I think the Lemons will definitely know where your Grandpa lives. Momochan, good luck!
 
 *The backpack shrinks down*
 
-Momo: Well, Barley, it's down to just you and me now...
+Momo: Well, Barkley, it's down to just you and me now...
 
-Barley: *wan! wan! wan!*
+Barkley: *wan! wan! wan!*
 
-Momo: Thanks for the encouragement! Okay, Barley, let's do this!
+Momo: Thanks for the encouragement! Okay, Barkley, let's do this!
 
 ## Lemon Hill Crossroads
 
 Momo: We've arrived...
 
-Barley: *whimper*
+Barkley: *whimper*
 
 Momo: I've got a bad feeling about this place, somehow...
 
@@ -1242,7 +1242,7 @@ Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Maddening! Exasperating! Infuriatiii
 
 Momo: Yattaaaaa!!
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
 Lemon: Kyuu...
 
@@ -1358,19 +1358,19 @@ Momo: Ahhhhhh, I'm such an idiot! How could I have forgotten the time I had with
 
 Momo: What do I do... I'm sorry... Gunbot...
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Momo: Yeah... At least we know the whereabouts of Grandpa now.
 
 Momo: In any case, let's go to see Grandpa!
 
-Barley: *wan! wan!*
+Barkley: *wan! wan!*
 
 ## Grandpa's House
 
 Momo: Could it really be grandpa's....
 
-Earb: There might be Veggies there-mon...
+Muku: There might be Veggies there-mon...
 
 Judy: We have to protect this peaceful forest from the Vegetable Corps! If we run into any, we'll drive 'em out just like that!
 
@@ -1378,7 +1378,7 @@ Momo: That's right.
 
 Judy: Urk! Will you look at the state of that shack!?
 
-Earb: Nooo, I'm scared-mon!
+Muku: Nooo, I'm scared-mon!
 
 Gramps: Hello? Can I help you?
 
@@ -1450,51 +1450,51 @@ Clock: I say, why is everybody staring at me?
 
 Gramps: Mister, you were broken, and everyone was worried sick about you is why.
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Gramps: Oh, well if you aren't a cute one. Momo, what's this little guy's name?
 
-Momo: This is Barley! He's my new best friend!
+Momo: This is Barkley! He's my new best friend!
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Gramps: Ahh? So it's Barley?
+Gramps: Ahh? So it's Barkley?
 
 Gramps: Look, I've got some cheese, do you want it?
 
 Gramps: Haha! Is that good? Huh? One more? All right, all right.
 
-Momo: Grandpa? Everyone else can talk, how come Barley is the only one who can't talk?
+Momo: Grandpa? Everyone else can talk, how come Barkley is the only one who can't talk?
 
 Gramps: Momo, words aren't the only way to understand someone's feelings, you know.
 
 Gramps: Ohhh, really? I see.
 
-Gramps: So you love cheese, Barley.
+Gramps: So you love cheese, Barkley.
 
-Momo: Could it... Can you understand Barley's words, Grandpa?
+Momo: Could it... Can you understand Barkley's words, Grandpa?
 
 Gramps: Oh, I understand. But we aren't speaking with words, you know.
 
-Gramps: It's communication of the heart. Captain's words, and Barley's words, this old heart can hear alllll of them. Isn't that right, Barley?
+Gramps: It's communication of the heart. Captain's words, and Barkley's words, this old heart can hear alllll of them. Isn't that right, Barkley?
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Gramps: "Cheese tastes good," he says, hoh!
 
-Momo: Why? Why? I want so badly to communicate with Barley, why can't I seem to understand?
+Momo: Why? Why? I want so badly to communicate with Barkley, why can't I seem to understand?
 
 Gramps: Momo, you mustn't rush it.
 
 Gramps: Try and listen closely to your heart.
 
-Gramps: If you truly want to understand Barley, your heart must be open.
+Gramps: If you truly want to understand Barkley, your heart must be open.
 
 Gramps: Sloooowly, take your time.
 
 Judy: Momo's grandpa! Listen, because of Dark Lord Cabbage, the World of Memories is in peril!
 
-Earb: That's right-mon. Dark Lord Cabbage is erasing all the memories-mon!
+Muku: That's right-mon. Dark Lord Cabbage is erasing all the memories-mon!
 
 Gramps: Is that so?... Well, I'd like to help... It's terrible, but, I'm afraid I can't...
 
@@ -1542,7 +1542,7 @@ Momo: Oh? So, let's start by looking for the Pumpkin!
 
 Momo: Flower Bracelet, where is the Hallo-Pumpkin?!
 
-Earb: Nooooo! Picture-Book Forest was so pretty, I can't believe it's gone black and white-mon!
+Muku: Nooooo! Picture-Book Forest was so pretty, I can't believe it's gone black and white-mon!
 
 Clock: Surely, this is the doing of Hallo-Pumpkin!
 
@@ -1578,27 +1578,27 @@ Momo: You were always by my side, Captain...
 
 Momo: I'm truly happy...
 
-Barley: *wan!*
+Barkley: *wan!*
 
-Momo: ? What is it, Barley?
+Momo: ? What is it, Barkley?
 
-Barley: *wan! wan!*
+Barkley: *wan! wan!*
 
-Momo: Barley, what is it? Are you trying to tell us something?
+Momo: Barkley, what is it? Are you trying to tell us something?
 
-Gramps: Momo, don't rely on words. Look closely at Barley. Clear your heart.
+Gramps: Momo, don't rely on words. Look closely at Barkley. Clear your heart.
 
 Momo: Yes.
 
-Barley: Barley...
+Barkley: Barkley...
 
-Barley: Barley will...
+Barkley: Barkley will...
 
-Barley: fight with
+Barkley: fight with
 
-Barley: Momo-chan
+Barkley: Momo-chan
 
-Momo: Barley!! Thank you!
+Momo: Barkley!! Thank you!
 
 Grandpa: Momo...
 
@@ -1620,11 +1620,11 @@ Gramps: ...Please be careful... Momo...
 
 ## Picture-Book Forest
 
-Earb: Brr... what an eerie forest-mon...
+Muku: Brr... what an eerie forest-mon...
 
 Judy: Eeek, look, a ghost!
 
-Earb: KYAAAAAAAAAH! Nonono! Heelllllppp!!
+Muku: KYAAAAAAAAAH! Nonono! Heelllllppp!!
 
 Clock: Judy, now is not the time for pranks!
 
@@ -1632,7 +1632,7 @@ Judy: Hehe.
 
 Judy: Hm??... AAH!
 
-Earb: Enough, Judy, stooop!
+Muku: Enough, Judy, stooop!
 
 Clock: Judy, if you must joke, you should at least work on your timing.
 
@@ -1642,7 +1642,7 @@ Unit 01: She's right! Something's there-waaak!
 
 Clock: Urk! You are correct, there is something!
 
-Barley: *grr*
+Barkley: *grr*
 
 Momo: It's a Pumpkin!
 
@@ -1650,9 +1650,9 @@ Clock: Agh! Pumpkin!
 
 Voice: Quiz time! Quiz time!
 
-Earb: Kyaah!
+Muku: Kyaah!
 
-Barley: *wan wan wan!*
+Barkley: *wan wan wan!*
 
 Pumpkin: Quiz time! Quiz time!
 
@@ -1697,7 +1697,7 @@ Pumpkin: Yeah yeah YEAAAAH!
 2. ミミズ [a worm]
 3. モグラ [a mole]
 
-[Unused?] At Momo's house, Barley learned "sit" and what else?
+[Unused?] At Momo's house, Barkley learned "sit" and what else?
 
 1.「チンチン」["Beg"]
 2.「おまわり」 ["Spin"]
@@ -1773,7 +1773,7 @@ What's the name of Momo's doggie?
 
 1. ガンボット [Gunbot]
 2. ムク [Yikes!]
-3. Barley
+3. Barkley
 
 
 ## Quiz over
@@ -1808,7 +1808,7 @@ Momo: Huh!? Where are we?
 
 Clock: It would appear that somehow, we have been dropped into the middle of a picture book...
 
-Earb: Who... Who's over there-mon!?
+Muku: Who... Who's over there-mon!?
 
 A long time ago, in a far-off land, there was an astonishingly beautiful princess by the name of Snow White. This princess was so beautiful that each day, she would get carried away and do just as she pleased.
 
@@ -2174,7 +2174,7 @@ Momo: Yeah. Turn back the page!
 
 Long ago, there was a girl who was known for her red kerchief as Little Red Riding Hood. Little Red Riding Hood had a grandmother who lived alone in the forest. But the old woman had fallen ill. So, accompanied by a big dog, a tricycle, a little girl, and a stuffed bear, she set off to visit her poor granny.
 
-Judy: Huh? Barley's not here.
+Judy: Huh? Barkley's not here.
 
 Momo: No, he's in the basket. He has to defeat the wolf later on.
 
@@ -2282,7 +2282,7 @@ Momo: Ok. FLOWER BRACELET!
 
 Momo: I wish... we were taken out of this picture book!
 
-Barley: *woof woof woof woof woof woof!*
+Barkley: *woof woof woof woof woof woof!*
 
 Captain: *WURF WURF!*
 
@@ -2318,7 +2318,7 @@ Pumpkin: About that...
 
 Clock: Return them immediately!
 
-Barley: *grrrrr*
+Barkley: *grrrrr*
 
 Pumpkin: Eheheh, they're all in a cabbage patch near us!
 
@@ -2362,42 +2362,42 @@ Judy: What are those...
 
 Unit 01: Cabbages, huh...
 
-Earb: There's something funny about those cabbages-mon.
+Muku: There's something funny about those cabbages-mon.
 
-Earb: It's almost as if their leaves are mouths-mon.
+Muku: It's almost as if their leaves are mouths-mon.
 
 Momo: Something... feels wrong...
 
-Barley: *wan wan!*
+Barkley: *wan wan!*
 
-Momo: What is it, Barley?
+Momo: What is it, Barkley?
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Captain: He's saying there's something inside that cabbage.
 
 Momo: Could it really be the book's characters like Pumpkin said...?
 
-Earb: Inside the cabbage...?
+Muku: Inside the cabbage...?
 
 Clock: At any rate, we had better help it.
 
-Momo: Ah! Barley!
+Momo: Ah! Barkley!
 
-Momo: Barley, clever, clever boy!
+Momo: Barkley, clever, clever boy!
 
-Momo: Barley, well done!
+Momo: Barkley, well done!
 
 Momo: Can your nose sniff out those main characters even in the dirt?
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Shall we explain how to play?
 
 * 👉Yes! explain
 * I know, I'm good
 
-Momo-chan. Use Barley's nose to search for the heroes of the picture book! Moving Barley is just like in the potato fields, use the D-pad. Try to press the directions toward the smell of the cabbages. There are 5 heroes and heroines. Save them all before they get completely gobbled up! Good luck, Momo-chan!
+Momo-chan. Use Barkley's nose to search for the heroes of the picture book! Moving Barkley is just like in the potato fields, use the D-pad. Try to press the directions toward the smell of the cabbages. There are 5 heroes and heroines. Save them all before they get completely gobbled up! Good luck, Momo-chan!
 
 
 
@@ -2423,9 +2423,9 @@ Judy: Tsk! Lame.
 
 Bunbuku: Buhaaa! You saved me!
 
-Earb: It looks like there's a bowl on your back-mon?
+Muku: It looks like there's a bowl on your back-mon?
 
-Momo: Earb, that's "Teakettle"! 
+Momo: Muku, that's "Teakettle"! 
 
 [Bunbuku Chagama, or "Bunbuku tea-kettle" is a Japanese folktale about a raccoon that uses its shapeshifting powers to reward its rescuer for his kindness]
 
@@ -2459,9 +2459,9 @@ So, Momo-chan. There's just one storybook hero left to find. Good luck!
 
 
 
-Barley: *whimper!*
+Barkley: *whimper!*
 
-Momo: Barley!
+Momo: Barkley!
 
 ???: Gahhh-ha-ha-ha-ha-ha-haaaaa...
 
@@ -2475,13 +2475,13 @@ TBC: They call me... THE BIG CABBAGE!!
 
 TBC: You impudent fools... you are the scoundrels who dare oppose the Dark Lord Cabbage.
 
-Momo: Give Barley back!!
+Momo: Give Barkley back!!
 
 TBC: Heh. And you must be the one they call Momo.
 
 TBC: You have something to say to ME?
 
-Momo: Give Barley back, you dumb cabbage!
+Momo: Give Barkley back, you dumb cabbage!
 
 TBC: WHAT! Are you sure you don't want to apologize for that?! You would dare speak such vile words against US?
 
@@ -2501,7 +2501,7 @@ Momo: But...
 
 TBC: Gaaaaahh-hahahahaha! You've been so busy growing up, doing homework, games, going to school, blah blah blah, what free time do you have to sit around thinking about stuff from your past!?
 
-TBC: Your Judy doll, his royal highness Earb, that scrap heap Gunbot, Momo-01, you forgot half of them, for crying out loud!
+TBC: Your Judy doll, his royal highness Muku, that scrap heap Gunbot, Momo-01, you forgot half of them, for crying out loud!
 
 Momo: But... but...
 
@@ -2513,17 +2513,17 @@ TBC: And THAT is the punishment for going against Dark Lord Cabbage. And you'll 
 
 TBC: You can't change a damn thing here, so go back to Reality where you came from!
 
-Momo: Shut up! Shut up shut up shut UP! Give Barley back to me!
+Momo: Shut up! Shut up shut up shut UP! Give Barkley back to me!
 
 TBC: Nnnbeeeeehhhhh! I've taken this thing away from you, and seems like I was wise to do so. It's quite a useful thing, wouldn't you say? It would make a perfect servant for Dark Lord Cabbage, don't you think? Eh, Prince Pup?
 
-Captain: Let Barley go, you can take me as the servant.
+Captain: Let Barkley go, you can take me as the servant.
 
 Momo: Captain!
 
 TBC: HAH! You? Aren't you a little too frail, old man? This one is a puppy yet, given enough time he'll forget all about Momo and the rest. No, I think not to this little exchange.
 
-Judy: Give Barley BACK!
+Judy: Give Barkley BACK!
 
 TBC: CELERY BLADE!
 
@@ -2535,69 +2535,69 @@ Momo: Why... Why would you do something so horrible to me?! What does the Dark C
 
 *They disappear*
 
-Momo: Wait! Come back! Come back with Barley!!!
+Momo: Wait! Come back! Come back with Barkley!!!
 
 Momo: !!
 
-Earb: Momo-chan, look out!
+Muku: Momo-chan, look out!
 
-Earb: Owwwwwww!!
+Muku: Owwwwwww!!
 
-Momo: Earb!
+Momo: Muku!
 
-Earb: It hurts! It hurts!!
+Muku: It hurts! It hurts!!
 
-Momo: Earb, it's my fault you got hurt...
+Momo: Muku, it's my fault you got hurt...
 
-Earb: Was I... helpful?
+Muku: Was I... helpful?
 
-Momo: Earb...
+Momo: Muku...
 
-Momo: Yes...! Earb, thank you!
+Momo: Yes...! Muku, thank you!
 
-Earb: I'll be okay-mon. So please, save Barley for me.
+Muku: I'll be okay-mon. So please, save Barkley for me.
 
-Momo: I understand. But Earb, you need help...
+Momo: I understand. But Muku, you need help...
 
 Momo: Let's get you back to Grandpa's.
 
-Earb: I've... become a brave boy-mon! I can make it to Momo-chan's Grandpa's on my own now-mon.
+Muku: I've... become a brave boy-mon! I can make it to Momo-chan's Grandpa's on my own now-mon.
 
-Momo: Earb...
+Momo: Muku...
 
-Clock: My, but you have grown up, Earb! What a splendid, honorable act!
+Clock: My, but you have grown up, Muku! What a splendid, honorable act!
 
 Momo: Will you really be okay all alone?
 
-Earb: Yeah, I'm fine-mon. *wince*
+Muku: Yeah, I'm fine-mon. *wince*
 
 Judy: Don't overdo it... You don't have to put on a brave face...
 
-Earb: No... Earb doesn't want to slow Momo-chan and her friends down-mon. So, I want you to save Barley, for me-mon.
+Muku: No... Muku doesn't want to slow Momo-chan and her friends down-mon. So, I want you to save Barkley, for me-mon.
 
 Momo: What should we do... Captain, Mr. Clock...
 
-Clock: To further waste time here would only serve to dishonor Earb's actions.
+Clock: To further waste time here would only serve to dishonor Muku's actions.
 
 Judy: Hey, old man, still griping about the time as usual?! Although a little less loudly than usual.
 
-Clock: That is due to the time and our circumstances. If we want to rescue Barley, there is not a minute to lose to argument.
+Clock: That is due to the time and our circumstances. If we want to rescue Barkley, there is not a minute to lose to argument.
 
-Momo: That's right... Earb, head straight to Grandpa's, and he'll take care of that injury, okay? After that, you can wait there.
+Momo: That's right... Muku, head straight to Grandpa's, and he'll take care of that injury, okay? After that, you can wait there.
 
-Earb: Okay! Momo-chan, please find your way back to Grandpa's cottage afterward.
+Muku: Okay! Momo-chan, please find your way back to Grandpa's cottage afterward.
 
 Momo: Yes, I promise!
 
-Judy: But... the cabbage that snatched Barley, and the Dark Lord Cabbage, we don't know where either of them are, right? So what are we supposed to do?
+Judy: But... the cabbage that snatched Barkley, and the Dark Lord Cabbage, we don't know where either of them are, right? So what are we supposed to do?
 
-Momo: I wish... I wish for Barley back!
+Momo: I wish... I wish for Barkley back!
 
 Momo: Why...
 
 Unit 01: Momo-chan. The Dark Lord Cabbage's magic is stronger than your Flower Bracelet's. Your Grandpa said so, remember?
 
-Unit 01: Somehow, that big cabbage guy can transfer things instantly, so getting Barley back from the Dark Lord Cabbage... it's not going to be that easy.
+Unit 01: Somehow, that big cabbage guy can transfer things instantly, so getting Barkley back from the Dark Lord Cabbage... it's not going to be that easy.
 
 Momo: But then... what do we do?
 
@@ -2611,17 +2611,17 @@ Unit 01: Quaack... We've done everything we can-wak. There's nothing left... wak
 
 Momo: But... if I give up on you all... you'll all... all of you will...
 
-Momo: I'll forget everything about you... and Barley...
+Momo: I'll forget everything about you... and Barkley...
 
-Momo: I won't do it! I can't just forget about all of you! I can't leave Barley behind!!
+Momo: I won't do it! I can't just forget about all of you! I can't leave Barkley behind!!
 
-Momo: And above all, I'm sorry, but I can't let down Earb, who got hurt defending me! If I turned back now, I'd be breaking the promise I made to him. I won't do it!
+Momo: And above all, I'm sorry, but I can't let down Muku, who got hurt defending me! If I turned back now, I'd be breaking the promise I made to him. I won't do it!
 
 Judy: Momo-chan...
 
 Momo: I don't want to lose you all! Even when I grow up, even when I'm an old lady, I don't want to forget you!
 
-Momo: If I had been more careful, Barley would be safe... If I thought more about Barley's feelings... So... So... I alone have to be the one to rescue him! It's my fault that he got caught by the cabbage. If I don't go...
+Momo: If I had been more careful, Barkley would be safe... If I thought more about Barkley's feelings... So... So... I alone have to be the one to rescue him! It's my fault that he got caught by the cabbage. If I don't go...
 
 Captain: *Wurf!*
 
@@ -2637,13 +2637,13 @@ Judy: Guess there's no getting out of it, Judy will come along with you too. It'
 
 Unit 01: We'd be the ones worrying about Judy-wak!
 
-Judy: Come here and say that! Anyway I'm only doing it for my best friend Momo. And because it's too sad to think of Barley enslaved by a cabbage.
+Judy: Come here and say that! Anyway I'm only doing it for my best friend Momo. And because it's too sad to think of Barkley enslaved by a cabbage.
 
 Clock: Ooooookay! Let's go!
 
 ## Forest
 
-Momo: Where was Barley taken off to...
+Momo: Where was Barkley taken off to...
 
 Judy: What if we asked the Flower Bracelet to take us to the Hallo-Pumpkin again?
 
@@ -2701,7 +2701,7 @@ Momo: No... Nothing...
 
 Momo: Thing is, it's been eating me up, I can't think of what the Lord and Big cabbages have against me at all.
 
-Momo: That, and what happened to Barley.
+Momo: That, and what happened to Barkley.
 
 Momo: I wish he didn't have to go through all this...
 
@@ -2709,7 +2709,7 @@ Captain: We should all get moving first thing tomorrow. So, for now, let's get s
 
 Momo: Yeah. Goodnight...
 
-Momo: Barley, goodnight...
+Momo: Barkley, goodnight...
 
 ## Flying
 
@@ -2797,7 +2797,7 @@ Momo: And how did this cabbage become a Dark Lord, anyhow? It can't just be caus
 
 Clock: Hmmmm... While it is true that this Cabbage must have felt great resentment... I suppose not... Hrm... just a grudge...?
 
-Captain: *Wurf!* Momo-chan, right now our first priority is to rescue Barley.
+Captain: *Wurf!* Momo-chan, right now our first priority is to rescue Barkley.
 
 Momo: You're absolutely right! Let's go!
 
@@ -3008,7 +3008,7 @@ Judy: Momo...chan... I believe in you... and Judy can do it too... but... I'll g
 
 Cuke: Kyu-kyu? This way!
 
-Captain: Momo-chan, I will stay behind to protect Momo-1. So please, don't worry, go find Barley!
+Captain: Momo-chan, I will stay behind to protect Momo-1. So please, don't worry, go find Barkley!
 
 Clock: Such magnificent resolve, Captain, I expected no less! Come, Momo-chan! 
 
@@ -3020,11 +3020,11 @@ Captain: *wurf!*
 
 Cuke 1: Ey, what was that doggie called? The one tha' Head Cabbage snatched up?
 
-Cuke 2: Barley or somethin', cuke.
+Cuke 2: Barkley or somethin', cuke.
 
 Cuke 1: He's a cukin' moron! He does nothin' but defy tha' Dark Lord, he's only gonna get the stink eye that way.
 
-Barley: *whimper! whimper!*
+Barkley: *whimper! whimper!*
 
 Cuke 1: Kyu-kyu. He's makin' him do it again-cuke. Gettin' tormented like that every day, he's gotta be gettin' pretty weak-cuke.
 
@@ -3032,9 +3032,9 @@ Cuke 2: What a cukin' idiot! Speakin' of, if we don't get back to it, tha' Dark 
 
 Cuke 1: Yer right-cuke.
 
-Momo: Barley...
+Momo: Barkley...
 
-Clock: It is woeful, Barley seems to be suffering a great ordeal.
+Clock: It is woeful, Barkley seems to be suffering a great ordeal.
 
 Momo: Mr. Clock, we have to hurry!
 
@@ -3100,7 +3100,7 @@ Gunbot: It's... it's a... promise...-gun.... Momo-chan...
 
 ## Hallway
 
-Barley: *wan!*
+Barkley: *wan!*
 
 Cuke: Kyu-kyu!
 
@@ -3116,31 +3116,31 @@ Cuke: We got you now-cuke!!
 
 Cukes: We got you-cuke! We got you-cuke!
 
-Momo: Barley.......
+Momo: Barkley.......
 
 ## Prison
 
-Momo: Barley! Barleyyy!!
+Momo: Barkley! Barkleyyy!!
 
-Momo: Hang on, Barley!
+Momo: Hang on, Barkley!
 
 Clock: Alas! it appears he is injured.
 
-Clock: Barley! Do not overexert yourself!
+Clock: Barkley! Do not overexert yourself!
 
-Momo: Barley...
+Momo: Barkley...
 
-Barley: *whimper*
+Barkley: *whimper*
 
-Momo: Barley... I'm sorry... It's my fault...
+Momo: Barkley... I'm sorry... It's my fault...
 
-Momo: Barley! Where are you going?
+Momo: Barkley! Where are you going?
 
 Momo: Please, you have to sit still!
 
-Momo: Barley! Please stop! I'm all right, please, don't do any more!
+Momo: Barkley! Please stop! I'm all right, please, don't do any more!
 
-Momo: Barley...... Barley.......
+Momo: Barkley...... Barkley.......
 
 
 Shall we explain how to play?
@@ -3148,19 +3148,19 @@ Shall we explain how to play?
 * 👉Yes! explain
 * I know, I'm good
 
-Barley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the [A button] repeatedly, as fast as you can! You can do it, Momo-chan!
+Barkley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the [A button] repeatedly, as fast as you can! You can do it, Momo-chan!
 
-Momo: Please, you can do it, Barley!
+Momo: Please, you can do it, Barkley!
 
-Momo: Barley, give it all you've got!
+Momo: Barkley, give it all you've got!
 
-Momo: Hang in there, Barley!
+Momo: Hang in there, Barkley!
 
 Momo: You can do it!
 
-Momo: You can do it, Barley!
+Momo: You can do it, Barkley!
 
-Momo: Just a little more, Barley!
+Momo: Just a little more, Barkley!
 
 Momo: Almost there!!
 
@@ -3178,9 +3178,9 @@ Voice: One hundred years... I've waited for you...
 
 Momo: The Dark Lord Cabbage!
 
-Barley: *grrrrr!*
+Barkley: *grrrrr!*
 
-Momo: Barley! No! Stop it!
+Momo: Barkley! No! Stop it!
 
 Clock: Momo-chan! What is wrong?!
 
@@ -3344,23 +3344,23 @@ Clock: But! But he's too dangerous, he's ENRAGED!
 
 Momo: If I go back like this, I'll forget about all of you a second time, right?! That's not how you treat people you care about! My childhood memories, my dreams, they're important... they're important parts of who I am!
 
-Momo: Barley!
+Momo: Barkley!
 
 DLC: MOMO....!!! REMEMBEEEEEERRRR!!!!!
 
-Momo: Stop! Barley's got nothing to do with this!
+Momo: Stop! Barkley's got nothing to do with this!
 
 DLC: HIYAAAAAAAAAAA!!!!
 
-Momo: BARLEYYYYYY!!!!
+Momo: BarkleyYYYYY!!!!
 
 Captain: *WOOF!*
 
 Momo: CAPTAIN!
 
-Captain: *pant* *pant* can't... let Barley... die...
+Captain: *pant* *pant* can't... let Barkley... die...
 
-Captain: Barley's duty... in the Real World... to protect Momo-chan... *pant*
+Captain: Barkley's duty... in the Real World... to protect Momo-chan... *pant*
 
 DLC: IDIOT! IDIOT!!!
 
@@ -3380,17 +3380,17 @@ Momo: ...you can't...
 
 Momo: CAPTAIIIIINNN!!!!
 
-Barley: *grrr!*
+Barkley: *grrr!*
 
-Momo: Barley! Stop!! It's no use!!
+Momo: Barkley! Stop!! It's no use!!
 
-Barley: Momo... chan...
+Barkley: Momo... chan...
 
-Barley: Protect    Momo-chan
+Barkley: Protect    Momo-chan
 
-Barley: Barley also    protect     Momo-chan!
+Barkley: Barkley also    protect     Momo-chan!
 
-Barley: *BITE!*
+Barkley: *BITE!*
 
 DLC: STUPID MUTT!
 
@@ -3445,7 +3445,7 @@ Momo: Ah... everyone...!
 
 Clock: Momo-chan, you did it!
 
-Momo: Captain! Barley, are you?!
+Momo: Captain! Barkley, are you?!
 
 Clock: They will be all right. I have already checked on them. They have sustained injuries, but their lives are not in danger.
 
@@ -3484,9 +3484,9 @@ Momo: Okay, everyone get in here...
 
 Momo: And, POSE!!!
 
-Barley: Momo-chan    we go   back home?
+Barkley: Momo-chan    we go   back home?
 
-Momo: That's right! We're going home, Barley.
+Momo: That's right! We're going home, Barkley.
 
 
 ## Credits
