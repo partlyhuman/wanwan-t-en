@@ -1,6 +1,23 @@
-# Wanwan Aijou Monogatari
+WANWAN AIJOU MONOGATARI
+ワンワン愛情物語
 
-Welcome to Wanwan Aijou Monogatari, AKA "Puppy Love Story"! <3 Hit start (not A) to get to the:
+System: Casio Loopy
+Year: 1995
+Developer: Alfa System
+Publisher: Casio
+
+English Translation v1.0
+By @partlyhuman
+
+# Introduction
+
+Wanwan Aijou Monogatari is a visual novel for the Casio Loopy about growing up. And cute doggies :3 You may know it by its scenario writer Kenji Terada, known for his work on several Final Fantasy games, and dozens of anime and films.
+
+Play is linear, punctuated by several simple games. All games can be retried if you make a mistake. Several of the games rely on Japanese wordplay and culture, so we'll add translator notes [in brackets] and sometimes include corresponding Japanese text to help identify choices.
+
+The game autosaves as you progress, at "scene" breaks. There are 12 chapters, which are split further into these scenes, though the chapter and scene number aren't onscreen or anything, the chapters are indicated in this translation.
+
+Since this is a Loopy game, of course there are some stickers to print. However, unlike the creation-centric games, you won't have an opportunity to print anything until you've cleared the game: the stickers are a reward for finishing the story.
 
 # Main menu
 
