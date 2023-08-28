@@ -71,7 +71,7 @@ Mama: Momo-chan, won't you give our new family member a name?
 
 Momo: Uhu, kawaii!!! A name... What should it be...
 
-Papa: What name will you choose for the puppy? Use the D pad, A button, B button erases.
+Papa: What name will you choose for the puppy? Use the D-pad, A button, B button erases.
 
 [Doggie's name here. We're using the default name Barley! Use 変 to change between hiragana and katakana, and 終 to confirm.]
 
@@ -405,8 +405,6 @@ Momo: Judy... That's it! This is Judy!!!
 
 Barley: *Wan wan!*
 
-Judy: *JUMPS TO LIFE TERRIFYINGLY*
-
 Judy: YOU REMEMBERED ME, MOMO-CHAN!!!
 
 Momo: Eh? Eh?? EEHHHH???
@@ -415,7 +413,7 @@ Judy: Momo-chan! Momoland... it's-
 
 Judy: Quick, quick! It's in danger... it's in danger...
 
-Clock: *A mustachioed alarm clock jumps out of the bush, because why not*
+*A mustachioed alarm clock jumps out of the bush*
 
 Clock: Aaahhhhhh, aaah, ahem! Greetings!
 
@@ -447,7 +445,7 @@ Clock: As I was saying, I am the keeper of the Door of Time, that connects Momol
 
 Clock: Well, I am sorry, Momo-chan, we must be getting back to Juku.
 
-[Nobody ever fully explains what "Juku" is. It usually refers to a cram school or a private school, but in compound words it can mean "maturity". Technically before "cram school", "juku" referred to rooms on the side of a gate. All these could be meanings here, as Clock is master of the gate of time which separates childhood and adulthood.]
+[Nobody ever fully explains what "Juku" is. It usually refers to a cram school or a private school, but in compound words it can connote "maturity". Technically before "cram school", "juku" referred to rooms on the side of a gate. All these could be meanings here, as Clock is master of the gate of time which separates childhood and adulthood.]
 
 Judy: Ugh! Enough about Juku, who cares!
 
@@ -458,8 +456,6 @@ Momo: That's... Whose photo album is that?
 Momo: .....That's my album!
 
 Momo: How? Why?!
-
-*A photo straight up disappears as you watch*
 
 Momo: EEEH? The photo, it.... vanished!
 
@@ -501,11 +497,9 @@ Judy: I can explain better after we get there!
 
 Momo: Eeehh! Judy!!!
 
-*Everyone jumps back into the bushes*
-
 Momo: Mr. Clock!
 
-Barley: *Wan!* *Jumps in the bushes*
+Barley: *Wan!*
 
 Momo: Ah... Barley! Oh... wait for meeeeeeeeee!
 
@@ -515,7 +509,7 @@ Voice: -chan...
 
 Voice: Momo-chan... Momo-chan...
 
-Momo: *Waking up* Mama? What time is it?
+Momo: ...Mama? What time is it?
 
 Barley: *lick*
 
@@ -535,7 +529,7 @@ Judy: Of course we're in a "predicament"!
 
 Clock: Not "of course", Judy. Carelessly allowing so much time to elapse is a serious matter!
 
-Judy: UGHHH! To begin with, won't you shut up with your "time", "time", "time"!
+Judy: UGHHH! Don't you ever shut up about "time", "time", "time"!?
 
 Judy: Don't tell me you've never been just a teeny, tiny, little bit late yourself!
 
@@ -543,9 +537,9 @@ Clock: Never.
 
 Clock: I have periodic maintenance once every two months, without fail. Therefore, I am never late, not even a single second.
 
-Momo: ... I guess we're here now... We gotta do what we gotta do...
+Momo: ... I guess there's no fighting it, we're here now... We gotta do what we gotta do...
 
-Momo: So, Judy, what should I do here?
+Momo: So, Judy, what should we do?
 
 Judy: To tell the truth, Veggies have been stirring up a rebellion here in Momoland. It's like, a big pain for everyone!
 
@@ -554,8 +548,6 @@ Judy: Even Judy's favorite ribbon was taken...
 Judy: The disappearance of Momo-chan's memories is also their doing.
 
 Momo: But why would... vegetables... do that kind of thing?
-
-*Cue dramatic music*
 
 Judy: It's the "Dark Lord Cabbage"! He's their super evil leader!
 
@@ -691,6 +683,7 @@ Cukeman: Think you can answer 'em, Prince Pup?!
 
 Momo: Eeeeeeeh!
 
+## Game: Qucumber Quiz
 
 Shall we go over the rules?
 
@@ -706,8 +699,6 @@ Momo: Barley, number two!
 Barley: *barks twice!*
 
 Think carefully before you answer, Momo-chan.
-
-# Cucumber Cuiz
 
 [Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer.]
 
@@ -801,8 +792,7 @@ I'm attached to a car, but if you attach two dots to me I become a beautiful jew
 
 [Hint: adding two dots can change one letter into another, for example "taiya" or "tire" can become "daiya" or "diamond"]
 
-
-## At the penultimate riddle
+### At the penultimate riddle
 
 Cukeman: Prince pup. I gotta give it to you for makin' it this far-cuke.
 
@@ -810,7 +800,7 @@ Cukeman: Since ya were able to answer all my riddles, ya can continue up to wher
 
 Cukeman: Here comes one last super, MEGA TOUGH riddle!
 
-## At the last riddle
+## Forest continued
 
 Cukeman: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
 
@@ -920,7 +910,7 @@ Barley: *wan wan!*
 
 Momo: Well, what are we waiting for, guys?
 
-## Field
+## Potato Field
 
 Momo: Momo-1! Excuse me, I'm sorry, but I just accidentally left something around here, and, I've come back to get it now, so...
 
@@ -958,7 +948,7 @@ Momo: Barley, we're counting on you. Guide us to Momo-1 safely, please!
 
 Barley: *wan!*
 
-## Potatomaze
+## Game: Potato Bonbonberman
 
 Shall we explain how to play?
 
@@ -983,7 +973,7 @@ Momo: Eeeehhh, what? But it's so cute....
 
 Momo: Yes! Thank you, Mr. Mole!
 
-### Reaching Momo-1
+## Potato Field Continued
 
 Momo: Yatttaaaaaa! Awesome, Barley!!!
 
@@ -1145,7 +1135,7 @@ Judy: Lemon facials are to blame for this blotch on my skin! Those lemons are th
 
 Momo: I guess there's no alternative... let's go in for a landing.
 
-# Lemon Hill
+## Lemon Hill
 
 Momo: What should we do... Since you all have problems with the Lemons...
 
@@ -1163,8 +1153,6 @@ Unit 01: Quack-quack-that's-right. Everyone, we can go in there together-wak!
 
 Momo: Even when the backpack is this small?
 
-*It reverts to normal size*
-
 Momo: Ah!!
 
 Unit 01: Wak! All right everyone!
@@ -1172,8 +1160,6 @@ Unit 01: Wak! All right everyone!
 Unit 01: We hop inside, and Momo-chan can bring us along-wak.
 
 Momo: About that... how exactly will everyone fit inside this bag...
-
-*Poof*
 
 Momo: You guys?... Could they really be in the bag?
 
@@ -1184,8 +1170,6 @@ Unit 01: Wak... Momo-chan, sorry I can't be of service...
 Unit 01: But we'll be cheering you on, wak wak!
 
 Earb: I think the Lemons will definitely know where your Grandpa lives. Momochan, good luck!
-
-*The backpack shrinks down*
 
 Momo: Well, Barley, it's down to just you and me now...
 
@@ -1223,6 +1207,8 @@ Lemon: OK, sister!
 
 Lemons: S-O-U-R-R-R-R-R-R-R!!!!!
 
+## Game: Dance Dance Lemonlution
+
 Shall we explain how to play?
 
 - 👉Yes! explain
@@ -1236,15 +1222,17 @@ Lemon: Suuu-peeeer-soooourrr!
 
 Lemon: *pant... pant...* Just... a little breather...
 
-*after defeating little Miracle Lemon*
+## After defeating little Miracle Lemon
 
 Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Big sis, h-e-l-p-m-e-eeeeeeeeeeeeeee!
 
 Lemon: How dare you! My sister! I won't go easy on you... prepare yourself!
 
-*after defeating big Miracle Lemon*
+## After defeating big Miracle Lemon
 
 Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Maddening! Exasperating! Infuriatiiiiiing!
+
+## Lemon Hill Continued
 
 Momo: Yattaaaaa!!
 
@@ -1372,7 +1360,7 @@ Momo: In any case, let's go to see Grandpa!
 
 Barley: *wan! wan!*
 
-## Grandpa's House
+## Outside Grandpa's House
 
 Momo: Could it really be grandpa's....
 
@@ -1398,7 +1386,7 @@ Momo: Grandpa!!!
 
 Gramps: You made it all this way. You must be tired.
 
-## Interior
+## Grandpa's House - Interior
 
 Momo: I never thought I'd be able to see you again, Grandpa...
 
@@ -1624,7 +1612,7 @@ Momo: Okay! Here we gooooo!
 
 Gramps: ...Please be careful... Momo...
 
-## Picture-Book Forest
+## The Picture-Book Forest
 
 Earb: Brr... what an eerie forest-mon...
 
@@ -1677,6 +1665,8 @@ Pumpkin: My quiz is five questions. If you know them all, I will tell you where 
 Clock: Five questions....
 
 Pumpkin: But you cannot get a single one wrong!
+
+## Game: Pumpkin's Were You Paying Attention Quiz
 
 Shall we explain how to play?
 
@@ -1781,8 +1771,7 @@ What's the name of Momo's doggie?
 2. ムク [Yikes!]
 3. Barley
 
-
-## Quiz over
+## Picture-Book Forest Continued
 
 Momo: Yatta~!
 
@@ -1808,7 +1797,7 @@ Momo: It's a trap!
 
 Pumpkin: Kehehehe. Only idiots fall for that! With you troublesome pains in the gourd out of the way, these picture books won't have main characters... they won't even have a single supporting role!
 
-## Snow White
+## Book 1: Snow White
 
 Momo: Huh!? Where are we?
 
@@ -1972,7 +1961,7 @@ Clock: Well, now, there was no avoiding that place...
 
 Momo: I'm trying to keep it together...
 
-## Cinderella
+## Book 2: Cinderella
 
 Long ago in a faraway land, there lived two cruel sisters, along with a mother yet ten times more unkind.
 
@@ -2152,7 +2141,7 @@ Judy: Although the scene where she loses her shoe at midnight is missing... Kind
 
 Momo: It'll do for now! We didn't have a choice, anyway.
 
-## Little Red Riding Hood
+## Book 3: Little Red Riding Hood
 
 Momo: What's next?
 
@@ -2288,6 +2277,8 @@ Momo: Ok. FLOWER BRACELET!
 
 Momo: I wish... we were taken out of this picture book!
 
+## Picture-Book Forest Continued
+
 Barley: *woof woof woof woof woof woof!*
 
 Captain: *WURF WURF!*
@@ -2398,6 +2389,8 @@ Momo: Can your nose sniff out those main characters even in the dirt?
 
 Barley: *wan!*
 
+## Game: Protagonist Patch
+
 Shall we explain how to play?
 
 - 👉Yes! explain
@@ -2405,7 +2398,9 @@ Shall we explain how to play?
 
 Momo-chan. Use Barley's nose to search for the heroes of the picture book! Moving Barley is just like in the potato fields, use the D-pad. Try to press the directions toward the smell of the cabbages. There are 5 heroes and heroines. Save them all before they get completely gobbled up! Good luck, Momo-chan!
 
+[These may appear in random order]
 
+### Peter Pan
 
 Peter Pan: Pheeew, you saved me! Thanks! I'm Peter Pan, nice to meetcha!
 
@@ -2425,7 +2420,9 @@ Clock: Judy, enough is enough!
 
 Judy: Tsk! Lame.
 
+### Bunbuku Chagama
 
+[Bunbuku Chagama, or "Bunbuku tea-kettle" is a Japanese folktale about a raccoon that uses its shapeshifting powers to reward its rescuer for his kindness]
 
 Bunbuku: Buhaaa! You saved me!
 
@@ -2433,23 +2430,21 @@ Earb: It looks like there's a bowl on your back-mon?
 
 Momo: Earb, that's "Teakettle"! 
 
-[Bunbuku Chagama, or "Bunbuku tea-kettle" is a Japanese folktale about a raccoon that uses its shapeshifting powers to reward its rescuer for his kindness]
-
 Momo: Bunbuku Teakettle Raccoon-san!
 
 Bunbuku: Yahaaa, thank you! When I was eaten by this cabbage I didn't know what to do! Truly, thank you! Bonnnbokoooriiiiiiiin!
 
-
-
-Momo: Are you Kintaro-san?
+### Kintarou
 
 [Kintarou, or "Golden Boy", is a hero from Japanese folklore. A child of superhuman strength, he became friendly with the animals of the mountain, and caught the demon Shuten-douji. Kintarou is often characterized with an ono, a haragake apron, and sometimes a bear.]
+
+Momo: Are you Kintaro-san?
 
 Kintarou: (In broken english) Yes, me is Kintarou! Thanks you for saving me! Well, bye bye!
 
 Judy: Huh... what a weird guy...
 
-
+### Puss-in-Boots
 
 Puss: You saved meeeow! Thank you-nyan!
 
@@ -2459,11 +2454,9 @@ Captain: A cat, wearing long boots... must be the hero of that book.
 
 Puss: Byebye-nyaaaan!
 
-
+## Cabbage Patch Continued
 
 So, Momo-chan. There's just one storybook hero left to find. Good luck!
-
-
 
 Barley: *whimper!*
 
@@ -2815,7 +2808,7 @@ Clock: All right, let's GO!!!
 
 Gunbot: ......
 
-## Gate Puzzle
+## Castle Gate
 
 Unit 01: Look, a gate!
 
@@ -2828,6 +2821,10 @@ Clock: "WHOOO is the most fabulous in all the land?"
 Judy: WHAT? This is so lame...
 
 Momo: Looks like one of those doors that doesn't open without a code.
+
+## Game: Gate Riddle
+
+[If you keep entering random numbers, Mr. Clock will solve it for you, or you can answer it yourself using the hints they give you, read on...]
 
 Shall we explain how to play?
 
@@ -2916,7 +2913,7 @@ Clock: Hey! It's dangerous to go alone! I shall go with Captain.
 
 Momo: OK. Mr. Clock, Captain is older, so be sure to do exactly as he says!
 
-## Cuke Maze
+## Room with Many Doors
 
 Judy: Alright, ready? Let's go, Momo-chan!
 
@@ -2930,6 +2927,7 @@ Judy: Oh mister-cuukeypoo! Over this way!
 
 Cuke: Wait-cuke! Waiiit-cuuuuke!
 
+## Game: Cuke Chase
 
 Shall we explain how to play?
 
@@ -2968,7 +2966,7 @@ Momo: Kyaaaaaaaaaaaahhh!!
 
 *Unit 01's axle breaks, sending Momo flying*
 
-## Castle Room
+## Deep Within the Castle
 
 Momo: Owwwww... Everyone okay?
 
@@ -3124,7 +3122,7 @@ Cukes: We got you-cuke! We got you-cuke!
 
 Momo: Barley.......
 
-## Prison
+## Cell
 
 Momo: Barley! Barleyyy!!
 
@@ -3148,13 +3146,14 @@ Momo: Barley! Please stop! I'm all right, please, don't do any more!
 
 Momo: Barley...... Barley.......
 
+## Game: The Final Countdown!
 
 Shall we explain how to play?
 
 - 👉Yes! explain
 - I know, I'm good
 
-Barley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the [A button] repeatedly, as fast as you can! You can do it, Momo-chan!
+Barley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the A button repeatedly, as fast as you can! You can do it, Momo-chan!
 
 Momo: Please, you can do it, Barley!
 
@@ -3527,7 +3526,7 @@ DLC: I'm happy we could meet again, Momo-chan! It's been a while.
 
 DLC: Actually, I have a sweet present for you!
 
-DLC: Use the D pad up and down, and the A button to choose. When you're ready to quit, use the B button.
+DLC: Use the D-pad up and down, and the A button to choose. When you're ready to quit, use the B button.
 
 - Make stickers from your memories
 - Make a sticker with Barley
