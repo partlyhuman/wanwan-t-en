@@ -1,6 +1,6 @@
 # Wanwan Aijou Monogatari
 
-AKA "Puppy Love Story" <3
+Welcome to Wanwan Aijou Monogatari, AKA "Puppy Love Story" <3
 
 # Main menu
 
@@ -17,17 +17,19 @@ Choose from the below menu:
 
 First, choose a diary from below-mon! Use the d-pad for up and down and push the A button-mon!
 
-(Your saves here)
+[Choose from your saves here. 無し are blank slots.]
 
 What's the name of our hero? Use the d-pad to select up, down, left, right, and A buton to choose. To delete a character use the B button.
 
+[Your name here. We're using the default name "Momo". Use 変 to change between hiragana and katakana, and 終 to confirm. You can take the default name by confirming without entering any letters.]
+
 Ah, Momo-chan, yes?
 
-(Yes/No)
+Yes / No
 
 Ahem! Well then, let "Puppy Love Story" begin!
 
-# Main Script
+# Scenario
 
 ## At home
 
@@ -69,11 +71,13 @@ Mama: Momo-chan, won't you give our new family member a name?
 
 Momo: Uhu, kawaii!!! A name... What should it be...
 
-Papa: What name will you choose for the puppy? Use the D pad, A button, B button erases. (you get the drill)
+Papa: What name will you choose for the puppy? Use the D pad, A button, B button erases.
 
-(Doggie's name here. I'm gonna call him..... Barley!)
+[Doggie's name here. We're using the default name Barley! Use 変 to change between hiragana and katakana, and 終 to confirm.]
 
-Papa: Barley. (Yes/No)
+Papa: Barley.
+
+👉Yes / No
 
 Momo: Barley, your name is Barley. Got it?
 
@@ -441,7 +445,9 @@ Clock: Ahem! You may call me Clock!
 
 Clock: As I was saying, I am the keeper of the Door of Time, that connects Momoland and the World of Reality.
 
-Clock: By the way, Momo-chan, it is almost time to go to JUKU.
+Clock: Well, I am sorry, Momo-chan, we must be getting back to Juku.
+
+[Nobody ever fully explains what "Juku" is. It usually refers to a cram school or a private school, but in compound words it can mean "maturity". Technically before "cram school", "juku" referred to rooms on the side of a gate. All these could be meanings here, as Clock is master of the gate of time which separates childhood and adulthood.]
 
 Judy: Ugh! Enough about Juku, who cares!
 
@@ -457,7 +463,7 @@ Momo: How? Why?!
 
 Momo: EEEH? The photo, it.... vanished!
 
-Judy: Do you see why Momoland is so important now?
+Judy: Something terrible is happening in Momo-land!
 
 Judy: If things keep going this way, Momo-chan's memories will ALL BE GONE!
 
@@ -688,8 +694,8 @@ Momo: Eeeeeeeh!
 
 Shall we go over the rules?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules are: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
 
@@ -956,8 +962,8 @@ Barley: *wan!*
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 Barley is able to find the potatobombs by smell. Move Barley to Momo-1 without making him step on any bombs. Use the D-pad to move Barley. If there are any bombs, Barley will find them on his own. If you step on any, they'll explode, so be careful.
 
@@ -1219,8 +1225,8 @@ Lemons: S-O-U-R-R-R-R-R-R-R!!!!!
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 The Miracle Lemons are going to throw their *Souuuuuuuur Lemon Slice* at you. You can't let it hit you, so you must avoid contact with it. Press the D-pad down to duck, and up to... jump! Avoid contact with the lemon slices in this fashion. When the Lemons tire out, that's your chance to attack! Use the A button and hit them with a rock! Momochan, be careful of being hit by the Lemon Slice's sourness!
 
@@ -1674,8 +1680,8 @@ Pumpkin: But you cannot get a single one wrong!
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 Momo-chan. You'll answer this quiz just like you did with Cukeman's quiz. Good luck, Momo-chan.
 
@@ -2394,8 +2400,8 @@ Barley: *wan!*
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 Momo-chan. Use Barley's nose to search for the heroes of the picture book! Moving Barley is just like in the potato fields, use the D-pad. Try to press the directions toward the smell of the cabbages. There are 5 heroes and heroines. Save them all before they get completely gobbled up! Good luck, Momo-chan!
 
@@ -2825,8 +2831,8 @@ Momo: Looks like one of those doors that doesn't open without a code.
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 I wonder what we should put in for the code? To enter a digit, press up and down on the D-pad and choose a number... up, up, up, down, down, down, down... Left and right change columns. Right, right, left, right, right, right.... If you're done entering the code... Use the A button to lock it in. Good luck, Momo-chan!
 
@@ -2927,8 +2933,8 @@ Cuke: Wait-cuke! Waiiit-cuuuuke!
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 All right, Momo-chan. You have to get across this room (using?) the doors Judy lured the Cukemen into! The exit is on the right side of the screen. If you cross the line of sight of a cukeman (up, down, left, or right of one at any distance) you'll be caught. Use the pillars to hide as you cross the room, so you won't be found!
 
@@ -3145,8 +3151,8 @@ Momo: Barley...... Barley.......
 
 Shall we explain how to play?
 
-* 👉Yes! explain
-* I know, I'm good
+- 👉Yes! explain
+- I know, I'm good
 
 Barley is trying desperately to save you! Momo, you have to cheer him on! To cheer, tap the [A button] repeatedly, as fast as you can! You can do it, Momo-chan!
 
@@ -3488,17 +3494,14 @@ Barley: Momo-chan    we go   back home?
 
 Momo: That's right! We're going home, Barley.
 
-
-## Credits
-
 ---
 
 # Post-Game
 
 DLC: Momo-chan, should we make a seal commemorating our reconciliation?
 
-👉 Yeah, let's make it!
-Ewwww, noooo
+- 👉 Yeah, let's make it!
+- Ewwww, noooo
 
 DLC: All right! Here we go, just wait a minute!
 
@@ -3515,5 +3518,49 @@ DLC: Hooo, there we are! Treasure it, Momo-chan.
 DLC: Well, this is the end. Don't worry, I'm sure we'll meet again some day.
 
 DLC: Well then! Bye-bye, Momo-chan!
+
+# OMAKE Menu
+
+[Continue your saved game to get access to these goodies!]
+
+DLC: I'm happy we could meet again, Momo-chan! It's been a while.
+
+DLC: Actually, I have a sweet present for you!
+
+DLC: Use the D pad up and down, and the A button to choose. When you're ready to quit, use the B button.
+
+- Make stickers from your memories
+- Make a sticker with Barley
+- Replay from your favorite scenes
+
+## Memory Stickers
+
+DLC: Here, you can make stickers out of Momo-chan's memories.
+
+DLC: Choose a picture you want to make into a sticker using the D-pad up and down, and press the A button. Left and right will jump ahead, and use the B button when you're ready to quit.
+
+[Pressing A here will print out the selected cutscene image on a standard single-size sticker. Some are marked with an asterisk `*`. After you print these, DLC will tell you that there's an extra story attached to the image, and give you the option to print the story too. These will just be white Japanese text on a black sticker, in case you're curious, they're probably not worth a precious sticker, but up to you!]
+
+## Sticker with Barley
+
+DLC: Here, you can make a sticker with Barley in your favorite pose. Use L and R to change Barley, the A button to make a seal, and the B button when you're ready to quit. 
+
+DLC: Is this pose good?
+
+Yes / No
+
+[Oddly, DLC wants you to press buttons while he's speaking the the first bit of dialog ("here, you can..."). His dialog box won't go away while you use these controls: L and R actually change backgrounds not poses, and Barley will cycle through some animations on his own. Press A when he's got the pose you want to print, and B to quit. If you advance to the next bit of dialog where he says "Is this pose good?", A will print and B will go back to the first line of dialog.]
+
+## Replay
+
+DLC: Here, you can replay Momo's adventure from your favorite scene. Use the D-pad to choose, and press the A button. Use the B button when you want to quit.
+
+👉 Chapter 1 - 12
+
+DLC: Starting from chapter X, all right?
+
+👉 Yes / No
+
+DLC: Here you go, starting from chapter X!
 
 
