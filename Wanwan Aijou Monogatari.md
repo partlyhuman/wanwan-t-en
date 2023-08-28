@@ -32,11 +32,11 @@ Choose from the below menu:
 
 ## New game
 
-First, choose a diary from below-mon! Use the d-pad for up and down and push the A button-mon!
+First, choose a diary from below-mon! Use the D-pad for up and down and push the A button-mon!
 
 [Choose from your saves here. 無し are blank slots.]
 
-What's the name of our hero? Use the d-pad to select up, down, left, right, and A buton to choose. To delete a character use the B button.
+What's the name of our hero? Use the D-pad to select up, down, left, right, and A button to choose. To delete a character use the B button.
 
 [Your name here. We're using the default name "Momo". Use 変 to change between hiragana and katakana, and 終 to confirm. You can take the default name by confirming without entering any letters.]
 
@@ -80,7 +80,7 @@ Momo: PAPA!! A PUPPYYYYY!
 
 Puppy: *Wan!*
 
-Mama: Ahh! A puppy! And what a cutey!
+Mama: Ahh! A puppy! And what a cutie!
 
 Papa: Hahaha, well, it has been quite a while since our old dog, Captain, passed away, hasn't it?
 
