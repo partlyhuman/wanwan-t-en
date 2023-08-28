@@ -445,7 +445,7 @@ Clock: As I was saying, I am the keeper of the Door of Time, that connects Momol
 
 Clock: Well, I am sorry, Momo-chan, we must be getting back to Juku.
 
-[Nobody ever fully explains what "Juku" is. It usually refers to a cram school or a private school, but in compound words it can connote "maturity". Technically before "cram school", "juku" referred to rooms on the side of a gate. All these could be meanings here, as Clock is master of the gate of time which separates childhood and adulthood.]
+[Nobody ever fully explains what "Juku" is. Literally it usually refers to a cram school or a private school, but in compound words it can connote "maturity". Technically before "cram school", "juku" referred to rooms on the side of a gate. All these could be meanings here, as Clock is master of the gate of time which separates childhood and adulthood. What's most likely is that Juku is the proper name of the gate he keeps, the "Gate of Maturity."]
 
 Judy: Ugh! Enough about Juku, who cares!
 
@@ -633,7 +633,7 @@ Cukeman: Cyu-cyu-cyu-cyuke!
 
 Cukeman: If you want it back so bad, why dont'cha come on down from da tree and get it? Haw haw!
 
-Earb: Ohhh...
+Earb: *sniff*...
 
 Cukeman: Cyu-cyu-cyuke! Haw haw! What's wrong? Come on dowwwwn!
 
@@ -665,10 +665,6 @@ Cukeman: Youse! You wanna start something with me, Cukeman??!
 
 Cukeman: I'll scrub your cucumberbumps clean off yas!
 
-Barley: *Jumps into hole in tree* 
-
-Barley: *Emerges from another hole*
-
 Clock: Ah, Barley! I see, the holes must be connected.
 
 Cukeman: O-ho! Prince Pup's come out to play, cuke.
@@ -681,7 +677,7 @@ Cukeman: IF you can answer our riddles, we'll letcha go on your way-cuke!
 
 Cukeman: Think you can answer 'em, Prince Pup?!
 
-Momo: Eeeeeeeh!
+Momo: Whaaaaaat!?
 
 ## Game: Qucumber Quiz
 
@@ -692,17 +688,13 @@ Shall we go over the rules?
 
 Momo-chan. Since Barley can't really be expected to know riddles, you'll give him the answers. The rules are: after Cukeman's riddle, three choices appear. Use the arrow buttons to choose the right one, and the A button to answer.
 
-*Example plays out*
-
 Momo: Barley, number two!
 
 Barley: *barks twice!*
 
 Think carefully before you answer, Momo-chan.
 
-[Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer.]
-
-[You have to get 3 correct to move on. Any errors and you'll have to start from the beginning.]
+[Not only are the questions randomized, but the order of the answers is randomized. Use the provided Japanese to visually match up the right question and answer. You have to get 3 correct to move on. Any errors and you'll have to start from the beginning.]
 
 I am a sweet fruit, but I am also attached to your body. What am I?
 
@@ -791,6 +783,22 @@ I'm attached to a car, but if you attach two dots to me I become a beautiful jew
 3. ハンドル [handle]
 
 [Hint: adding two dots can change one letter into another, for example "taiya" or "tire" can become "daiya" or "diamond"]
+
+### If you fail
+
+Cukeman: Cyu-cyu-cyu-cyu-cyu-cyuuu! No surprise, Prince Pup is no match for me!
+
+Momo: *sniff*...
+
+Barley: *whimper*
+
+Cukeman: Cyu-cyu-cyu! Too much for yas? I'll bring it one more time!
+
+Momo: Barley, are you ok?
+
+Barley: *whimper*
+
+Momo: Barley, come on! We have to help Earb! Please!
 
 ### At the penultimate riddle
 
@@ -912,13 +920,13 @@ Momo: Well, what are we waiting for, guys?
 
 ## Potato Field (Chapter 4)
 
-Momo: Momo-1! Excuse me, I'm sorry, but I just accidentally left something around here, and, I've come back to get it now, so...
+Momo: Momo-1! Ummm, excuse meee, I'm sorry, but I just accidentally left something around here, and, I've come back to get it now, so...!
 
 Unit 01: Momo-chan, you shouldn't have come here-wak! This is the Potato Bonbons' turf. One wrong step in this potato field, and you'll get blown to smithereens by a potatobomb-wak!
 
 Bonbon: Heyyyy, what's up, losers! Time's a-wasting-bon! Heh heh hehhhh, you're gonna get it, pig-butts. The way back is right over here, bahahahhaa!
 
-Clock: They are correct, there is no time! We simply do not have time to face off against these nincompoops! Now which of you wants to be saved by this Clock!?
+Clock: They are correct, there is no time! We simply do not have time to face off against these nincompoops! Now who wants to be saved by this Clock!?
 
 Momo: Ah! Wait, Mr. Clock!
 
@@ -972,6 +980,26 @@ Momo: Eeeehhh, what? But it's so cute....
 ### The second time
 
 Momo: Yes! Thank you, Mr. Mole!
+
+### If you fail
+
+Barley: *whimper*
+
+Bonbon: Yaahhh, yaaaah! O-nyo-nyo-no-buuuuuu!
+
+Bonbon: Bu-buku-buuu, Bon-bobo-booonnnn!!!
+
+Bonbon: We da best! Bon-bobonnn!
+
+Bonbon: And don't come back here, bon-bobonnnn!!!
+
+Bonbon: Wanna go again-bonnnn?
+
+Bonbon: We'll face off against ya times infinity-bonnnn!
+
+Bonbon: Bon-bobonnnnnn!
+
+Momo: Barley, please! Give it another go! Rescue Momo-1!
 
 ## Potato Field Continued
 
@@ -1216,21 +1244,39 @@ Shall we explain how to play?
 
 The Miracle Lemons are going to throw their *Souuuuuuuur Lemon Slice* at you. You can't let it hit you, so you must avoid contact with it. Press the D-pad down to duck, and up to... jump! Avoid contact with the lemon slices in this fashion. When the Lemons tire out, that's your chance to attack! Use the A button and hit them with a rock! Momochan, be careful of being hit by the Lemon Slice's sourness!
 
-Lemon: I shall be your first opponent!
+Lemon: First you'll have to get through meeeee!
 
-Lemon: Suuu-peeeer-soooourrr!
+Lemon: Let's.... Suuu-peeeer-soooourrr!
 
 Lemon: *pant... pant...* Just... a little breather...
 
-## After defeating little Miracle Lemon
+### After defeating little Miracle Lemon
 
 Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Big sis, h-e-l-p-m-e-eeeeeeeeeeeeeee!
 
 Lemon: How dare you! My sister! I won't go easy on you... prepare yourself!
 
-## After defeating big Miracle Lemon
+### After defeating big Miracle Lemon
 
 Lemon: Keeehhhhhh.... in-fu-ri-a-tinnnnnng. Maddening! Exasperating! Infuriatiiiiiing!
+
+### If you fail
+
+Lemon: Ohhhhh-hohohohohohoho! How do you like it SOURRRRR?
+
+Momo: Noooo... so soooouuurr!! My eyes!!!
+
+Barley: *whimper*
+
+Lemon: You two are no match for us at all! Ohohohohohoho...... Try again!!!
+
+Barley: *whimper*
+
+Momo: Owwwwowowoww... Barley, are you okay?
+
+Momo: Phew, you seem all right!
+
+Momo: All riiiight, Miracle Lemons! I won't lose this time!!
 
 ## Lemon Hill Continued
 
@@ -1768,8 +1814,26 @@ What is the name of this game?
 What's the name of Momo's doggie?
 
 1. ガンボット [Gunbot]
-2. ムク [Yikes!]
+2. ムク [Earb]
 3. Barley
+
+### If you fail
+
+Pumpkin: WOMP WOMP!
+
+Momo: Graaahhhh...
+
+Clock: Hmmm... Momo-chan, seems you were incorrect.
+
+Pumpkin: Wrong, wrong, now I'll never tell you where the Dark Lord Cabbage is, heh-heeeeh!
+
+Momo: Noooo, please, Mr. Pumpkin!
+
+Momo: Just give me one more chance! Please! Pretty please!!
+
+Pumpkin: Mmmm, okay! Quiz time! Quiz time!
+
+Pumpkin: Yeah yeah YEAAAAH!
 
 ## Picture-Book Forest Continued
 
@@ -2897,6 +2961,22 @@ Judy: All right, here we go! 8, 9, 3, 1!
 
 Judy: Yattaaaa!! It opened!
 
+### If you figure it out earlier
+
+Judy: Wow!! How'd you?! That's our Momo-chan!
+
+Judy: Genius!! Mad respect!!
+
+Momo-1: QUAAAK?? Who knew Momo-chan had such mega brain power-waaaak?!
+
+Captain: Hmm. Our Momo-chan was always a smart cookie!
+
+Clock: We'll be breezing through Juku in style!
+
+Momo: Hehehe... enough, enough.
+
+Momo: All right, ready? Let's go!
+
 ## Castle Keep
 
 Judy: Momo-chan, now's your chance, go ahead! Judy will distract them!
@@ -2921,7 +3001,7 @@ Judy: Hey! You! Come and get me!
 
 Cuke: CyuuuuuuuuuuuuUU! Suspicious activity detected-cuke!!
 
-Cuke: Sieze her-cuke! Sieze her-cuuuuke!
+Cuke: Suspicious-cuke! Suspicious-cuke!
 
 Judy: Oh mister-cuukeypoo! Over this way!
 
@@ -2934,7 +3014,9 @@ Shall we explain how to play?
 - 👉Yes! explain
 - I know, I'm good
 
-All right, Momo-chan. You have to get across this room (using?) the doors Judy lured the Cukemen into! The exit is on the right side of the screen. If you cross the line of sight of a cukeman (up, down, left, or right of one at any distance) you'll be caught. Use the pillars to hide as you cross the room, so you won't be found!
+All right, Momo-chan. You have to get across this room (using?) the doors Judy lured the Cukemen into! The exit is on the right side of the screen. If you cross the line of sight of a cukeman you'll be caught. Use the pillars to hide as you cross the room, so you won't be found!
+
+[The cukemen can see you if there's a direct line north, south, east, or west between you of any distance. If ANY of teh cukemen see you, it's over. Periodically, Judy will lure them into a door and you can use this opportunity to dash with no risk.]
 
 Momo: Momo-1, now!
 
@@ -2952,11 +3034,87 @@ Clock: It's our turn now, Captain. Let us go!
 
 Captain: Hrm, well then, let's get to it.
 
+[You'll notice these two move much more slowly. You'll have to start all the way over if you get caught, so proceed with caution and don't take any risks! Good luck!]
+
 Judy: Eeeeeeek!!! Hold up! Is that as fast as you two can go!?
 
 Cuke: Cyu-cyu-cyu-cyu-cyuuuuke! Wait-cuke! Waiiit-cuuuke!
 
-*Captain makes it across*
+### If you fail
+
+Cuke: Cyu-cuke?
+
+Cuke: Cyuuuuuuuuuuu! It's Momo-cuke!!
+
+Cuke: Momo-cuke! Momo-cuke!
+
+Cuke: If we catch her, Dark Lord Cabbage'll praise us!
+
+Cuke: Praise-cuke! Praise-cuke!
+
+Cuke: ...Catch heeeer-cuuuke!
+
+Judy: Momo-chan, ruuuun!
+
+Momo: Aaaahh! You say run but w- which way...!?
+
+Momo-1: Quack quack! Any way, just RUN-WAK!!!
+
+Captain: Where am I...? I'm completely lost.
+
+Cuke: There-cuke! It's Captain-cuke!
+
+Clock: Eeaaaghh! Quickly, ruuuunnnn!!!
+
+Momo-1: Wak, wak! Where am I-wak? Which way-wak?
+
+Momo: Waahhhh, we're completely lost!
+
+Judy: Eeeek! Eeeeeeeeeeeeeeagh! Where? Where? Where am I? I don't knowwww!!!
+
+Momo: Judy!
+
+Judy: Momo-chan!
+
+Clock: Aaaawawawawwawa, Captain! Hurry! Hurry!
+
+Captain: ......?
+
+Captain: Ahhh! Momo-chan! Judy! And Momo-1!
+
+Momo: Captain! Mr. Clock! You're all right!
+
+Clock: *PHEW!* It seems, somehow, we all managed to get away.
+
+Judy: Yeah, somehow.
+
+Momo-1: Qua-quack? I can see light this way-wak!
+
+Judy: That's... a little suspicious.
+
+Captain: Yeess.... But we can't stay here like this.
+
+Momo: That's right. All right, for now, let's check it out!
+
+Momo: Huh? We're.......!?
+
+Momo-1: It's the same passageway as before-wak!
+
+Judy: Arrrrrrghghhh!
+
+Cuke: But we was so close to catchin' Momo...
+
+Cuke: CyuuuuuuuuuuuuUU! Regret-cuke! Regret-cuke!
+
+Cuke: If we see her this time we're SURE to catch her-cuke!
+
+Judy: *exhale* ALL RIGHT! Let's do this one more time!
+
+Momo: Judy!
+
+Judy: This time is gonna be perfect!
+
+## After the Chase
 
 Momo: Yatta!!!!
 
