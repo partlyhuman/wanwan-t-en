@@ -1,6 +1,6 @@
 # Wanwan Aijou Monogatari
 
-Welcome to Wanwan Aijou Monogatari, AKA "Puppy Love Story" <3
+Welcome to Wanwan Aijou Monogatari, AKA "Puppy Love Story"! <3 Hit start (not A) to get to the:
 
 # Main menu
 
@@ -29,9 +29,9 @@ Yes / No
 
 Ahem! Well then, let "Puppy Love Story" begin!
 
-# Scenario
+# Main Scenario
 
-## At home
+## At home (Chapter 1)
 
 Papa: I'm back!
 
@@ -338,7 +338,7 @@ Momo: Be back sooooon!
 
 Mama: Take care!
 
-## At the park
+## At the park (Chapter 2)
 
 Momo: Good, Barley! Can you fetch this? Here we go!
 
@@ -503,11 +503,11 @@ Barley: *Wan!*
 
 Momo: Ah... Barley! Oh... wait for meeeeeeeeee!
 
-## Forest
+## Forest (Chapter 3)
 
 Voice: -chan...
 
-Voice: Momo-chan... Momo-chan...
+Voice: Momo-chan? Momo-chan!
 
 Momo: ...Mama? What time is it?
 
@@ -910,7 +910,7 @@ Barley: *wan wan!*
 
 Momo: Well, what are we waiting for, guys?
 
-## Potato Field
+## Potato Field (Chapter 4)
 
 Momo: Momo-1! Excuse me, I'm sorry, but I just accidentally left something around here, and, I've come back to get it now, so...
 
@@ -1177,7 +1177,7 @@ Barley: *wan! wan! wan!*
 
 Momo: Thanks for the encouragement! Okay, Barley, let's do this!
 
-## Lemon Hill Crossroads
+## Lemon Hill Crossroads (Chapter 5)
 
 Momo: We've arrived...
 
@@ -1360,7 +1360,7 @@ Momo: In any case, let's go to see Grandpa!
 
 Barley: *wan! wan!*
 
-## Outside Grandpa's House
+## Outside Grandpa's House (Chapter 6)
 
 Momo: Could it really be grandpa's....
 
@@ -1612,7 +1612,7 @@ Momo: Okay! Here we gooooo!
 
 Gramps: ...Please be careful... Momo...
 
-## The Picture-Book Forest
+## The Picture-Book Forest (Chapter 7)
 
 Earb: Brr... what an eerie forest-mon...
 
@@ -2353,9 +2353,9 @@ Pumpkin: Made you look, ya dumb pig butts! BYE BYE, BOING!!!!
 
 Momo: Ahh! Wait!
 
-## Cabbage Patch
+## Cabbage Patch (Chapter 8)
 
-Judy: What are those...
+Judy: What are THOSE??
 
 Unit 01: Cabbages, huh...
 
@@ -2640,9 +2640,9 @@ Judy: Come here and say that! Anyway I'm only doing it for my best friend Momo. 
 
 Clock: Ooooookay! Let's go!
 
-## Forest
+## Forest (Chapter 9)
 
-Momo: Where was Barley taken off to...
+Momo: Where'd they take Barley off to...
 
 Judy: What if we asked the Flower Bracelet to take us to the Hallo-Pumpkin again?
 
@@ -2658,7 +2658,7 @@ Momo: Hey, how about this? What if I ask the Flower Bracelet for a map of this l
 
 Clock: A map?
 
-Momo: Yeah, nobody can know the entirety of this place. Since we don't have the slightest idea of where to go, with a map we'd figure it out, right? We can look for any inconspicuous places!
+Momo: Yeah, nobody can know this place in its entirety. Since we don't have the slightest idea of where to go, with a map we'd figure it out, right? We can look for any inconspicuous places!
 
 Judy: Momo-chan, that's great! Great!
 
@@ -2710,7 +2710,7 @@ Momo: Yeah. Goodnight...
 
 Momo: Barley, goodnight...
 
-## Flying
+## Flying (Chapter 10)
 
 Judy: Hey, does anyone else smell veggies?
 
@@ -2718,11 +2718,11 @@ Momo: Oh?
 
 Judy: Isn't there something odd about the forest down there?
 
-Momo: You're right! There are huge vegetables sprouting there... the ground seems strange...
+Momo: You're right! There's lots of huge vegetables sprouting there... looks weird...
 
-Judy: Eeeeekkk! This fog stinks like celery on top of peppers!
+Judy: Eeeeekkk! This fog stinks like celery on peppers!
 
-Judy: Noooooo! カミにおいがつくーッッ
+Judy: Noooooo! We're being seasoneddddd!!!!
 
 Unit 01: Wak wak! Do you ever stop complaining, Judy?!
 
@@ -2808,7 +2808,7 @@ Clock: All right, let's GO!!!
 
 Gunbot: ......
 
-## Castle Gate
+## Castle Gate (Chapter 11)
 
 Unit 01: Look, a gate!
 
@@ -3477,7 +3477,7 @@ Clock: Do not worry, we are safe. So, allow me to bring everyone back to Grandpa
 Momo: Yeah, we need his help!
 
 
-## Grandpa's
+## Grandpa's (Chapter 12)
 
 Momo: Hey everyone, let's take a photo! So after I go back to the Real World, I'll always have it to remember you by.
 
@@ -3492,6 +3492,57 @@ Momo: And, POSE!!!
 Barley: Momo-chan    we go   back home?
 
 Momo: That's right! We're going home, Barley.
+
+
+## Credits
+
+"Wanwan Love Story" Staff
+
+Script Supervisor...Kenji Terada
+
+Planning............Katsuya Kira
+					Kimiyoshi Yokonuma
+					Yumiko Morinaga
+					Kouji Itou
+
+Programming.........Shidaisuke Takaki
+					Masayuki Akazawa
+					Kazuhiro Okada
+
+Character Design....Emiko Hatanaka
+
+Background Design...Mashita Hidetoshi
+
+Key Animation.......Studio Tierra
+					Kiyoshi Matsushita
+
+Graphic Design......Youhei Ariyoshi
+					Rika Kawamoto
+					Kasumi Fujikawa
+					Tatsuya Nakata
+					Kyousuke Onoue
+					Yoshinari Miyauchi
+
+Graphic Design......Kouji Hizatomi
+					Takeshi Maeda
+					Shima Takeharu
+					Yamada Naoya
+					Kokubu Masaaki
+
+Sound...............Yumiko Morinaga
+					Takuya Yasuda
+
+Directors...........Yumiko Morinaga
+					Yuuri Shimamura
+
+Producers...........Toshihiro Nagao
+					Tetsuya Sasaki
+
+Production - Development
+Alfa System Co., Ltd.
+
+Production - Writing
+Casio Computer Co., Ltd.
 
 ---
 
