@@ -21,14 +21,18 @@ Since this is a Loopy game, of course there are some stickers to print. However,
 
 # Main menu
 
-Hello! Welcome to the world of "Puppy Love Story!" 
+Clock: Hello! Welcome to the world of "Puppy Love Story!" 
 
-Choose from the below menu:
+Momo: Choose from the below menu:
+
+[Clock D-pad instruction]
 
 - Play from the beginning
 - Continue playing
 - Copy your diary (save)
 - Delete your diary (save)
+
+[translate these texts]
 
 ## New game
 
@@ -58,7 +62,7 @@ Mama: Welcome home, dear!
 
 Papa: Momo, were you a good girl today?
 
-Momo: Papa! Momo isn't a LITTLE KID any more!
+Momo: Papa! I'm not a LITTLE KID any more!
 
 Papa: Haha, is that right? But... today is a special day, isn't it?
 
@@ -186,7 +190,7 @@ Momo: YATTA!!! WONDERFUL, Barley!!
 
 Barley: *Wan wan!*
 
-Momo: Papa, Barley learned SIT!
+Momo: Papa, Barley learned "sit"!
 
 Papa: Goooood! Well! Next up is "fetch!"
 
@@ -273,7 +277,7 @@ Barley: *whimper*
 
 Papa: Momo... Momo, you're getting a little frustrated, aren't you?
 
-Momo: ?!
+Momo: Huh?!
 
 Papa: Barley has a heart, you know. Since Barley won't do what you want, you got a little frustrated, right? Barley is very sensitive. He can understand your body language... and he won't come to you if you're irritated.
 
@@ -486,7 +490,7 @@ Clock: Judy, the closing of the Door of Time will soon be upon us! Let us return
 
 Judy: Please, Momo-chan! Please don't forget about me!
 
-Judy: We'll stay friends forever, right?
+Judy: We're friends forever, right?
 
 Momo: Of- Of course we're friends, Judy!
 
@@ -741,7 +745,7 @@ I'm a food that you get by sticking 5 rods together. What am I?
 
 [Burdock is written "gobou", but "go" can mean 5 and "bou" is the word they used for rods]
 
-I'm a food, and if you hit me with a stick, you'll get rewarded. What am I?
+I'm a food. Hit me with a stick and you'll get a reward. What am I?
 
 1. スイカ [a watermelon]
 2. カボチャ [a gourd]
@@ -763,7 +767,7 @@ At noon I'm short, but at night I grow taller. My color is black. What am I?
 2. ニジ [a rainbow]
 3. アサガオ [a morning glory]
 
-Whether you read me from above or read me from below, I'm the same kinda veggie. What am I?
+No matter how you look at me, I'm the same fruit. What am I?
 
 1. リンゴ [an apple]
 2. トマト [a tomato]
@@ -771,7 +775,7 @@ Whether you read me from above or read me from below, I'm the same kinda veggie.
 
 [Hint: look at how the Japanese word is written]
 
-I'm far away, but I look like I'm near by. What kind of shop am I?
+Even when I'm far away, it seems like I'm nearby. What kind of shop am I?
 
 1. スシ屋 [sushi shop]
 2. ソバ屋 [soba shop]
@@ -829,13 +833,13 @@ Cukeman: Here comes one last super, MEGA TOUGH riddle!
 
 Cukeman: Cuke?! CUKE!! Impossibleeeeeeeeee!!! *falls off tree*
 
-Momo: Do you give up?!
+Momo: Do you guys give up?!
 
 Barley: *wan!*
 
 Cukeman: Cuke... it's over... we lost-cuke.
 
-Cukeman: We lost to... lost to a.. a Prince Pup...
+Cukeman: To lose to... to lose to Prince pup....?!
 
 Cukeman: Shoot. You'll regret dis!
 
@@ -901,7 +905,7 @@ Clock: But... crossing Mt. Elementary........ that's impossible!
 
 Judy: Momo-chan, Mt. Elementary is a verrry tall mountain! There's no way we can hike over it.
 
-Judy: Right? *points to map*
+Judy: See? *points to map*
 
 Momo: Oh... well, what should we do...
 
@@ -913,7 +917,7 @@ Momo: Momo Unit 01?
 
 Momo: My tricycle, Momo Unit 01?!
 
-Momo: Talking about Momo-1... I, I remember! Back in kindergarten, I left it in the sandbox and came back home without it!
+Momo: Speaking of Momo-1... I, I remember! Back in kindergarten, I left it in the sandbox and came back home without it!
 
 Clock: All too common an occurrence among young children, I am afraid. Regrettable, regrettable...
 
@@ -1032,7 +1036,7 @@ Momo: Barley is one of us, there's nothing "unfair" about it! He's our friend!
 
 Bonbon: You're friends with a dog? That's messed up-bon. Help me out here, bro.
 
-Bonbon: Sure, bro. Prince Wan? More like a servant. A pathetic stray mutt-bon.
+Bonbon: Sure, bro. Prince Pup? More like a servant. A pathetic stray mutt-bon.
 
 Earb: That's h-horrible...
 
@@ -1044,9 +1048,9 @@ Momo: ENOUGH!!! Barley is our very, very dear friend!
 
 Momo: *kicks bonbons into space*
 
-Bonbon: Shiiiiiii- We won't forget this-bonnnnnnnnnn....
+Bonbon: Craaaaaaap- We won't forget this-bonnnnnnnnnn....
 
-Momo: Barley, you ARE our best friend.
+Momo: Barley, you ARE our friend.
 
 Judy: Momo-chan! Which of us is your best friend, me or Barley!?
 
@@ -1206,7 +1210,7 @@ Unit 01: We hop inside, and Momo-chan can bring us along-wak.
 
 Momo: About that... how exactly will everyone fit inside this bag...
 
-Momo: You guys?... Could they really be in the bag?
+Momo: You guys?... Could they really all be in the bag?
 
 Judy: I'm sorry I can't help...
 
