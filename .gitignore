@@ -1,2 +1,7 @@
 .DS_Store
 ._*
+
+# Don't actually commit full ROMs
+wanwan*.bin
+# Don't need save files
+*.sav

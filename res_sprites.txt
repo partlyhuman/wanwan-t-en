@@ -1,0 +1,1 @@
+@kasamikona/Wanwan/resource_tool/sprite resources.txt

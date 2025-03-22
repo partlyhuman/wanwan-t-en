@@ -1,0 +1,26 @@
+641 - orig sheet
+686 - orig palette
+525 - title tilemap (32x32)
+526 - copyright tilemap (32x8)
+
+231 tiles
+
+Plan:
+- replace spritesheet 641 (with bigger one)
+- keep palette 686
+- replace title tilemap 525 (with new, ordered one, deduped)
+- replace copyright tilemap 526 (pointing to new tile locations)
+
+Title
+224x69px, rounded up to 224x72px = 28 x 9 = 252 tiles out of a 32 x 32 image
+0-1 blank 30-31 blank, 4 blank, 2 on each side
+
+New tilemap
+keep 0 blank,
+generate tile ids 1-252 in a row starting at row 3 centered
+
+
+Copyright
+CC-E6 tiles used = 26 tiles
+
+/restool encode-tiles -i true -n 231 res/641-Sheet_en-Sheet.png res/641_en.bin && ./res-update 641
