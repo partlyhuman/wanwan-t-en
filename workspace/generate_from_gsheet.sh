@@ -1,9 +1,6 @@
 #!/bin/bash
 original_rom=wanwan.bin
-emu_bin=../../../../Rupi.exe
-emu_bios=../../../../bios.bin
-emu_soundbios=../../../../soundbios.bin
-emu_pcm=../../../../Sound/wanwan-samples/source/*.wav
+resource_tool=../@kasamikona/Wanwan/resource_tool/resource_tool.py
 
 pybin=python3
 if ! command -v python3; then pybin=python; fi
@@ -32,7 +29,7 @@ $pybin patchrom.py patch "$original_rom" patches.csv wanwan_prepatch.bin
 
 
 # Patch rom with fonts and resources
-echo
+echo "Injecting fonts ..."
 if [[ -f tmp.bin ]]; then rm tmp.bin; fi
 if [[ -f wanwan_patched.bin ]]; then rm wanwan_patched.bin; fi
 
@@ -43,13 +40,14 @@ rm tmp.bin
 
 
 # Inject strings
-echo
+echo "Injecting strings ..."
 if [[ -f wanwan_en.bin ]]; then rm wanwan_en.bin; fi
 
 $pybin wanwan_strings.py inject wanwan_patched.bin strings_tl_en_ph.csv clean_regions.csv wanwan_en.bin
 
+# Replace resources
+echo "Injecting resources ..."
+if [[ -f resources_en.bin ]]; then $pybin $resource_tool inject-section wanwan_en.bin resources_en.bin @; fi
 
-# Run emulator with ADPCM
-#echo
-#"$emu_bin" wanwan_en.bin "$emu_bios" "$emu_soundbios" | stdbuf -oL grep unmapped | $pybin wanwan_playpcm.py "$emu_pcm" >/dev/nul
+echo "Done!"
 open -a LoopyMSE wanwan_en.bin
