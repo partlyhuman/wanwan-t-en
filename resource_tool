@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 @kasamikona/Wanwan/resource_tool/resource_tool.py $@
