@@ -3,5 +3,8 @@
 
 # Don't actually commit full ROMs
 wanwan*.bin
-# Don't need save files
+
+# LoopyMSE outputs
 *.sav
+print_*.bmp
+loopymse_*.bmp

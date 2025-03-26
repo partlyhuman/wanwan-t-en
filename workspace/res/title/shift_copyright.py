@@ -1,6 +1,8 @@
 import struct
 import sys
 
+original_start = 0xCC
+
 def modify_binary_file(filename, offset):
     with open(filename, "r+b") as f:
         # Skip first two uint16s (4 bytes)
@@ -12,16 +14,15 @@ def modify_binary_file(filename, offset):
             if not data:
                 break  # End of file
 
-            value = struct.unpack(">H", data)[0]  # Big-endian uint16
-
+            value = struct.unpack(">H", data)[0]
             if value != 0:
-                new_value = (value + offset - 0xCC) & 0xFFFF  # Ensure it stays 16-bit
-                f.seek(-2, 1)  # Move back 2 bytes to overwrite
-                f.write(struct.pack(">H", new_value))  # Write modified value
+                new_value = (value - original_start + offset) & 0xFFFF
+                f.seek(-2, 1)
+                f.write(struct.pack(">H", new_value))
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python modify_binary.py <filename> <offset>")
+        print("Usage: python %s <filename> <offset>" % sys.argv[0])
         sys.exit(1)
 
     filename = sys.argv[1]
