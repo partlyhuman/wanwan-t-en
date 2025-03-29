@@ -7159,7 +7159,7 @@ the story behind the image?{nl}",,,,,,,,,,,,,,,,,,,,,,
 0x0E059624,0x0E05983C,28,,付いているけどシールする？{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E059640,0x0E059840,18,,{fast}　{opt}はい／{opt}いいえ,{fast}  {opt}Yes /{opt}No,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E059654,0x0E059844,14,,それじゃあ、{nl},"Okay, once you're done
-cutting the seal,
+cutting the first seal,
 press {btn_a}!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E059664,0x0E059848,20,,シールを切ってから{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E059678,0x0E05984C,22,,Ａボタンを押してね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7331,7 +7331,7 @@ break!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00A69C,0x0E00A79C,30,,{opt}ＳＧ１{opt}ＳＧ２{opt}ＳＧ３{opt}ＳＧ４{nl},{opt}1 Moles{opt}2 Patch{opt}3 Lemon{opt}4 Chase{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00A6BC,0x0E00A7A0,13,,{opt}ＡＤＰＣＭ{nl},{opt}Sound{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E008F88,0x0E0090E4,38,,{fast}１枚絵テスト１枚絵テスト１枚絵テスト,{fast}1pictest  1pictest  1pictest  1pictest,,,Test 2 subscreen (alt menu),,,,,,,,,,,,,,,,,,,,,,
+0x0E008F88,0x0E0090E4,38,,{fast}１枚絵テスト１枚絵テスト１枚絵テスト,{fast}1pictest  1pictest  1pictest  1pictest,,,"Test 2 subscreen (alt menu), has unique omake text",,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00AC34,0x0E00AD6C,4,,　{nl},　{nl},,,Print Text subscreen (alt menu),,,,,,,,,,,,,,,,,,,,,,
 0x0E00AC38,0x0E00AD74,22,,　じゅくに時間どおり{nl},  Hm. We didn't make{nl},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7457,7 +7457,167 @@ that are multiline as well",SG1 Potato Bombomb minigame,,,,,,,,,,,,,,,,,,,,,
 0x0E054788,0x0E054958,71,,　遊び方を教えましょうか？{nl}　　　{opt}ウン！教えて{nl}　　　{opt}知ってるからいい,"Should we go over the rules?
   {opt}Yes, explain
   {opt}No, I got it",,,,SG4 Cucumbro chase minigame,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,Extra Stories Printed on Omake Stickers,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Extra Stories Printed on Omake Stickers,Line count (<=13),,,,,,,,,,,,,,,,,,,,,
+0x0E05C54C,0x0E06CD58,378,,　その日、{momo}は、いつものように{nl}{baku}と公園で遊んでいました。{nl}　すると、{baku}がかき根の向こうか{nl}ら、古いお人形をくわえてきました。見{nl}たことがあるような、それに、なんだか{nl}とってもなつかしいような感じのするお{nl}人形です。でも、{momo}は、その人形{nl}の名前を思いだせませんでした。{nl}ところが………！{nl}「やだぁ〜もう、{momo}ちゃんったら{nl}わたしの名前わすれちゃったの？」{nl}人形がとつぜんしゃべりだしました。,,,"It was a typical day. {momomo} was
+playing fetch with {doggie} in the
+park. But then {doggie} returned from
+the bushes with something other than
+his ball: an old doll!
+There was something familiar, even
+nostalgic about it, yet {momomo}
+couldn't remember its name. Then...
+""Aw, c'mon, {momomo}, you don't
+remember my name??!""
+The doll suddenly began to speak!",Seal 1,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05C3C4,0x0E06CD60,392,,　人形の名は、ジュディ。{momo}が、{nl}昔々とっても大切にしていたお人形でし{nl}た。そして、{momo}の思い出の国、{nl}＜{momo}ランド＞がタイヘンなことに{nl}なってると知らせに来たのです。{nl}「このままでは、{momo}ちゃんの思い{nl}出がぜ〜んぶ消されてしまうの」{nl}「そんなぁ。だれがそんなことを？」{nl}「ハクサイ大魔王っていう悪いやつよ」{nl}　{momo}たちは、＜時間のとびら＞の{nl}管理人クロックさんとともに、さっそく{nl}思い出の国にトリップしました。,,,"The doll's name was Judy. Long ago,
+she was {momomo}'s precious toy.
+Now, she had traveled from a place
+called ""{momomo}land"" to warn {momomo}
+of an imminent danger!
+""If we don't do anything, ALL of your
+memories will vanish!""
+""What? Who would do that?!""
+""This super bad guy,
+The Dark Lord Cabbage!""
+Together with Mr. Clock, the Guardian
+of the Door of Time, they embarked on
+an adventure in the Land of Memories.",Seal 3,13,,,,,,,,,,,,,,,,,,,,,
+0x0E05C254,0x0E06CD68,368,,　そこは、とってもなつかしい匂いのす{nl}るワンダーランドでした。でも、ところ{nl}どころ、ハクサイ大魔王の子分たちが荒{nl}らしているようです。{nl}　{momo}が、いつだったか見た＜とっ{nl}ても高すぎる木＞の上では、{momo}が{nl}三才のおたんじょう日にパパからもらっ{nl}たクマのぬいぐるみ・ムクが助けをもと{nl}めていました。{nl}　いじわるなキューリマンたちにいじめ{nl}られていたのです。{nl}「ムクになんてことするの！」,,,"It was a wonderland of nostalgic
+smells! But Dark Lord Cabbage's
+henchmen were disturbing the peace.
+From up top of that ""super tall tree""
+{momomo} had seen once before, Barry,
+the teddy bear {momomo} got from her
+Papa for her third birthday, was
+calling out for help. Barry was being
+bullied by those bullies,
+the Cucumbros!
+""What are you doing with Barry!?""",Seal 5,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05C0CC,0x0E06CD70,390,,"　さて、思い出の国には、{momo}が忘
+れてしまったたくさんのことがところど
+ころに残っていました。
+　{momo}は、いそがしい毎日におわれ
+て、これらの大切なものたちを思い出さ
+なくなってしまっていたのです。
+　そのひとつが、いつだったか公園の砂
+場に置いてきちゃったままの三輪車・
+{momo}一号でした。{momo}一号は、
+ポテト・ボンボンというおそろしいバク
+ダンにかこまれていたのです。「ごめん
+ね、{momo}一号。今助けてあげる」",,,"Now then, the Land of Memories was
+strewn with things that {momomo} had
+sadly forgotten. Day after busy day,
+she had been losing her precious
+memories. Among these was {momomo}-01,
+the tricycle {momomo} had left behind
+at some point in a sandbox in the park.
+Now, {momomo}-01 was surrounded by
+the terrifyingly explosive Potato
+Bombombs!
+""I'm sorry, {momomo}-01! I'm here to
+rescue you now!""",Seal 8,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05BF28,0x0E06CD78,420,,"　レモンが丘まで来ると、すこしこわが
+りのムクはもちろんジュディや{momo}
+一号も、ちょっと尻ごみしました。
+　そこには、ミラクル・レモンズという
+とってもすっぱい………じゃなかった手
+ごわい姉妹がいたからなのです。
+「ぜったいぜったい、この丘はとおっち
+ゃダメ！　とおさないィィ………！」
+　レモンズのスライス投げは、なかなか
+キョーレツです。でも、{momo}たちは
+「すっぱいのすっぱいの、飛んでけぇ」
+　ついに、レモンズに勝ったのでした。",,,"When they finally reached Lemon Hill,
+timid Barry faltered, but so did
+Judy and Momo-01, for this was the
+home of those tarts--no, wait, those
+FIERCE SISTERS--the Miracle Lemons.
+""We will never, EVER let you pass
+this hill! You shall noooot passss!!!""
+Their Lemon Slice attack was
+positively deadly. However...
+""Sour, sour, jump and dodge!""
+In the end, {momomo} was the victor!",Seal 14,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05BDAC,0x0E06CD80,378,,　ところが、レモンズには用心棒がつい{nl}ていました。とっても強そうなロボット{nl}のオモチャです。{nl}「あれぇ〜？　もしかして、あなた、{nl}ガンボットじゃない！」{nl}　そうなのです。それは、{momo}が幼{nl}稚園の時の大親友・ガンちゃんの大切な{nl}オモチャだったのです。{momo}と将来{nl}を約束した（？）ガンちゃんは、ひっこ{nl}していく時、{momo}にこのロボットを{nl}プレゼントしたのでした。「{momo}{nl}ちゃんは、第二のご主人だゴン！」,,,"However, the Lemons had a bodyguard,
+a mighty-looking toy mecha.
+""Wait, are you... Gunbot??!""
+Indeed, it was Gunbot, the favorite
+toy of Gunther, {momo}'s kindergarten
+friend. 
+When Gunther moved away, he had
+entrusted Gunbot to {momomo}, sealed
+with a promise.
+""{momomo}, my second commander!""",Seal 18,10,,,,,,,,,,,,,,,,,,,,,
+0x0E05BC38,0x0E06CD88,370,,　{momo}たちは、とってもきれいな森{nl}の中に入りこんでいました。そしてそこ{nl}には、キラキラと輝く川のほとりに小屋{nl}がひとつ立っていました。{nl}「やぁ、よく来たね、{momo}」{nl}　そこは、亡くなったおじいちゃんの住{nl}んでる小屋だったのです。{nl}「おじいちゃんに会えるなんて！」{nl}「いつだって会えるさ。{momo}がワシ{nl}のことを思い出してくれさえすればね」{nl}　{momo}は、ひさしぶりにおじいちゃ{nl}んに抱きつきました。,,,"{momomo} and friends were deep in a
+beautiful forest. A lone cabin stood
+on the shore of a glittering river.
+""You made it, {momomo}!"" It was the
+home of {momomo}'s late grandpa.
+""Grandpa! I never thought I'd get to
+see you again!""
+""But you can see me any time, kiddo!
+Just recall your memories of me, and
+I'll be right there with you.""
+For the first time in ages,
+{momomo} hugged her grandpa.",Seal 20,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05BAB8,0x0E06CD90,382,,　おじいちゃんは、{baku}にチーズを{nl}食べさせてくれました。{nl}「うふっ。おじいちゃんは、まるで{nl}{baku}の言葉がわかるみたいね」{nl}「おぉ、わかるとも。{baku}のことを{nl}な、よ〜く見つめてやるんじゃ。そうす{nl}りゃぁ、なにが言いたいか、すぐにわか{nl}る。言葉なんていらないんだよ」{nl}　でも{momo}はほかのみんなと同じよ{nl}うに{baku}とも話せたらいいな、と思{nl}っていました。おじいちゃんは「いつか{nl}な」と笑って{momo}の頭をなでました。,,,"Grandpa fed {doggie} a bit of cheese.
+""Ahhh, it almost seems like you can
+understand {doggie}'s words, Grandpa!""
+""Heh, sure can. You just gotta stare
+deep into his eyes, and you'll
+understand what he's trying to say.
+No words necessary.""
+Still, {momomo} wished she could speak
+with {doggie} as easily as everyone
+else.
+""One day, kiddo,"" Grandpa laughed,
+patting {momomo} on the head.",Seal 22,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05B924,0x0E06CD98,402,,　「さぁ、{momo}や、これをやろう。{nl}覚えてるかな？」{nl}　それは、フラワーブレスというもので{nl}した。これを持っていると、三つの願い{nl}ごとがかなうというものです。あるクリ{nl}スマスにサンタクロースがくれたのです。{nl}　でも、{momo}は、その時、サンタが{nl}パパだということに気づいてしまいまし{nl}た。そして「こんなのウソだ」といって、{nl}パパたちを困らせたのです。{nl}　ところが、ブレスに祈ると、あやしげ{nl}なハローパンプキンが見えました。,,,"""Here, {momomo}, I want you to have
+this. Do you remember it?""
+It was the Flower Bracelet, said to
+have the power to grant three wishes.
+Santa Claus had given it to {momomo}
+one Christmas. But, {momomo} had
+realized that Santa was actually Papa.
+""This is all a lie!"" she said,
+frustrating her parents...
+However, upon wishing on the Bracelet,
+a suspicious Hallo-Pumpkin appeared...",Seal 24,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05B7C8,0x0E06CDA0,348,,　おじいちゃんにお別れすると、{nl}{momo}たちは、ハローパンプキンの森{nl}に行きました。{nl}　ところが、このハローパンプキン、大{nl}のクイズ好き。{nl}「クイズしよ〜クイズしよ〜。クイズし{nl}ないと、いたずらしちゃうぞ〜。クイズ{nl}したら、大魔王様がいるとこ教えちゃう{nl}ぞ〜」{nl}　そして、{momo}たちをまんまとだま{nl}して、青い玉にとじこめたのです。{nl}「ザマァ〜カンカン、ぶたの尻ィ〜！」,,,"{momomo} and her friends bid farewell
+to Grandpa and set out for the Hallo-
+Pumpkin's forest. Little did they
+know the Hallo-Pumpkin was a fiend
+for quizzes!
+""Quiz or Treat! Quiz or Treat!
+Win and I'll tell you where to find
+the Dark Lord Cabbage! Lose and face
+my Tricks!"" But win or lose, it was
+all a trick! {momomo} and friends were
+trapped in a big blue bubble!",Seal 30,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05B644,0x0E06CDA8,388,,"　それからも、ハクサイ大魔王の子分た
+ちは、つぎつぎに現れました。
+　その中でも、大魔王一の子分・ビッグ
+・ザ・キャベツは、とってもおそろしい
+ヤツです。ただのキャベツ畑と見せかけ
+て、ナント！　{baku}のことをつかま
+えてしまったのです。
+「ガァ〜ッハハハ〜〜、こいつは、うま
+そうな犬だ。われらのハクサイ大魔王様
+にさしあげるとしよう」
+「やめて！　{baku}をかえして！」
+{momo}はキャベツに飛びかかりました。",,,"We've met the Dark Lord Cabbage's
+minions one after another, but here
+was the most fearsome one yet:
+The Dark Lord Cabbage's right-hand
+veg, The Big Cabbage.
+At first it seemed like any ordinary
+cabbage patch. But then...! The Big
+Cabbage trapped {doggie}.
+""Gahahahaha! Now, this is a tasty
+little snack! I think I'll present him
+to the my Lord!""
+""Stop! Give back {doggie}!"" {momomo}
+lunged at The Big Cabbage.",Seal 34,13,,,,,,,,,,,,,,,,,,,,,
 0x0E05B500,0x0E06CDB0,322,,"「あぶない、{momo}ちゃん！」
 ムクが{momo}に飛びついて止めました。
 「{momo}ちゃんまでつかまってしまう
@@ -7478,83 +7638,69 @@ Lord Cabbage's right hand veg.
 ""Barrryyyyyyy!""
 ""Owwwww, it hurrrrts!!!""
 Just then, The Big Cabbage snatched
-{doggie} away, laughing haughtily!","20 x 13 in fullwidth
-40 x 13 halfwidth
-Note that 40 is very edge-to-edge and risks getting cut off, so probably best to stay within 38.",,,,,,,,,,,,,,,,,,,,,,
-0x0E05B7C8,0x0E06CDA0,348,,　おじいちゃんにお別れすると、{nl}{momo}たちは、ハローパンプキンの森{nl}に行きました。{nl}　ところが、このハローパンプキン、大{nl}のクイズ好き。{nl}「クイズしよ〜クイズしよ〜。クイズし{nl}ないと、いたずらしちゃうぞ〜。クイズ{nl}したら、大魔王様がいるとこ教えちゃう{nl}ぞ〜」{nl}　そして、{momo}たちをまんまとだま{nl}して、青い玉にとじこめたのです。{nl}「ザマァ〜カンカン、ぶたの尻ィ〜！」,,,"{momomo} and her friends bid farewell
-to Grandpa and set out for the Hallo-
-Pumpkin's forest. Little did they
-know the Hallo-Pumpkin was a fiend
-for quizzes!
-""Quiz or Treat! Quiz or Treat!
-Win and I'll tell you where to find
-the Dark Lord Cabbage! Lose and face
-my Tricks!"" But win or lose, it was
-all a trick! {momomo} and friends were
-trapped in a big blue bubble!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05AAAC,0x0E06CDE8,360,,　思い出の国のたくさんの友達に助けら{nl}れた{momo}でしたが、ついに、ヤサイ{nl}たちのワナにはまってしまいました。{nl}　オリの外には、キズついた{baku}が{nl}いました。{nl}「ごめんね、{baku}。わたしのために、{nl}こんなヒドイ目に合わせちゃって」{nl}　でも{baku}は、すこしも{momo}を{nl}うらんだりしていません。それどころか、{nl}{momo}たちの入れられたオリを、ひっ{nl}しにロープを引っぱって、開けようとし{nl}てくれたのです。,,,"{momomo} had made many friends in the
-Land of Memories, but despite all their
-help, she fell into the veggies' trap!
-{doggie} was curled up in pain on the
-other side of the cage.
-""I'm so sorry, {doggie}! It's my fault
-you've had to go through all this...""
-Of course, {doggie} didn't blame
-{momomo}. Instead, he desperately
-pulled at the cord, trying to raise
-the cage from around {momomo} and
-Mr. Clock.",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A4C0,0x0E06CE08,364,,　「{baku}〜〜！」{nl}　{momo}は、{baku}を抱きしめまし{nl}た。そしてハクサイ大魔王に大きな声を{nl}あげてあやまりました。{nl}「ごめんなさい、ハクサイさん！　ごめ{nl}んなさい、キャベツさんや、カボチャさ{nl}んたち。悪いのは、このあたしだわ。思{nl}い出の世界を大切にしていなかったばっ{nl}かりに、みんなになんて悲しい思いをさ{nl}せてしまったんでしょう！」{nl}「{momo}ちゃん………」{nl}　大魔王はセロリをおろしました。,,,"""NO! {DOGGIE}!!!!""
-{momomo} held {doggie} close. She tried
-to steady her voice, and appealed to
-the Dark Lord Cabbage.
-""I'm sorry, Dark Lord Cabbage! I'm
-sorry, Mr. Big Cabbage, Mr. Pumpkin,
-all the veggies. This is all my fault!
-Because I didn't cherish the Land of
-Memories, I caused all these bad
-memories, didn't I?""
-""{momomo}....!"" The Dark Lord Cabbage
-readied his Celery Blade!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05C254,0x0E06CD68,368,,　そこは、とってもなつかしい匂いのす{nl}るワンダーランドでした。でも、ところ{nl}どころ、ハクサイ大魔王の子分たちが荒{nl}らしているようです。{nl}　{momo}が、いつだったか見た＜とっ{nl}ても高すぎる木＞の上では、{momo}が{nl}三才のおたんじょう日にパパからもらっ{nl}たクマのぬいぐるみ・ムクが助けをもと{nl}めていました。{nl}　いじわるなキューリマンたちにいじめ{nl}られていたのです。{nl}「ムクになんてことするの！」,,,"It was a wonderland of nostalgic
-smells! But Dark Lord Cabbage's
-henchmen were disturbing the peace.
-From up top of that ""super tall tree""
-{momomo} had seen once before, Barry,
-the teddy bear {momomo} got from her
-Papa for her third birthday, was
-calling out for help. Barry was being
-bullied by those bullies,
-the Cucumbros!
-""What are you doing with Barry!?""",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05BC38,0x0E06CD88,370,,　{momo}たちは、とってもきれいな森{nl}の中に入りこんでいました。そしてそこ{nl}には、キラキラと輝く川のほとりに小屋{nl}がひとつ立っていました。{nl}「やぁ、よく来たね、{momo}」{nl}　そこは、亡くなったおじいちゃんの住{nl}んでる小屋だったのです。{nl}「おじいちゃんに会えるなんて！」{nl}「いつだって会えるさ。{momo}がワシ{nl}のことを思い出してくれさえすればね」{nl}　{momo}は、ひさしぶりにおじいちゃ{nl}んに抱きつきました。,,,"{momomo} and friends were deep in a
-beautiful forest. A lone cabin stood on
-the shore of a glittering river.
-""You made it, {momomo}!"" It was the
-home of {momomo}'s late grandpa.
-""Grandpa! I never thought I'd get to
-see you again!""
-""But you can see me any time, kiddo!
-Just recall your memories of me, and
-I'll be right there with you.""
-For the first time in ages,
-{momomo} hugged her grandpa.",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05AC14,0x0E06CDE0,372,,「キャイン〜〜！」{nl}　奥のほうで{baku}の鳴き声がしまし{nl}た。きっと大魔王にいじめられているの{nl}です。{momo}は、すぐにその声のする{nl}ほうに、駆けだしました。でも、その時、{nl}クロックさんがさけんだのです。{nl}「{momo}ちゃん、危ないであるぞ！」{nl}　なんと、天井が落ちてきたのです。{nl}「キャァ〜〜〜！」{nl}　{momo}を救ったのはガンボットでし{nl}た。ガンボットはかげで{momo}をずっ{nl}と見守っていたのです。ところが……！,,,"""Yiiiip!""
-{doggie}'s cry echoed out from deep in
-the chambers. He was surely being
-tormented by the Dark Lord.
-{momomo} dashed towards the sound as
-soon as she heard it.
-""{momomo}, look out!"" shouted Mr. Clock.
-Suddenly, the ceiling began to lower.
-""Aieeeeee!!""
-It was Gunbot who came to the rescue.
-He had been keeping watch over {momomo}
-this whole time. But then...!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05AF00,0x0E06CDD0,372,,「ジュディったら、そんなふうに、ヤサ{nl}イのこというもんじゃないわ」{nl}「あら、だって〜、{momo}ちゃん、ヤ{nl}サイ大きらいだったじゃない」{nl}「え〜、ウッソ〜。今は、とっても大好{nl}きよ〜」{nl}「ワン！　たしかに、{momo}ちゃんは、{nl}小さいころ、ヤサイぎらいだったなぁ」{nl}　{momo}が幼稚園に入る前に飼ってた{nl}犬、キャプテンがいいました。{nl}　きっと大魔王の反乱は{momo}がヤサ{nl}イぎらいだったことに関係があるのです。,,,"""Judy, you shouldn't talk about veggies
-that way!""
+{doggie} away, laughing haughtily!",Seal 36,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05B37C,0x0E06CDB8,388,,"「ムク！　ムク、しっかりして。ごめん
+ね。わたしを止めようとしたばかりに」
+「{momo}ちゃん。ぼく、………もう、
+弱虫じゃないよね？」
+　ムクは、とっても心やさしい子でした。
+そのため、ちょっと弱虫なところもあり
+ます。………でも………でも、もうそん
+な弱虫じゃないっていうことが、証明さ
+れたのです。
+「弱虫なんかじゃないよ。ありがとう、
+………ありがとう、ムク！」
+　ムクは、ほっと笑顔を見せました。",,,"""Barry! Hang in there, Barry!
+I'm sorry, you were only trying to
+stop me!""
+""{momomo}, am I... am I still a wimp?""
+Barry was such a sweet boy that yes,
+he had some slightly weak qualities...
+But now... now, he had proven his
+bravery!
+""You're not a wimp at all! Thank you!
+Thank you, Barry...""
+Barry smiled with relief.",Seal 38,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05B1F8,0x0E06CDC0,386,,　ムクは、おじいちゃんにケガをなおし{nl}てもらおうと、一人帰っていきました。{nl}　その晩、{momo}は、{baku}の夢を{nl}見ました。どこか知らない、暗ぁ〜い暗{nl}いところで、{baku}が泣いています。{nl}とってもとってもさみしそうです。{nl}　{momo}は、みんなにこんな思いをさ{nl}せているのは、自分のせいだ、って思い{nl}ました。{nl}　わたしが、……もっとちゃんと、思い{nl}出を大切にしていれば、こんなことにな{nl}らなかったかも知れないのに………。,,,"Barry set off on his own for Grandpa's
+house, returning for aid with his
+injuries.
+That night, {momomo} dreamt of
+{doggie}. He was crying out in pain
+from deep, deep in the depths of the
+dark. He sounded so, so lonely.
+{momomo} couldn't help but feel
+everything that had happened was her
+fault.
+""If I had only kept my memories more
+precious, none of this would have
+happened...""",Seal 42,13,,,,,,,,,,,,,,,,,,,,,
+0x0E05B074,0x0E06CDC8,388,,"「クェェ〜〜！　あれだ！　{momo}ち
+ゃん、ベジタブル城が近づいたグア〜」
+　{momo}一号が叫びました。この思い
+出の国では{momo}一号は空を飛べます。
+　それは、{momo}が、一号に乗って遊
+んでいたころ、「いつか、{momo}一号
+でお空を飛ぶんだ」って思っていたから
+です。願うこと、信じることはなんでも
+かなう、っていうのが、この＜{momo}
+ランド＞なのです。
+「やだぁ〜、ヤサイくさぁ〜！」
+　ジュディが、思わず悲鳴をあげました。",,,"""Waaak! There it is! {momomo}, we're
+approaching Vegetable Keep,""
+{momomo}-01 called out.
+When {momomo} rode on {momomo}-01 as
+a child, she would say, ""{momomo}-01,
+someday we'll fly through the skies!""
+That belief is what lets {momomo}-01
+actually fly, here in the Land of
+Memories. Whatever you wished for, or
+believed in, that's {momomo}land.
+""Eaaaaghhh! Stinky veggies!!!""
+Judy let out an involuntary shriek.",Seal 43,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05AF00,0x0E06CDD0,372,,「ジュディったら、そんなふうに、ヤサ{nl}イのこというもんじゃないわ」{nl}「あら、だって〜、{momo}ちゃん、ヤ{nl}サイ大きらいだったじゃない」{nl}「え〜、ウッソ〜。今は、とっても大好{nl}きよ〜」{nl}「ワン！　たしかに、{momo}ちゃんは、{nl}小さいころ、ヤサイぎらいだったなぁ」{nl}　{momo}が幼稚園に入る前に飼ってた{nl}犬、キャプテンがいいました。{nl}　きっと大魔王の反乱は{momo}がヤサ{nl}イぎらいだったことに関係があるのです。,,,"""Judy, you shouldn't talk about
+vegetables that way!""
 ""Huh? But, {momomo}, I thought you
-haaaaated vegetables!""
+haaaaated veggies!""
 ""What? No way! I love veggies now!""
 ""Wunfh! It's true, {momomo}, when you
 were little, you really did hate your
@@ -7562,33 +7708,198 @@ vegetables,"" said Captain, {momomo}'s
 dog from when she started kindergarten.
 The Dark Lord Cabbage's rebellion must
 have something to do with {momomo}
-hating veggies back then...",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A62C,0x0E06CE00,373,,「思い出したかぁ〜！　よっくもこんな{nl}ひどいことを！　ハクサイにだって、ハ{nl}クサイにだってプライドというものがあ{nl}るんだ。くっくく……いっくら……オレ{nl}のことキライだからって、なにもこんな{nl}ことすることないだろうぉぉ〜！」{nl}　大魔王は、セロリブレードで{momo}{nl}に切りかかりました。でもその時、{nl}「アオ〜ン！」{nl}　{baku}が、大魔王にかみつきました。{nl}おこった大魔王は、{baku}をけり飛ばし{nl}ました。{nl},,,"""So NOW you remember?! How dare you say
-such hurtful things! Even a cabbage...
-even a CABBAGE has a thing called
-'pride!' Heh heh... you may hate me,
-but that's just uncalled for!""
+hating veggies back then...",Seal 44,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05AD88,0x0E06CDD8,374,,　ベジタブル城の中は、めい路のように{nl}なっています。数字合わせをしないと開{nl}かないトビラもあるし………それに、た{nl}くさんのヤサイ兵士とバッタリ、なんて{nl}こともあります。{nl}「あ〜ん、{baku}がいるとこにたどり{nl}着けるかしらぁ」{nl}　{momo}一号の様子が変です。すこし{nl}前に浴びたキリのために、サビて動けな{nl}くなってしまったのです。{nl}　ジュディが、ヤサイの兵士を引きつけ{nl}るために駆けだしていきました。,,,"The interior of Veggie Keep was like a
+maze. There were doors that won't
+unlock unless you solve a puzzle, and
+there was a real risk of running into
+a Veggie Corps soldier...
+""Arrghh, will we ever find the way
+to {doggie}!?""
+Something was up with {momomo}-01...
+Due to the green mist they had flown
+through, she had begun to stiffen with
+rust.
+Judy sprinted off, leading the Veggie
+Corps on a wild chase.",Seal 47,13,,,,,,,,,,,,,,,,,,,,,
+0x0E05AC14,0x0E06CDE0,372,,「キャイン〜〜！」{nl}　奥のほうで{baku}の鳴き声がしまし{nl}た。きっと大魔王にいじめられているの{nl}です。{momo}は、すぐにその声のする{nl}ほうに、駆けだしました。でも、その時、{nl}クロックさんがさけんだのです。{nl}「{momo}ちゃん、危ないであるぞ！」{nl}　なんと、天井が落ちてきたのです。{nl}「キャァ〜〜〜！」{nl}　{momo}を救ったのはガンボットでし{nl}た。ガンボットはかげで{momo}をずっ{nl}と見守っていたのです。ところが……！,,,"""Yiiiip!"" {doggie}'s cry echoed out
+from deep in the chambers. He was
+surely being tormented by the Dark
+Lord Cabbage.
+{momomo} dashed towards the sound as
+soon as she heard it.
+""{momomo}, look out!"" shouted Mr.
+Clock.
+Suddenly, the ceiling began to lower.
+""Aieeeeee!!""
+Who came to the rescue, but Gunbot?!
+He had been keeping watch over
+{momomo} this whole time. But then...!",Seal 51,13,,,,,,,,,,,,,,,,,,,,,
+0x0E05AAAC,0x0E06CDE8,360,,　思い出の国のたくさんの友達に助けら{nl}れた{momo}でしたが、ついに、ヤサイ{nl}たちのワナにはまってしまいました。{nl}　オリの外には、キズついた{baku}が{nl}いました。{nl}「ごめんね、{baku}。わたしのために、{nl}こんなヒドイ目に合わせちゃって」{nl}　でも{baku}は、すこしも{momo}を{nl}うらんだりしていません。それどころか、{nl}{momo}たちの入れられたオリを、ひっ{nl}しにロープを引っぱって、開けようとし{nl}てくれたのです。,,,"{momomo} had made many friends in the
+Land of Memories, but despite all
+their help, she fell into the veggies'
+trap! {doggie} was curled up in pain
+on the other side of the cage.
+""I'm so sorry, {doggie}! It's my fault
+you've had to go through all this...""
+Of course, {doggie} didn't blame
+{momomo}. Instead, he desperately
+pulled at the cord, trying to raise
+the cage from around {momomo} and
+Mr. Clock.",Seal 52,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05A92C,0x0E06CDF0,384,,　{momo}がオリをぬけだすと、そこに{nl}は、あのビッグ・ザ・キャベツが待ちか{nl}まえていました。{nl}「このヤサイぎらいの人でなしめが。今{nl}こそ、おれたちの味わった苦しみを、お{nl}前におしえてやる！」{nl}「待って！ごかいなのよ、ビッグ・ザ・{nl}キャベツ。わたしは、もう今ではヤサイ、{nl}大好きなの。だからもう、ゆるして？{nl}わたしの大切な思い出の国を、これ以上、{nl}こわさないで！」{nl}　その時、ついに大魔王が現れました。,,,"{momomo} escaped from the cage, but
+The Big Cabbage was lying in wait.
+""You veggie-hating scum! You'll soon
+feel the same pain we've suffered!""
+""Wait! It's all a misunderstanding,
+The Big Cabbage! I love veggies now,
+so can't you forgive me? I beg you,
+do no more harm to the Land of my
+precious Memories!""
+Finally, the Dark Lord Cabbage
+appeared...",Seal 54,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05A7A4,0x0E06CDF8,392,,"「ええ、ゆるさんゆるさぁ〜ん！」
+　ハクサイ大魔王は城じゅうにひびく声
+をあげてどなりました。
+「今では、ヤサイが好きだとぉ〜？　え
+えい、そんなこと信用するものかぁ！
+やい、{momo}、このオレさまの背中に
+書かれた超ムカつく字を忘れたワケじゃ
+あるまい〜〜〜！」
+　大魔王の背中には、なんと『バカ、キ
+ライ』と書かれてあったのです。
+「わっ！あれは、たしかわたしの字だ」
+大魔王は、セロリをふりあげました。",,,"""No! I'll never forgive you, NEVER,""
+shouted the Dark Lord Cabbage, his
+voice booming throughout the castle.
+""So, you say love veggies now?
+You can't seriously expect me to just
+believe that?! Me, the one whose rear
+you defiled with your filthy graffiti?
+You're joking!!!""
+On the Dark Lord Cabbage's backside,
+the word ""dumb"" was scrawled.
+""Gasp! That's my handwriting!""
+The Dark Lord Cabbage raised his
+Celery Blade...!",Seal 61,13,,,,,,,,,,,,,,,,,,,,,
+0x0E05A62C,0x0E06CE00,373,,「思い出したかぁ〜！　よっくもこんな{nl}ひどいことを！　ハクサイにだって、ハ{nl}クサイにだってプライドというものがあ{nl}るんだ。くっくく……いっくら……オレ{nl}のことキライだからって、なにもこんな{nl}ことすることないだろうぉぉ〜！」{nl}　大魔王は、セロリブレードで{momo}{nl}に切りかかりました。でもその時、{nl}「アオ〜ン！」{nl}　{baku}が、大魔王にかみつきました。{nl}おこった大魔王は、{baku}をけり飛ばし{nl}ました。{nl},,,"""So NOW you remember?! How could you?!
+I may be a cabbage, but even a cabbage
+has a thing called 'pride!' Heh... 
+You may hate me, but that was just
+uncalled for!""
 The Dark Lord Cabbage swung his Celery
 Blade at {momomo}! But then...
 ""Awoooo!""
 {doggie} sunk his teeth into the Dark
-Lord. Enraged, the Dark Lord sent
-{doggie} flying with a kick!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05AD88,0x0E06CDD8,374,,　ベジタブル城の中は、めい路のように{nl}なっています。数字合わせをしないと開{nl}かないトビラもあるし………それに、た{nl}くさんのヤサイ兵士とバッタリ、なんて{nl}こともあります。{nl}「あ〜ん、{baku}がいるとこにたどり{nl}着けるかしらぁ」{nl}　{momo}一号の様子が変です。すこし{nl}前に浴びたキリのために、サビて動けな{nl}くなってしまったのです。{nl}　ジュディが、ヤサイの兵士を引きつけ{nl}るために駆けだしていきました。,,,"The interior of Veggie Keep was like a
-maze. There are even doors that won't
-unlock without solving a puzzle... and
-even then, there was always the risk of
-running into a Veggie Corps soldier...
-""Aghhh, will we ever find the path that
-leads us to {doggie}!?""
-Something was up with {momomo}-01.
-Due to the green mist they had flown
-through, she had begun to stiffen with
-rust.
-Judy created a distraction by running
-off, leading the Veggie Corps on a wild
-chase.",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05BDAC,0x0E06CD80,378,,　ところが、レモンズには用心棒がつい{nl}ていました。とっても強そうなロボット{nl}のオモチャです。{nl}「あれぇ〜？　もしかして、あなた、{nl}ガンボットじゃない！」{nl}　そうなのです。それは、{momo}が幼{nl}稚園の時の大親友・ガンちゃんの大切な{nl}オモチャだったのです。{momo}と将来{nl}を約束した（？）ガンちゃんは、ひっこ{nl}していく時、{momo}にこのロボットを{nl}プレゼントしたのでした。「{momo}{nl}ちゃんは、第二のご主人だゴン！」,,,"However, the Lemons had a bodyguard,
+Lord Cabbage. Enraged, he sent
+{doggie} flying with a kick!",Seal 68,11,,,,,,,,,,,,,,,,,,,,,
+0x0E05A4C0,0x0E06CE08,364,,　「{baku}〜〜！」{nl}　{momo}は、{baku}を抱きしめまし{nl}た。そしてハクサイ大魔王に大きな声を{nl}あげてあやまりました。{nl}「ごめんなさい、ハクサイさん！　ごめ{nl}んなさい、キャベツさんや、カボチャさ{nl}んたち。悪いのは、このあたしだわ。思{nl}い出の世界を大切にしていなかったばっ{nl}かりに、みんなになんて悲しい思いをさ{nl}せてしまったんでしょう！」{nl}「{momo}ちゃん………」{nl}　大魔王はセロリをおろしました。,,,"""NO! {DOGGIE}!!!!""
+{momomo} held {doggie} close. Trying
+to steady her voice, she appealed to
+the Dark Lord Cabbage.
+""I'm sorry, Dark Lord Cabbage! I'm
+sorry, Mr. Big Cabbage, Mr. Pumpkin,
+all the veggies. This is all my fault!
+Because I didn't cherish the Land of
+Memories, I caused all these bad
+memories, didn't I?""
+""{MOMOMO}....!"" The Dark Lord Cabbage
+readied his Celery Blade!",Seal 72,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05A330,0x0E06CE10,398,,"「これからは、わたし、きっと思い出を
+大事にする。みんなのこと、ぜったい、
+ぜったい忘れない。だって、今のわたし
+がいるのだって………この国にいるぜ〜
+んぶのお友達に助けてもらったからなん
+だもの。過去のたくさんの思い出を大切
+にしないと、明るい未来なんてあるわけ
+ないもんね！」
+　ハクサイ大魔王は、目に涙を浮かべて
+いいました。
+「うぅ……、オレたちは、ただおいしく
+食べてもらいたかっただけなんだよぉ」",,,"""From now on, I'm going to cherish my
+memories. I never, ever want to forget
+you all! During my time in this Land
+of Memories, you've all helped me and
+saved me again and again. If I don't
+protect all my memories from my past,
+how can I expect to have a bright
+future?!""
+""*Sniff!* All us veggies ever wanted
+was to be eaten and appreciated,""
+replied the Dark Lord Cabbage,
+tears in his eyes.",Seal 75,12,,,,,,,,,,,,,,,,,,,,,
+0x0E05A198,0x0E06CE18,408,,"「いかん、さぁ{momo}ちゃん、もう今
+の世界にもどらなくちゃいかん時間だ」
+クロックさんがいいました。
+「あ〜あ、せっかくみんなとこうして仲
+よくなれたのにね、{baku}？」
+　そこで{momo}は、みんなと記念写真
+をとることにしました。それは、とって
+もとっても大切な思い出たちを、もう一
+度しっかりと心に焼きつけるためでした。
+　今度こそ、{momo}はどんなに毎日が
+忙しくても、こんなステキなお友達がい
+ることをけっして忘れないことでしょう。",,,"""Well, {momomo}, I suppose you should
+be getting back to your world, and the
+present time,"" said Mr. Clock.
+""And just when you were getting along
+so well, huh, {doggie}?""
+All of these memories were so, so
+precious, {momomo} wanted to ensure
+they were etched into in her heart for
+all time. And so, she decided to mark
+the occasion with a photo.
+Now {momomo} will never forget these
+extraordinary friends, no matter how
+busy her days become.",Seal 79,13,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Unused Debug — Omake Text,,,,,,,,,,,,,,,,,,,,,,
+0x0E00986C,0x0E06AD44,380,,{clr}　その日、{momo}は、いつものように{nl}{baku}と公園で遊んでいました。{nl}　すると、{baku}がかき根の向こうか{nl}ら、古いお人形をくわえてきました。見{nl}たことがあるような、それに、なんだか{nl}とってもなつかしいような感じのするお{nl}人形です。でも、{momo}は、その人形{nl}の名前を思いだせませんでした。{nl}ところが・・・！{nl}「やだぁ〜もう、{momo}ちゃんったら{nl}わたしの名前わすれちゃったの？」{nl}人形がとつぜんしゃべりだしました。{nl},,,"It was a typical day. {momomo} was
+playing fetch with {doggie} in the
+park. But then {doggie} returned from
+the bushes with something other than
+his ball: an old doll!
+There was something familiar, even
+nostalgic about it, yet {momomo}
+couldn't remember its name. Then...
+""Aw, c'mon, {momomo}, you don't
+remember my name??!""
+The doll suddenly began to speak!",Seal 1?,11,,,,,,,,,,,,,,,,,,,,,
+0x0E0096D8,0x0E06AD48,403,,{clr}　人形の名は、ジュディ。ももが、昔々{nl}とっても大切にしていたお人形でした。{nl}　そして、ももの思い出の国＜{momo}{nl}ランド＞がタイヘンなことになってると{nl}知らせに来たのです。{nl}「このままでは、ももちゃんの思い出が{nl}ぜ〜んぶ消されてしまうわさ」{nl}「そんなぁ。だれがそんなことを？」{nl}「ハクサイ大魔王っていう悪いヤツよ」{nl}　ももたちは、＜時間のとびら＞の管理{nl}人クロックさんとともに、さっそく思い{nl}出の国にトリップしました。,,,"The doll's name was Judy. Long ago,
+she was {momomo}'s precious toy.
+Now, she had traveled from a place
+called ""{momomo}land"" to warn {momomo}
+of an imminent danger!
+""If we don't do anything, ALL of your
+memories will vanish!""
+""What? Who would do that?!""
+""This super bad guy,
+The Dark Lord Cabbage!""
+Together with Mr. Clock, the Guardian
+of the Door of Time, they embarked on
+an adventure in the Land of Memories.",Seal 3?,13,,,,,,,,,,,,,,,,,,,,,
+0x0E009528,0x0E06AD4C,431,,{clr}　レモンが丘まで来ると、すこしこわが{nl}りのムクはもちろん、ジュディやもも一{nl}号も、ちょっと尻ごみしました。{nl}　そこには、ミラクル・レモンズという、{nl}とってもすっぱい・・・じゃなかった手{nl}ごわい姉妹がいたからなのです。{nl}「ぜったいぜったい、この丘はとおっち{nl}ゃダメ！　とおさないィィ・・・！」{nl}　レモンズのスライス投げは、なかなか{nl}キョーレツです。でも、ももたちは、{nl}「すっぱいのすっぱいの、飛んでけぇ」{nl}　ついに、レモンズに勝ったのでした。,,,"When they finally reached Lemon Hill,
+timid Barry faltered, but so did
+Judy and Momo-01, for this was the
+home of those tarts--no, wait, those
+FIERCE SISTERS--the Miracle Lemons.
+""We will never, EVER let you pass
+this hill! You shall noooot passss!!!""
+Their Lemon Slice attack was
+positively deadly. However...
+""Sour, sour, jump and dodge!""
+In the end, {momomo} was the victor!",Seal 14?,11,,,,,,,,,,,,,,,,,,,,,
+0x0E0093A4,0x0E06AD50,387,,"{clr}　ところが、レモンズには用心棒がつい
+ていました。とっても強そうなロボット
+のオモチャです。
+「あれぇ〜？　もしかして、あなた、ガ
+ンボットじゃない！」
+　そうなのです。それは、ももが幼稚園
+の時の大親友・ガンちゃんの大切なオモ
+チャだったのです。ももと将来を約束し
+た（？）ガンちゃんは、ひっこししてい
+く時、ももにこのロボットをプレゼント
+したのでした。
+「ももちゃんは、第二のご主人だゴン」",,,"However, the Lemons had a bodyguard,
 a mighty-looking toy mecha.
 ""Wait, are you... Gunbot??!""
 Indeed, it was Gunbot, the favorite
@@ -7597,121 +7908,19 @@ friend.
 When Gunther moved away, he had
 entrusted Gunbot to {momomo}, sealed
 with a promise.
-""{momomo}, my second commander!""",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05C54C,0x0E06CD58,378,,　その日、{momo}は、いつものように{nl}{baku}と公園で遊んでいました。{nl}　すると、{baku}がかき根の向こうか{nl}ら、古いお人形をくわえてきました。見{nl}たことがあるような、それに、なんだか{nl}とってもなつかしいような感じのするお{nl}人形です。でも、{momo}は、その人形{nl}の名前を思いだせませんでした。{nl}ところが………！{nl}「やだぁ〜もう、{momo}ちゃんったら{nl}わたしの名前わすれちゃったの？」{nl}人形がとつぜんしゃべりだしました。,,,"It was a typical day. {momomo} was
-playing fetch with {doggie} in the
-park. But then {doggie} returned from
-the bushes with something other than
-his ball: an old doll!
-There was something familiar, even
-nostalgic about it, yet {momomo}
-couldn't remember its name. Then...
-""Aw, c'mon, {momomo}, you don't
-remember my name??!""
-The doll suddenly began to speak!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E00986C,0x0E06AD44,380,,{clr}　その日、{momo}は、いつものように{nl}{baku}と公園で遊んでいました。{nl}　すると、{baku}がかき根の向こうか{nl}ら、古いお人形をくわえてきました。見{nl}たことがあるような、それに、なんだか{nl}とってもなつかしいような感じのするお{nl}人形です。でも、{momo}は、その人形{nl}の名前を思いだせませんでした。{nl}ところが・・・！{nl}「やだぁ〜もう、{momo}ちゃんったら{nl}わたしの名前わすれちゃったの？」{nl}人形がとつぜんしゃべりだしました。{nl},,,"{clr}It was a typical day. {momomo} was
-playing fetch with {doggie} in the
-park. But then {doggie} returned from
-the bushes with something other than
-his ball: an old doll!
-There was something familiar, even
-nostalgic about it, yet {momomo}
-couldn't remember its name. Then...
-""Aw, c'mon, {momomo}, you don't
-remember my name??!""
-The doll suddenly began to speak!",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05BAB8,0x0E06CD90,382,,　おじいちゃんは、{baku}にチーズを{nl}食べさせてくれました。{nl}「うふっ。おじいちゃんは、まるで{nl}{baku}の言葉がわかるみたいね」{nl}「おぉ、わかるとも。{baku}のことを{nl}な、よ〜く見つめてやるんじゃ。そうす{nl}りゃぁ、なにが言いたいか、すぐにわか{nl}る。言葉なんていらないんだよ」{nl}　でも{momo}はほかのみんなと同じよ{nl}うに{baku}とも話せたらいいな、と思{nl}っていました。おじいちゃんは「いつか{nl}な」と笑って{momo}の頭をなでました。,,,"Grandpa fed {doggie} a bit of cheese.
-""Ahhh, it almost seems like you can
-understand {doggie}'s words, Grandpa!""
-""Heh, sure can. You just gotta stare
-deep into his eyes, and you'll
-understand what he's trying to say.
-No words necessary.""
-Still, {momomo} wished she could speak
-with {doggie} as easily as everyone
-else.
-""One day, kiddo,"" Grandpa laughed,
-patting {momomo} on the head.",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A92C,0x0E06CDF0,384,,　{momo}がオリをぬけだすと、そこに{nl}は、あのビッグ・ザ・キャベツが待ちか{nl}まえていました。{nl}「このヤサイぎらいの人でなしめが。今{nl}こそ、おれたちの味わった苦しみを、お{nl}前におしえてやる！」{nl}「待って！ごかいなのよ、ビッグ・ザ・{nl}キャベツ。わたしは、もう今ではヤサイ、{nl}大好きなの。だからもう、ゆるして？{nl}わたしの大切な思い出の国を、これ以上、{nl}こわさないで！」{nl}　その時、ついに大魔王が現れました。,,,"{momomo} escaped from the cage, but
-The Big Cabbage was lying in wait.
-""You veggie-hating scum! We'll make you
-feel the same pain we've suffered!""
-""Wait! It's all a misunderstanding,
-The Big Cabbage. I love veggies now,
-so can't you forgive me? I beg you,
-do no more harm to the Land of my
-precious Memories!""
-Finally, the Dark Lord Cabbage
-appeared...",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05B1F8,0x0E06CDC0,386,,　ムクは、おじいちゃんにケガをなおし{nl}てもらおうと、一人帰っていきました。{nl}　その晩、{momo}は、{baku}の夢を{nl}見ました。どこか知らない、暗ぁ〜い暗{nl}いところで、{baku}が泣いています。{nl}とってもとってもさみしそうです。{nl}　{momo}は、みんなにこんな思いをさ{nl}せているのは、自分のせいだ、って思い{nl}ました。{nl}　わたしが、……もっとちゃんと、思い{nl}出を大切にしていれば、こんなことにな{nl}らなかったかも知れないのに………。,,,"Barry set off on his own for Grandpa's
-house, returning for aid with his
-injuries.
-That night, {momomo} dreamt of {doggie}.
-From some place deep, deeeep in
-darkness, {doggie} cried out in pain.
-He sounded so, so lonely.
-{momomo} couldn't help but feel it was
-her fault for causing everyone to feel
-this way.
-""If I had only kept my memories more
-precious, none of this would have
-happened...""",,,,,,,,,,,,,,,,,,,,,,,
-0x0E0093A4,0x0E06AD50,387,,{clr}　ところが、レモンズには用心棒がつい{nl}ていました。とっても強そうなロボット{nl}のオモチャです。{nl}「あれぇ〜？　もしかして、あなた、ガ{nl}ンボットじゃない！」{nl}　そうなのです。それは、ももが幼稚園{nl}の時の大親友・ガンちゃんの大切なオモ{nl}チャだったのです。ももと将来を約束し{nl}た（？）ガンちゃんは、ひっこししてい{nl}く時、ももにこのロボットをプレゼント{nl}したのでした。{nl}「ももちゃんは、第二のご主人だゴン」,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05B074,0x0E06CDC8,388,,「クェェ〜〜！　あれだ！　{momo}ち{nl}ゃん、ベジタブル城が近づいたグア〜」{nl}　{momo}一号が叫びました。この思い{nl}出の国では{momo}一号は空を飛べます。{nl}　それは、{momo}が、一号に乗って遊{nl}んでいたころ、「いつか、{momo}一号{nl}でお空を飛ぶんだ」って思っていたから{nl}です。願うこと、信じることはなんでも{nl}かなう、っていうのが、この＜{momo}{nl}ランド＞なのです。{nl}「やだぁ〜、ヤサイくさぁ〜！」{nl}　ジュディが、思わず悲鳴をあげました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05B37C,0x0E06CDB8,388,,「ムク！　ムク、しっかりして。ごめん{nl}ね。わたしを止めようとしたばかりに」{nl}「{momo}ちゃん。ぼく、………もう、{nl}弱虫じゃないよね？」{nl}　ムクは、とっても心やさしい子でした。{nl}そのため、ちょっと弱虫なところもあり{nl}ます。………でも………でも、もうそん{nl}な弱虫じゃないっていうことが、証明さ{nl}れたのです。{nl}「弱虫なんかじゃないよ。ありがとう、{nl}………ありがとう、ムク！」{nl}　ムクは、ほっと笑顔を見せました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05B644,0x0E06CDA8,388,,　それからも、ハクサイ大魔王の子分た{nl}ちは、つぎつぎに現れました。{nl}　その中でも、大魔王一の子分・ビッグ{nl}・ザ・キャベツは、とってもおそろしい{nl}ヤツです。ただのキャベツ畑と見せかけ{nl}て、ナント！　{baku}のことをつかま{nl}えてしまったのです。{nl}「ガァ〜ッハハハ〜〜、こいつは、うま{nl}そうな犬だ。われらのハクサイ大魔王様{nl}にさしあげるとしよう」{nl}「やめて！　{baku}をかえして！」{nl}{momo}はキャベツに飛びかかりました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E00921C,0x0E06AD54,389,,{clr}　ももたちは、やがて、とってもきれい{nl}な森の中に入りこんでいました。そして{nl}そこには、キラキラと輝く川のほとりに{nl}小屋がひとつ立っていました。{nl}「やぁ、よく来たね、もも」{nl}　そこは、亡くなったおじいちゃんの住{nl}んでる小屋だったのです。{nl}「おじいちゃんに会えるなんて！」{nl}「いつだって会えるさ。ももが、ワシの{nl}ことを思い出してくれさえすればね」{nl}　ももは、ひさしぶりにおじいちゃんに{nl}抱きつきました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05C0CC,0x0E06CD70,390,,　さて、思い出の国には、{momo}が忘{nl}れてしまったたくさんのことがところど{nl}ころに残っていました。{nl}　{momo}は、いそがしい毎日におわれ{nl}て、これらの大切なものたちを思い出さ{nl}なくなってしまっていたのです。{nl}　そのひとつが、いつだったか公園の砂{nl}場に置いてきちゃったままの三輪車・{nl}{momo}一号でした。{momo}一号は、{nl}ポテト・ボンボンというおそろしいバク{nl}ダンにかこまれていたのです。「ごめん{nl}ね、{momo}一号。今助けてあげる」,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A7A4,0x0E06CDF8,392,,「ええ、ゆるさんゆるさぁ〜ん！」{nl}　ハクサイ大魔王は城じゅうにひびく声{nl}をあげてどなりました。{nl}「今では、ヤサイが好きだとぉ〜？　え{nl}えい、そんなこと信用するものかぁ！{nl}やい、{momo}、このオレさまの背中に{nl}書かれた超ムカつく字を忘れたワケじゃ{nl}あるまい〜〜〜！」{nl}　大魔王の背中には、なんと『バカ、キ{nl}ライ』と書かれてあったのです。{nl}「わっ！あれは、たしかわたしの字だ」{nl}大魔王は、セロリをふりあげました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05C3C4,0x0E06CD60,392,,　人形の名は、ジュディ。{momo}が、{nl}昔々とっても大切にしていたお人形でし{nl}た。そして、{momo}の思い出の国、{nl}＜{momo}ランド＞がタイヘンなことに{nl}なってると知らせに来たのです。{nl}「このままでは、{momo}ちゃんの思い{nl}出がぜ〜んぶ消されてしまうの」{nl}「そんなぁ。だれがそんなことを？」{nl}「ハクサイ大魔王っていう悪いやつよ」{nl}　{momo}たちは、＜時間のとびら＞の{nl}管理人クロックさんとともに、さっそく{nl}思い出の国にトリップしました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A330,0x0E06CE10,398,,「これからは、わたし、きっと思い出を{nl}大事にする。みんなのこと、ぜったい、{nl}ぜったい忘れない。だって、今のわたし{nl}がいるのだって………この国にいるぜ〜{nl}んぶのお友達に助けてもらったからなん{nl}だもの。過去のたくさんの思い出を大切{nl}にしないと、明るい未来なんてあるわけ{nl}ないもんね！」{nl}　ハクサイ大魔王は、目に涙を浮かべて{nl}いいました。{nl}「うぅ……、オレたちは、ただおいしく{nl}食べてもらいたかっただけなんだよぉ」,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05B924,0x0E06CD98,402,,　「さぁ、{momo}や、これをやろう。{nl}覚えてるかな？」{nl}　それは、フラワーブレスというもので{nl}した。これを持っていると、三つの願い{nl}ごとがかなうというものです。あるクリ{nl}スマスにサンタクロースがくれたのです。{nl}　でも、{momo}は、その時、サンタが{nl}パパだということに気づいてしまいまし{nl}た。そして「こんなのウソだ」といって、{nl}パパたちを困らせたのです。{nl}　ところが、ブレスに祈ると、あやしげ{nl}なハローパンプキンが見えました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E0096D8,0x0E06AD48,403,,{clr}　人形の名は、ジュディ。ももが、昔々{nl}とっても大切にしていたお人形でした。{nl}　そして、ももの思い出の国＜{momo}{nl}ランド＞がタイヘンなことになってると{nl}知らせに来たのです。{nl}「このままでは、ももちゃんの思い出が{nl}ぜ〜んぶ消されてしまうわさ」{nl}「そんなぁ。だれがそんなことを？」{nl}「ハクサイ大魔王っていう悪いヤツよ」{nl}　ももたちは、＜時間のとびら＞の管理{nl}人クロックさんとともに、さっそく思い{nl}出の国にトリップしました。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05A198,0x0E06CE18,408,,「いかん、さぁ{momo}ちゃん、もう今{nl}の世界にもどらなくちゃいかん時間だ」{nl}クロックさんがいいました。{nl}「あ〜あ、せっかくみんなとこうして仲{nl}よくなれたのにね、{baku}？」{nl}　そこで{momo}は、みんなと記念写真{nl}をとることにしました。それは、とって{nl}もとっても大切な思い出たちを、もう一{nl}度しっかりと心に焼きつけるためでした。{nl}　今度こそ、{momo}はどんなに毎日が{nl}忙しくても、こんなステキなお友達がい{nl}ることをけっして忘れないことでしょう。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E05BF28,0x0E06CD78,420,,　レモンが丘まで来ると、すこしこわが{nl}りのムクはもちろんジュディや{momo}{nl}一号も、ちょっと尻ごみしました。{nl}　そこには、ミラクル・レモンズという{nl}とってもすっぱい………じゃなかった手{nl}ごわい姉妹がいたからなのです。{nl}「ぜったいぜったい、この丘はとおっち{nl}ゃダメ！　とおさないィィ………！」{nl}　レモンズのスライス投げは、なかなか{nl}キョーレツです。でも、{momo}たちは{nl}「すっぱいのすっぱいの、飛んでけぇ」{nl}　ついに、レモンズに勝ったのでした。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
-0x0E009528,0x0E06AD4C,431,,{clr}　レモンが丘まで来ると、すこしこわが{nl}りのムクはもちろん、ジュディやもも一{nl}号も、ちょっと尻ごみしました。{nl}　そこには、ミラクル・レモンズという、{nl}とってもすっぱい・・・じゃなかった手{nl}ごわい姉妹がいたからなのです。{nl}「ぜったいぜったい、この丘はとおっち{nl}ゃダメ！　とおさないィィ・・・！」{nl}　レモンズのスライス投げは、なかなか{nl}キョーレツです。でも、ももたちは、{nl}「すっぱいのすっぱいの、飛んでけぇ」{nl}　ついに、レモンズに勝ったのでした。,,,"Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet",,,,,,,,,,,,,,,,,,,,,,,
+""{momomo}, my second commander!""",Seal 18?,10,,,,,,,,,,,,,,,,,,,,,
+0x0E00921C,0x0E06AD54,389,,{clr}　ももたちは、やがて、とってもきれい{nl}な森の中に入りこんでいました。そして{nl}そこには、キラキラと輝く川のほとりに{nl}小屋がひとつ立っていました。{nl}「やぁ、よく来たね、もも」{nl}　そこは、亡くなったおじいちゃんの住{nl}んでる小屋だったのです。{nl}「おじいちゃんに会えるなんて！」{nl}「いつだって会えるさ。ももが、ワシの{nl}ことを思い出してくれさえすればね」{nl}　ももは、ひさしぶりにおじいちゃんに{nl}抱きつきました。,,,"{momomo} and friends were deep in a
+beautiful forest. A lone cabin stood
+on the shore of a glittering river.
+""You made it, {momomo}!"" It was the
+home of {momomo}'s late grandpa.
+""Grandpa! I never thought I'd get to
+see you again!""
+""But you can see me any time, kiddo!
+Just recall your memories of me, and
+I'll be right there with you.""
+For the first time in ages,
+{momomo} hugged her grandpa.",Seal 20?,12,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,DEMOS,,,,,,,,,,,,,,,,,,,,,,
 0x0E05FA98,0x0E060374,24,,わあ〜気持ちいい〜！！{nl},Waaaah! This is incredible!{nl},,,Demo 2 (flying),,,,,,,,,,,,,,,,,,,,,,
