@@ -49,5 +49,8 @@ $pybin wanwan_strings.py inject wanwan_patched.bin strings_tl_en_ph.csv clean_re
 echo "Injecting resources ..."
 if [[ -f resources_en.bin ]]; then $pybin $resource_tool inject-section wanwan_en.bin resources_en.bin @; fi
 
+# Update checksum
+$pybin romintegrity.py -u wanwan_en.bin
+
 echo "Done!"
 open -a LoopyMSE wanwan_en.bin

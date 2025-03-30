@@ -104,7 +104,8 @@ It's my birthday!!!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00C2F8,0x0E00CA18,52,146,さあ、{nl}プレゼントは部屋の中だよ。{nl}さがしてごらん？{np},"Your birthday present is
 in this room.... Go ahead,
 see if you can find it!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E00C32C,0x0E00CA1C,20,147,わあ、なんだろう？{np},Whaaa! What could it be?{np},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E00C32C,0x0E00CA1C,20,147,わあ、なんだろう？{np},"Whaaa! I wonder what
+it could be?!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00C340,0x0E00CBE8,15,148,えっ？{np}えっ？{np},Huh?{np} Huh???{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00C350,0x0E00CBF4,33,149,いま、{nl}キューン、っていった？？{np},"Was that...
 a little whimper??{np}",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -117,7 +118,7 @@ And such a cutey, too!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 long while since our old dog
 Captain died, I thought.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00C430,0x0E00CE38,54,154,新しい、家族よ。{nl}{momo}ちゃん、{nl}名前を付けてあげなさい。{np},"{momomo}, why don't you pick
-out a name for this newest
+a name for this new
 member of our family?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00C468,0x0E00CE3C,55,155,うふ　かわいい！！{np}{nl}名前は……{nl}何にしようかなあ………{np},"So cuuuuute!!{np}
 A name...
@@ -195,7 +196,7 @@ Next up is ""fetch.""{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 does it.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00E3C4,0x0E00E750,31,207,{baku}。{nl}あそこにボールあるだろ。{np},"{doggie}, see the ball over
 there?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E00E3E4,0x0E00E75C,42,208,{momo}、{nl}{baku}にボールって{nl}どれか教えてあげて。{np},"{momomo}, now you teach
+0x0E00E3E4,0x0E00E75C,42,208,{momo}、{nl}{baku}にボールって{nl}どれか教えてあげて。{np},"{momomo}, now you show
 {doggie} what a ball is.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00E410,0x0E00E970,31,211,これだよ！{nl}これがボールだよ！{np},"This! This is the ""ball""!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E00E430,0x0E00E974,31,212,{baku}、あれだよ。{nl}あれがボール。{np},"{doggie}, there, that's
@@ -250,9 +251,9 @@ language.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 you if you're angry.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E01043C,0x0E0107A4,12,245,そおねぇ…{np},On the other hand...{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E010448,0x0E010960,70,246,{baku}が一度でも取って{nl}きてくれたら、たくさん{nl}ほめてあげるといいかもね。{np},"If {doggie} fetches the ball
-even once, you could try and
-lavish him with praise.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E010490,0x0E010964,49,247,{baku}がとっても{nl}うれしくなるくらい、{np}{nl}たくさんね。{np},"So much praise! Until he's
+even once, you could try
+lavishing him with praise.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E010490,0x0E010964,49,247,{baku}がとっても{nl}うれしくなるくらい、{np}{nl}たくさんね。{np},"Heaps of praise! Until he's
 almost bursting with joy!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0104C4,0x0E010968,46,248,そうしたら{baku}は{nl}また{momo}にほめて{nl}もらいたくて、{np},"That way, {doggie} will do
 anything to bask in your
@@ -606,7 +607,7 @@ that you are a citizen
 of the World of Reality.{np}{clr}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E016D7C,0x0E0174B8,18,1149,勝手に{momo}ランドを{nl},"As such, unfettered access
 to {momomo}land is simply
-not permissable.{np}",,,"As such, your presence in
+not permissible.{np}",,,"As such, your presence in
 {momomo}land must be considered
 trespassing.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E016D90,0x0E0174BC,28,1150,歩くことはいかんであるぞ。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
