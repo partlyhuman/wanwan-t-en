@@ -1,5 +1,5 @@
 origin,pointers,origin_length,game_order,text_original,text_trans_dialogwidth,text_trans_bookwidth,text_trans_printwidth,notes_alts,,,,,,,,,,,,,,,,,,,,,,
-,,,-1,,1234567890123456789012345678,123456789012345678,"1234567890123456789012345678901234567890
+,,,-1,,1234567890123456789012345678,>123456789012345678,"1234567890123456789012345678901234567890
          |10       |20       |30       |40",←Locking this row to preview line width,,,,,,,,,,,,,,,,,,,,,,
 0x0E056ABC,0x0E056D28,56,0,こんにちは！{nl}「わんわん　愛情物語」{nl}の世界にようこそ！{np},"Welcome to the world of
 ""Puppy Love Story!""{heart}{np}",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2827,23 +2827,23 @@ a story book...{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E045AB0,0x0E045CE8,8,2532,あれ、{nl},"...I think we're
 not alone in here...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E045AB8,0x0E045CEC,26,2533,ダレかあそこにいるモン！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E045F50,0x0E047870,16,2534,むかしむかし、{nl},,"A long time ago,
-in a faraway land,
-there was an
-astonishingly
-beautiful princess
-named Snow White.{np}",,* STORYBOOK = 9 char * 6 lines = 18 halfwidth * 6 lines,,,,,,,,,,,,,,,,,,,,,,
+0x0E045F50,0x0E047870,16,2534,むかしむかし、{nl},," A long time ago,
+ in a faraway land,
+ there was an
+ astonishingly
+ beautiful princess
+ named Snow White.{np}",,* STORYBOOK = 9 char * 6 lines = 18 halfwidth * 6 lines,,,,,,,,,,,,,,,,,,,,,,
 0x0E045F60,0x0E047878,16,2535,あるところに、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E045F70,0x0E04787C,18,2536,白雪ひめという、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E045F84,0x0E047880,14,2537,それはそれは{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E045F94,0x0E047884,20,2538,キレイなおひめ様が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E045FA8,0x0E047888,14,2539,おりました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E045FB8,0x0E047890,18,2540,白雪ひめはあまり{nl},,"The princess was
-so wrapped up in
-her own beauty,
-she could scarcely
-see beyond her
-own nose.{np}",,"The princess was
+0x0E045FB8,0x0E047890,18,2540,白雪ひめはあまり{nl},," The princess was
+ so wrapped up in
+ her own beauty,
+ she could scarcely
+ see beyond her
+ own nose.{np}",,"The princess was
 so beautiful that
 every day, she
 would get carried
@@ -2859,12 +2859,12 @@ Does this mean you can't
 hear me talking???{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E046030,0x0E0478B0,20,2546,あたしの言うことが{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046044,0x0E0478B4,24,2547,聞けないって言うの！？{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04605C,0x0E0478C0,20,2548,白雪ひめをむかえに{nl},,"The Prince on the
-White Horse, long
-anticipated to
-marry Snow White,
-found himself so
-intimidated {np}",,"Even her betrothed
+0x0E04605C,0x0E0478C0,20,2548,白雪ひめをむかえに{nl},," The Prince on the
+ White Horse, long
+ anticipated to
+ marry Snow White,
+ found himself so
+ intimidated{np}",,"Even her betrothed
 Prince on the
 White Horse was so
 cowed by her
@@ -2872,12 +2872,12 @@ beauty that he
 could not summon
 the courage to
 propose.",,,,,,,,,,,,,,,,,,,,,,
-0x0E046070,0x0E0478C4,18,2549,くるはずの白馬の{nl},,"{clr}by her radiant
-beauty that he
-lost his nerve to
-propose, and
-never even made an
-appearance.{np}",,"by her radiant
+0x0E046070,0x0E0478C4,18,2549,くるはずの白馬の{nl},,"{clr} by her radiant
+ beauty that he
+ lost his nerve
+ to propose, and
+ never even made an
+ appearance.{np}",,"by her radiant
 beauty that he
 lost his nerve to
 propose. In fact,
@@ -2887,12 +2887,11 @@ at the castle gate.",,,,,,,,,,,,,,,,,,,,,,
 0x0E046098,0x0E0478CC,20,2551,の美しさにおそれを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0460AC,0x0E0478D0,18,2552,なしてプロポーズ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0460C0,0x0E0478D4,18,2553,する気配もなく、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0460D4,0x0E0478D8,12,2554,白雪ひめは{nl},,"Rather than
-disappointing,
-the Princess
-found this all
-exceedingly dull.
-{np}",,"The princess found
+0x0E0460D4,0x0E0478D8,12,2554,白雪ひめは{nl},," Rather than
+ disappointing,
+ the Princess
+ found this all
+ exceedingly dull.{np}",,"The princess found
 this cowardice
 somewhat vexing,
 but mostly,
@@ -2905,12 +2904,12 @@ of inconvenience.{np}",,,,,,,,,,,,,,,,,,,,,
 0x0E0460E0,0x0E0478DC,14,2555,つまんなくて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0460F0,0x0E0478E0,12,2556,ちょっぴり{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0460FC,0x0E0478E4,14,2557,くやしくて、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04610C,0x0E0478E8,20,2558,それでいつもいつも{nl},,"And so, she
-continued her days
-alone, haughtily
-doing just as
-she pleased each
-and every day.{np}",,"And so, she
+0x0E04610C,0x0E0478E8,20,2558,それでいつもいつも{nl},," And so, she
+ continued her days
+ alone, haughtily
+ doing just as
+ she pleased each
+ and every day.{np}",,"And so, she
 continued her days
 alone, doing just
 as she pleased
@@ -2934,11 +2933,11 @@ freaked up!!{np}",,,"and turned it into this
 freaked-up version of the
 story!",,,,,,,,,,,,,,,,,,,,,,
 0x0E0461E4,0x0E047914,20,2569,話になったのよ！！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0461F8,0x0E047918,12,2570,白雪ひめの{nl},,"Snow White's
-selfishness
-grew more and more
-grotesque with no
-end in sight.{np}",,"Snow White's
+0x0E0461F8,0x0E047918,12,2570,白雪ひめの{nl},," Snow White's
+ selfishness grew
+ more and more
+ grotesque with no
+ end in sight.{np}",,"Snow White's
 selfishness
 grew more and more
 grotesque by the
@@ -2946,12 +2945,12 @@ day, and with no
 end in sight,",,,,,,,,,,,,,,,,,,,,,,
 0x0E046204,0x0E04791C,20,2571,わがままはだんだん{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046218,0x0E047920,14,2572,ひどくなり、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046228,0x0E047924,18,2573,ある日とうとう、{nl},,"Until one day,
-the Queen could
-take it no longer,
-and banished Snow
-White from the
-castle.{np}",,"her mother, the
+0x0E046228,0x0E047924,18,2573,ある日とうとう、{nl},," Until one day,
+ the Queen could
+ take it no longer,
+ and banished Snow
+ White from the
+ castle.{np}",,"her mother, the
 Queen, left with
 no other choice,
 banished Snow
@@ -2976,11 +2975,11 @@ end your days there!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0462EC,0x0E047AF4,26,2582,でてきてはいけませんッ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046308,0x0E047AFC,11,2583,ガ〜ン！！,WHAAAAT!!!{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046314,0x0E047B04;0x0E048230;0x0E048624;0x0E0488A4,2,2584,{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046318,0x0E047B0C,20,2585,追放されてしまった{nl},,"Snow White was
-taken to the
-depths of the
-forest by the
-royal guard.{np}{nl}",,"Snow White, now
+0x0E046318,0x0E047B0C,20,2585,追放されてしまった{nl},," Snow White was
+ taken to the
+ depths of the
+ forest by the
+ royal guard.{np}{nl}",,"Snow White, now
 exiled, was taken
 by the royal guard
 out to the depths
@@ -2989,18 +2988,18 @@ of the forest.{np}{nl}",,,,,,,,,,,,,,,,,,,,,,
 0x0E046340,0x0E047B14,16,2587,たちに森の中に{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046350,0x0E047B18,18,2588,置きざりにされて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046364,0x0E047B1C,17,2589,しまいました。{np}{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046378,0x0E047B20,8,2590,ポイ。{np},,And tossed out.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046378,0x0E047B20,8,2590,ポイ。{np},, And tossed out.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046380,0x0E047B30,12,2591,くッそ〜！{nl},RRRNNNNNNGGGGGAAAAHHH!!!!!!{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04638C,0x0E047B34,22,2592,こんな所で、あたしに{nl},"The hell am I supposed to do
 in this godforsaken dump!?{np}",,,"What the hell am I supposed
 to do in this crap forest!?{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0463A4,0x0E047B38,22,2593,何しろって言うのさ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0463BC,0x0E047B3C,20,2594,白雪ひめはそこいら{nl},,"Mercilessly and
-repeatedly, Snow
-White took out her
-red-hot anger
-on the trees
-around her.{np}",,"Snow White took
+0x0E0463BC,0x0E047B3C,20,2594,白雪ひめはそこいら{nl},," Mercilessly and
+ repeatedly, Snow
+ White took out her
+ red-hot anger on
+ the trees around
+ her.{np}",,"Snow White took
 out her red-hot
 anger on the trees
 all around her.{np}",,,,,,,,,,,,,,,,,,,,,,
@@ -3009,32 +3008,30 @@ all around her.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0463F8,0x0E047B4C,28,2598,木々に八つ当たりするなんて{nl},"Snow White would never abuse
 the forest like that!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046414,0x0E047B50,22,2599,白雪ひめじゃな〜い！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04642C,0x0E047B54,20,2600,やがて、八つ当たり{nl},,"Eventually, her
-violence gave way
-to hunger.
-Stomach growling,
-and dripping with 
-sweat,{np}",,"Eventually, her
+0x0E04642C,0x0E047B54,20,2600,やがて、八つ当たり{nl},," Eventually, her
+ violence gave way
+ to hunger.
+ Stomach growling,
+ and dripping with 
+ sweat,{np}",,"Eventually, her
 stomach growling,
 Snow White lost
 interest in the
 trees, and began
 to search for something to eat",,,,,,,,,,,,,,,,,,,,,,
-0x0E046440,0x0E047B58,20,2601,することにもあきた{nl},,"{clr}Snow White began
-to search the
-forest for
-something to eat.
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046440,0x0E047B58,20,2601,することにもあきた{nl},,"{clr} Snow White
+ began to search
+ the forest for
+ something to eat.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046454,0x0E047B5C,20,2602,白雪ひめは、おなか{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046468,0x0E047B60,20,2603,がへってとぼとぼと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04647C,0x0E047B64,20,2604,森の中を歩きだしま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046490,0x0E047B68,8,2605,した。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046498,0x0E047B6C,18,2606,すると、森のおく{nl},,"Just then, the
-princess heard
-the sound of song
-emerging from deep
-within the woods.
-{np}",,"Just then, the
+0x0E046498,0x0E047B6C,18,2606,すると、森のおく{nl},," Just then, the
+ princess heard
+ the sound of song
+ emerging from deep
+ within the woods.{np}",,"Just then, the
 princess heard
 what seemed to be
 the sounds of song
@@ -3043,23 +3040,23 @@ within the woods.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0464AC,0x0E047B70,18,2607,から何やら歌声が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0464C0,0x0E047B74,18,2608,聞こえてきます。{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0464D4,0x0E047B78,18,2609,歌声は七人の小人{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0464E8,0x0E047B7C,10,2610,でした。{np},,"{clr}Unbeknownst to
-her, those singing
-voices belonged
-to none other than
-the Seven Dwarves.
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0464E8,0x0E047B7C,10,2610,でした。{np},,"{clr} Unbeknownst to
+ her, those singing
+ voices belonged
+ to none other than
+ the Seven Dwarves.
+ {np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0464F4,0x0E047B80,12,2611,あ、やっと{nl},"Okay, NOW this is beginning
 to sound like the Snow White
 I know!{np}",,,"Ahhh, NOW this is beginning
 to sound like Snow White!",,,,,,,,,,,,,,,,,,,,,,
 0x0E046500,0x0E047B84,28,2612,白雪ひめらしくなってきた！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04651C,0x0E047B88,20,2613,白雪ひめはこの歌声{nl},,"Snow White hiked
-up the hem of her
-skirt and galloped
-towards the sound
-in a very unlady-
-like manner.{np}",,"Hearing this, Snow
+0x0E04651C,0x0E047B88,20,2613,白雪ひめはこの歌声{nl},," Snow White hiked
+ up the hem of her
+ skirt and galloped
+ towards the sound
+ in a very unlady-
+ like manner.{np}",,"Hearing this, Snow
 White hiked up the
 hem of her skirt,
 and in an unlady-
@@ -3070,12 +3067,12 @@ sprinted that way.",,,,,,,,,,,,,,,,,,,,,,
 0x0E046558,0x0E047B94,18,2616,スカートのスソを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04656C,0x0E047D24,20,2617,つまんで、大マタで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046580,0x0E047D28,18,2618,走りだしました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046594,0x0E047D2C,20,2619,歌声が聞こえてくる{nl},,"The little hut,
-emanating song,
-came into view.
-Snow White broke
-into a sprint and
-barreled inside.{np}",,"When the little
+0x0E046594,0x0E047D2C,20,2619,歌声が聞こえてくる{nl},," The little hut,
+ emanating song,
+ came into view.
+ Snow White broke
+ into a sprint and
+ barreled inside.{np}",,"When the little
 hut, emanating
 song, came into
 view, Snow White
@@ -3092,12 +3089,12 @@ Dwarves' home.",,,,,,,,,,,,,,,,,,,,,,
 0x0E046600,0x0E047D54,10,2625,ハ〜イ！{nl},"HEYYYY, Y'ALLL!!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04660C,0x0E047D58,20,2626,みんな元気してる？{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046620,0x0E047D5C,8,2627,ハア？{np},Whuh??{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046628,0x0E047D64,20,2628,家の中で仕事をして{nl},,"The Seven Dwarves
-all looked up from
-their work, faces
-blank with shock
-at her sudden
-appearance.{np}",,"When Snow White
+0x0E046628,0x0E047D64,20,2628,家の中で仕事をして{nl},," The Seven Dwarves
+ all looked up from
+ their work, faces
+ blank with shock
+ at her sudden
+ appearance.{np}",,"When Snow White
 burst in from
 nowhere, the Seven
 Dwarves looked up
@@ -3120,12 +3117,12 @@ this breathtaking princess!{np}",,,"This is a once in a lifetime
 offer to serve the radiant
 beauty you see before you!",,,,,,,,,,,,,,,,,,,,,,
 0x0E0466FC,0x0E047D90,18,2639,あたしだもの！！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046710,0x0E047D94,20,2640,初めはびっくりした{nl},,"The Dwarves,
-beholding Snow
-White, were
-blinded by her
-beauty and fell
-madly in love!{np}",,"The Dwarves beheld
+0x0E046710,0x0E047D94,20,2640,初めはびっくりした{nl},," The Dwarves,
+ beholding Snow
+ White, were
+ blinded by her
+ beauty and fell
+ madly in love!{np}",,"The Dwarves beheld
 Snow White and her
 beauty overwhelmed
 them, sending them
@@ -3159,21 +3156,21 @@ falls head over heels...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046868,0x0E047F70,21,2656,おーほほほほほッ！{np}{nl},HOOOOO-ho-ho-ho-hoooo!{np}{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046880,0x0E047F74,28,2657,みんな、あたしのドレイよ！{np},Y'all are my SLAVES now!{np},,,"I can make them do
 ANYTHING!!!{np}",,,,,,,,,,,,,,,,,,,,,,
-0x0E04689C,0x0E047F7C,20,2658,七人の小人のお仕事{nl},,"The Seven Dwarves
-were expert miners
-skilled in the
-art of extracting
-gems from the
-mountainside.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04689C,0x0E047F7C,20,2658,七人の小人のお仕事{nl},," The Seven Dwarves
+ were expert miners
+ skilled in the
+ art of extracting
+ gems from the
+ mountainside.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0468B0,0x0E047F80,16,2659,は、ほうせきを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0468C0,0x0E047F84,16,2660,山からほり出す{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0468D0,0x0E047F88,16,2661,コウフでした。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0468E0,0x0E047F8C,18,2662,かれらをドレイに{nl},,"Using the Dwarves
-as unpaid labor,
-it was not long
-before Snow White
-became fabulously
-rich.{np}",,"With the Dwarves
+0x0E0468E0,0x0E047F8C,18,2662,かれらをドレイに{nl},," Using the Dwarves
+ as unpaid labor,
+ it was not long
+ before Snow White
+ became fabulously
+ rich.{np}",,"With the Dwarves
 at her service,
 Snow White soon
 became fabulously
@@ -3200,12 +3197,12 @@ villain who must be defeated
 by the forces of justice!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E046A04,0x0E047FC4,26,2675,ゼッタイやられるタイプの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046A20,0x0E047FC8,12,2676,悪トウね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046A2C,0x0E047FD0,20,2678,追放した白雪ひめが{nl},,"The Queen was
-shocked by rumors
-that, even in
-exile, Snow White
-was fast becoming
-an evil princess.{np}",,"The Queen was
+0x0E046A2C,0x0E047FD0,20,2678,追放した白雪ひめが{nl},," The Queen was
+ shocked by rumors
+ that, even in
+ exile, Snow White
+ was fast becoming
+ an evil princess.{np}",,"The Queen was
 shocked by rumors
 that the exiled
 Snow White was
@@ -3215,19 +3212,19 @@ an evil princess.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E046A54,0x0E047FD8,18,2680,していると聞いて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046A68,0x0E047FDC,18,2681,たいそうオドロキ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046A7C,0x0E047FE0;0x0E04823C,10,2682,ました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046A88,0x0E047FE4,16,2683,そして、何とか{nl},,"She knew she
-must intervene,
-and so a plan
-began to take
-shape...{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046A88,0x0E047FE4,16,2683,そして、何とか{nl},," She knew she
+ must intervene,
+ and so a plan
+ began to take
+ shape...{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046A98,0x0E047FE8,20,2684,しなければと考え、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046AAC,0x0E047FEC,18,2685,名案を思いついた{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,のです。,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046AC0,0x0E047FF4,20,2687,次の日、おきさき様{nl},,"The next day, the
-Queen disguised
-herself as an old
-crone, and set out
-for the forest.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046AC0,0x0E047FF4,20,2687,次の日、おきさき様{nl},," The next day, the
+ Queen disguised
+ herself as an old
+ crone, and set out
+ for the forest.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046AD4,0x0E047FF8,18,2688,は年老いたおバア{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046AE8,0x0E047FFC,20,2689,さんにヘンソウして{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046AFC,0x0E048000,20,2690,白雪ひめのいる森へ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3281,19 +3278,19 @@ Down the hatch!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046CF8,0x0E0481E8,22,2714,いただくとするぞよ。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046D10,0x0E0481EC,8,2715,はは〜{np},Ha-haaaa!{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046D18,0x0E0481F8,14,2716,白雪ひめは、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046D28,0x0E0481FC,20,2717,まんまとおきさき様{nl},,"Snow White was
-successfully
-ensnared by the
-Queen's Operation!
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046D28,0x0E0481FC,20,2717,まんまとおきさき様{nl},," Snow White was
+ successfully
+ ensnared by the
+ Queen's Operation!
+ {np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046D3C,0x0E048200,20,2718,の作戦に引っかかっ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046D50,0x0E048204,18,2719,てしまいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046D64,0x0E048208,18,2720,おきさき様が白雪{nl},,"For this apple
-was not meant to
-enhance beauty,
-rather, it was
-imbued with a
-fatal poison!{np}",,"While the apple
+0x0E046D64,0x0E048208,18,2720,おきさき様が白雪{nl},," For this apple
+ was not meant to
+ enhance beauty,
+ rather, it was
+ imbued with a
+ fatal poison!{np}",,"While the apple
 didn't do anything
 for her looks,
 the angels above
@@ -3310,36 +3307,36 @@ POISON apple!",,,,,,,,,,,,,,,,,,,,,,
 0x0E046DCC,0x0E048220,20,2726,むかえにきちゃう、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046DE0,0x0E048224,18,2727,毒リンゴだったの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046DF4,0x0E048228,7,2728,です。,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046DFC,0x0E048234,18,2731,さっそくパクリと{nl},,"Without hesitation
-Snow White took
-a big bite out of
-the apple. The
-poison within
-went to work {np}",,"Without hesitation
+0x0E046DFC,0x0E048234,18,2731,さっそくパクリと{nl},," Without hesitation
+ Snow White took
+ a big bite out of
+ the apple. The
+ poison within
+ went to work{np}",,"Without hesitation
 Snow White took
 a big bite out of
 the apple. Before
 she knew it, the
 poison spread{np}",,,,,,,,,,,,,,,,,,,,,,
-0x0E046E10,0x0E048238,20,2732,リンゴを食べはじめ{nl},,"{clr}immediately, and
-without a word,
-Snow White
-crumpled to the
-ground, dead in
-an instant.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046E10,0x0E048238,20,2732,リンゴを食べはじめ{nl},,"{clr} immediately, and
+ without a word,
+ Snow White
+ crumpled to the
+ ground, dead in
+ an instant.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046E24,0x0E0483D4,18,2734,そして、その毒に{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046E38,0x0E0483D8,18,2735,あたって、あっけ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046E4C,0x0E0483DC,20,2736,なく死んでしまった{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046E60,0x0E0483EC,12,2738,こうして、{nl},,"And so the evil
-Snow White was
-no more.",,"And so the evil
+0x0E046E60,0x0E0483EC,12,2738,こうして、{nl},," And so the evil
+ Snow White was
+ no more.",,"And so the evil
 Snow White was
 sent to heaven.",,,,,,,,,,,,,,,,,,,,,,
 0x0E046E6C,0x0E0483F0,16,2739,悪い白雪ひめは{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046E7C,0x0E0483F4,14,2740,天国に行って{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046E8C,0x0E0483F8,20,2741,しまいましたとさ。{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046EA0,0x0E0483FC;0x0E0489C0,3,2742,{hsp}{nl},,{hsp}{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E046EA4,0x0E048400;0x0E0489C4,20,2743,めでたしめでたし。{np},,The end.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046EA0,0x0E0483FC;0x0E0489C0,3,2742,{hsp}{nl},,{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E046EA4,0x0E048400;0x0E0489C4,20,2743,めでたしめでたし。{np},, The end.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046EB8,0x0E048414,22,2744,なんか、最後の方だけ{nl},"Hmm, the end bit was
 KIND OF Snow White-ish...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046ED0,0x0E048418,24,2745,白雪ひめっぽいけど……{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3416,12 +3413,12 @@ have to do, {momomo}...{np}{nl}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04720C,0x0E04864C,18,2785,ひとハダぬいで！{np},Break a leg!{np},,,This is for all of us!,,,,,,,,,,,,,,,,,,,,,,
 0x0E047220,0x0E048650,12,2786,ええーッ！{nl},WHAT?!{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04722C,0x0E048654,26,2787,ちょ、ちょっと何〜ッ！？{np},"Hey, w- wait a minute!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E047248,0x0E048678,18,2788,七人の小人たちは{nl},,"The Seven Dwarves
-mourned Snow
-White, bawling as
-they adorned her
-lifeless body
-with flowers.{np}",,"The Seven Dwarves,
+0x0E047248,0x0E048678,18,2788,七人の小人たちは{nl},," The Seven Dwarves
+ mourned Snow
+ White, bawling as
+ they adorned her
+ lifeless body
+ with flowers.{np}",,"The Seven Dwarves,
 wailing, covered
 Snow White's
 lifeless body
@@ -3430,18 +3427,18 @@ with flowers.",,,,,,,,,,,,,,,,,,,,,,
 0x0E047270,0x0E048680,20,2790,白雪ひめのイタイに{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047284,0x0E048684,18,2791,花かざりをつけて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047298,0x0E048688,12,2792,いました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0472A4,0x0E04868C,10,2793,すると、{nl},,"At that moment,
-back from
-goodness knows
-where, appeared:{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0472A4,0x0E04868C,10,2793,すると、{nl},," At that moment,
+ back from
+ goodness knows
+ where, appeared:{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0472B0,0x0E048690,16,2794,そこには今まで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0472C0,0x0E048694,18,2795,ドコにいたのか、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0472D4,0x0E048698,16,2796,三輪車に乗った{nl},,"The manly Prince
-atop his tricycle,
-accompanied by
-two dogs, a doll,
-and a stuffed
-bear.{np}",,"The Prince on a
+0x0E0472D4,0x0E048698,16,2796,三輪車に乗った{nl},," The manly Prince
+ atop his tricycle,
+ accompanied by
+ two dogs, a doll,
+ and a stuffed
+ bear.{np}",,"The Prince on a
 Yellow Trike,
 accompanied by
 two dogs, a doll,
@@ -3457,12 +3454,12 @@ a boyyyyyyyy!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047350,0x0E0486B8,24,2803,男の子じゃないのに〜ッ{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047368,0x0E048848,12,2804,まあまあ、{nl},"There, there...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047374,0x0E04884C,20,2805,いいからいいから。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E047388,0x0E048854,20,2806,七人の小人たちは、{nl},,"The Dwarves turned
-to the Prince,
-explaining
-tearfully that he
-had arrived but a
-moment too late.{np}",,"The Dwarves
+0x0E047388,0x0E048854,20,2806,七人の小人たちは、{nl},," The Dwarves turned
+ to the Prince,
+ explaining
+ tearfully that he
+ had arrived but a
+ moment too late.{np}",,"The Dwarves
 tearfully
 explained that the
 Prince was just a
@@ -3473,12 +3470,11 @@ Snow White was dead.",,,,,,,,,,,,,,,,,,,,,,
 0x0E0473C4,0x0E048860,18,2809,白雪ひめが死んで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0473D8,0x0E048864,16,2810,しまったことを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0473E8,0x0E048868,16,2811,告げたのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0473F8,0x0E04886C,18,2812,王子様は、悲しみ{nl},,"Glancing at
-their sorrowful
-faces, the Prince
-entered the
-Dwarves' house.{np}
-",,"Glancing at
+0x0E0473F8,0x0E04886C,18,2812,王子様は、悲しみ{nl},," Glancing at
+ their sorrowful
+ faces, the Prince
+ entered the
+ Dwarves' house.{np}",,"Glancing at
 the Dwarves'
 sorrowful faces,
 the Prince entered
@@ -3487,12 +3483,12 @@ Snow White lay.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04740C,0x0E048870,18,2813,ながら一目お顔を{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047420,0x0E048874,20,2814,と、小人たちの家に{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047434,0x0E048878,14,2815,入りました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E047444,0x0E04887C,18,2816,安らかな顔をして{nl},,"Snow White lay
-on the bed,
-a tranquil
-expression fixed
-on her unmoving
-face.{np}",,"Snow White lay
+0x0E047444,0x0E04887C,18,2816,安らかな顔をして{nl},," Snow White lay
+ on the bed,
+ a tranquil
+ expression fixed
+ on her unmoving
+ face.{np}",,"Snow White lay
 motionless on
 the bed, her eyes
 closed and a
@@ -3502,11 +3498,11 @@ unmoving face.",,,,,,,,,,,,,,,,,,,,,,
 0x0E047458,0x0E048880,20,2817,ベッドに横たわって{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04746C,0x0E048884,16,2818,いる白雪ひめの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04747C,0x0E048888,10,2819,そばに、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E047488,0x0E04888C,10,2820,王子様は{nl},,"The Prince, softly
-drawing near,
-placed his lips
-ever so lightly
-over hers...{np}",,"The Prince softly
+0x0E047488,0x0E04888C,10,2820,王子様は{nl},," The Prince, softly
+ drawing near,
+ placed his lips
+ ever so lightly
+ over hers...{np}",,"The Prince softly
 drew near, and
 placed his lips
 ever so lightly
@@ -3530,21 +3526,21 @@ My first kiss...
 is with a girl?!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047574,0x0E0488D0,26,2834,ファースト・キスが女のコ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047590,0x0E0488D4,26,2835,相手だなんてヒドイ〜ッ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0475AC,0x0E0488D8,20,2836,王子様は、白雪ひめ{nl},,"The Prince
-kissed Snow White
-softly on her
-still lips.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0475AC,0x0E0488D8,20,2836,王子様は、白雪ひめ{nl},," The Prince
+ kissed Snow White
+ softly on her
+ still lips.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0475C0,0x0E0488DC,20,2837,のくちびるにかるく{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0475D4,0x0E0488E0,18,2838,キスをしました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0475E8,0x0E0488F0,12,2839,ドシ〜ッ！{np},*falls over*{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0475F4,0x0E048994,24,2840,ううん、おねえさまん。{np},"Ooooh, get it, girl!!!{heart}{np}",,,"Oh yeah, sister!!!",,,,,,,,,,,,,,,,,,,,,,
 0x0E04760C,0x0E048998,14,2841,どし〜ッ！！{np},*FALLS OVER!!*{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04761C,0x0E0489A0,20,2842,あらわれたやさしい{nl},,"Snow White's evil
-ambitions faded
-away thanks to the
-warmth of the kind
-Prince's embrace.
-{np}",,"With this kiss
+0x0E04761C,0x0E0489A0,20,2842,あらわれたやさしい{nl},," Snow White's evil
+ ambitions faded
+ away thanks to the
+ warmth of the kind
+ Prince's embrace.
+ {np}",,"With this kiss
 from the Prince
 who finally
 showed up, Snow
@@ -3554,11 +3550,11 @@ faded away,{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E047640,0x0E0489A8,20,2844,おかげで白雪ひめの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047654,0x0E0489AC,18,2845,中にあった野望は{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047668,0x0E0489B0,8,2846,消え、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E047670,0x0E0489B4,12,2847,森の中で、{nl},,"And so it was
-that they lived
-together in the
-forest, happily
-ever after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E047670,0x0E0489B4,12,2847,森の中で、{nl},," And so it was
+ that they lived
+ together in the
+ forest, happily
+ ever after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04767C,0x0E0489B8,20,2848,二人は幸せにくらし{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E047690,0x0E0489BC,21,2849,たということです。{np}{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048A04,0x0E04A4AC,24,2852,まだ、絵本の中だグァ。{np},"Oh...
@@ -3571,23 +3567,22 @@ in the forest.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048A54,0x0E04A4C8,24,2856,気楽にいうんだからあ…{np},"Oh good, I'm glad you're all
 totally fine with this!{np}",,,"You're actually cool
 with this?!",,,,,,,,,,,,,,,,,,,,,,
-0x0E048A6C,0x0E04A4D4;0x0E04ABC8,20,2857,むかしむかしある所{nl},,"Long ago in a
-faraway land,{nl}",,"* DUPLICATE mukashimukashiarutokoro
-Split line so that this can be safely repeated with no change",,,,,,,,,,,,,,,,,,,,,,
-0x0E048A80,0x0E04A4D8,20,2858,に、イジワルな姉妹{nl},,"lived two hateful
-sisters and their
-atrocious mother
-tenfold as cruel.
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048A6C,0x0E04A4D4,20,2857,むかしむかしある所{nl},," Long ago in a
+ faraway land,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048A80,0x0E04A4D8,20,2858,に、イジワルな姉妹{nl},," lived two hateful
+ sisters and their
+ atrocious mother
+ tenfold as cruel.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048A94,0x0E04A4DC,20,2859,と、その１０倍くら{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048AA8,0x0E04A4E0,20,2860,いイジワルな母親が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048ABC,0x0E04A4E4,20,2861,住んでおりました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048AD0,0x0E04A4E8;0x0E04ABF8,20,2862,この三人はイジワル{nl},,"The three, with{nl}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048AE4,0x0E04A4EC;0x0E04ABFC,20,2863,な上に気位が高く、{nl},,pride rivaling{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048AF8,0x0E04A4F0;0x0E04AC00,20,2864,自分こそがこの国の{nl},,"their malice,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048B0C,0x0E04A4F4;0x0E04AC04,20,2865,王子様のおきさきに{nl},,were certain that{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048B20,0x0E04A4F8;0x0E04AC08,20,2866,ふさわしいと考えて{nl},,only they were fit{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048B34,0x0E04A4FC;0x0E04AC0C,14,2867,おりました。{np},,to wed the Prince.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048AD0,0x0E04A4E8;0x0E04ABF8,20,2862,この三人はイジワル{nl},," The three, with{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048AE4,0x0E04A4EC;0x0E04ABFC,20,2863,な上に気位が高く、{nl},, pride rivaling{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048AF8,0x0E04A4F0;0x0E04AC00,20,2864,自分こそがこの国の{nl},," their malice,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048B0C,0x0E04A4F4;0x0E04AC04,20,2865,王子様のおきさきに{nl},, were certain that{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048B20,0x0E04A4F8;0x0E04AC08,20,2866,ふさわしいと考えて{nl},, only they were fit{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048B34,0x0E04A4FC;0x0E04AC0C,14,2867,おりました。{np},," to wed the Prince.
+ {np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048B44,0x0E04A500,18,2868,ねえ、この本って{nl},"So far, this sounds a lot
 like Cinderella, but...
 there's no Cinderella?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3597,26 +3592,23 @@ there's no Cinderella?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 tricks again,
 I'm sure of it!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048B98,0x0E04A510,24,2872,パンプキンのしわざよ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048BB0,0x0E04A514,18,2873,やがて、おしろで{nl},,"Soon, a grand
-ball was to be
-held at the
-Prince's castle.{np}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048BC4,0x0E04A518;0x0E04A6FC;0x0E04B4F0,20,2874,ぶとう会が開かれる{nl},,{nl},,"* DUPLICATE butoukaigaakareru
-THIS ONE UNUSED/INTERIOR, should not appear.
-Translation modified so that it can be safely repeated with no change",,,,,,,,,,,,,,,,,,,,,,
-0x0E048BD8,0x0E04A51C,14,2875,ことになり、{np},,"{clr}It was announced
-that by the close
-of the ball, the
-Prince would pick
-his Princess from
-the attendees.{np}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048BE8,0x0E04A520;0x0E04AE3C,16,2876,そこで王子様が{nl},,"{clr}Hearing the news,
-the three leapt
-for joy, and set
-about dusting off
-their estate and
-playing dress-up.
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048BB0,0x0E04A514,18,2873,やがて、おしろで{nl},," Soon, a grand
+ ball was to be
+ held at the
+ Prince's castle.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048BC4,0x0E04A518,20,2874,ぶとう会が開かれる{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048BD8,0x0E04A51C,14,2875,ことになり、{np},,"{clr} It was announced
+ that by the close
+ of the ball, the
+ Prince would pick
+ his Princess from
+ the attendees.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048BE8,0x0E04A520;0x0E04AE3C,16,2876,そこで王子様が{nl},,"{clr} Hearing the news,
+ the three leapt
+ for joy, and set
+ about dusting off
+ their estate and
+ playing dress-up.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048BF8,0x0E04A524;0x0E04AE40,18,2877,おきさきを選ぶと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048C0C,0x0E04A528;0x0E04AE44,16,2878,発表しました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048C1C,0x0E04A52C;0x0E04AE48,14,2879,これを聞いた{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3625,25 +3617,25 @@ playing dress-up.
 0x0E048C50,0x0E04A538,20,2882,ざいさんをはたいて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048C64,0x0E04A53C,16,2883,ドレスアップを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048C74,0x0E04A540,18,2884,しはじめました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048C88,0x0E04A544,20,2885,シルクのドレスに、{nl},,"Silk gowns,
-peacock down...
-the three ordered
-the rarest finery
-from every corner
-of the globe.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048C88,0x0E04A544,20,2885,シルクのドレスに、{nl},," Silk gowns,
+ peacock down...
+ the three ordered
+ the rarest finery
+ from every corner
+ of the globe.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048C9C,0x0E04A548,20,2886,クジャクのハネかざ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048CB0,0x0E04A6E0,20,2887,り等々、世界各地の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048CC4,0x0E04A6E4,18,2888,めずらしい品物を{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048CD8,0x0E04A6E8,20,2889,取りよせ、着かざり{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048CEC,0x0E04A6EC;0x0E04B894,10,2890,ました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048BC4,0x0E04A518;0x0E04A6FC;0x0E04B4F0,20,2874,ぶとう会が開かれる{nl},{empty},,,"* DUPLICATE
+0x0E048BC4,0x0E04A6FC,20,2874,ぶとう会が開かれる{nl},{empty},,,"* DUPLICATE
 null out first line, put whole line in second line",,,,,,,,,,,,,,,,,,,,,,
-0x0E048CF8,0x0E04A700,20,2892,夜、三人はこの日の{nl},,"On the night of
-the ball, the
-entourage turned
-out, adorned in
-their meticulously
-chosen dresses.",,"The night of the
+0x0E048CF8,0x0E04A700,20,2892,夜、三人はこの日の{nl},," On the night of
+ the ball, the
+ entourage turned
+ out, adorned in
+ their meticulously
+ chosen dresses.",,"The night of the
 ball came, and the
 entourage set out
 for the castle,
@@ -3654,26 +3646,26 @@ glittering dresses.",,,,,,,,,,,,,,,,,,,,,,
 0x0E048D34,0x0E04A70C,20,2895,おしろに向かったの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048D48,0x0E04A710;0x0E04A950;0x0E04B718,8,2896,です。{np},{np},,,"* DUPLICATE desu
 interior, will be factored out?",,,,,,,,,,,,,,,,,,,,,,
-0x0E048D50,0x0E04A714;0x0E04B508,10,2897,そして、{nl},,"Glittering head
-to toe, their
-entrance at the
-ball turned heads.
-{np}",,"* DUPLICATE soshite
+0x0E048D50,0x0E04A714,10,2897,そして、{nl},," Glittering head
+ to toe, their
+ entrance at the
+ ball turned heads.
+ {np}",,"* DUPLICATE soshite
 The entire passage is identical both times",,,,,,,,,,,,,,,,,,,,,,
 0x0E048D5C,0x0E04A718,18,2898,ぶとう会で目立ち{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048D70,0x0E04A71C;0x0E04B510,16,2899,まくりました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048D80,0x0E04A720,20,2900,しかし、三人は王子{nl},,"Nevertheless, the
-sisters and their
-mother failed to
-win the favor of
-the Prince.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048D80,0x0E04A720,20,2900,しかし、三人は王子{nl},," Nevertheless, the
+ sisters and their
+ mother failed to
+ win the favor of
+ the Prince.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048D94,0x0E04A724,14,2901,様の好みでは{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048DA4,0x0E04A728,20,2902,ありませんでした。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048DB8,0x0E04A72C,20,2903,王子様も理想の相手{nl},,"Sadly, the Prince
-could not find
-his perfect match,
-and eventually,
-the ball ended.",,"The ball came to
+0x0E048DB8,0x0E04A72C,20,2903,王子様も理想の相手{nl},," Sadly, the Prince
+ could not find
+ his perfect match,
+ and eventually,
+ the ball ended.",,"The ball came to
 a close without
 the Prince finding
 his perfect match.
@@ -3693,41 +3685,41 @@ without my perfect match
 leaving behind a shoe?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048E74,0x0E04A760,26,2914,クツを落としてゆくのでは{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048E90,0x0E04A764,16,2915,なかったのか？{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048EA0,0x0E04A768,20,2916,王子様が月に向かっ{nl},,"The Prince turned
-to murmur these
-words of lament
-at the moon, when
-a sound emerged
-from the garden!{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048EA0,0x0E04A768,20,2916,王子様が月に向かっ{nl},," The Prince turned
+ to murmur these
+ words of lament
+ at the moon, when
+ a sound emerged
+ from the garden!{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048EB4,0x0E04A76C,18,2917,て、そう悲しげに{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048EC8,0x0E04A770,16,2918,つぶやいた時、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048ED8,0x0E04A774,16,2919,庭の方で物音が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048EE8,0x0E04A778,12,2920,しました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048EF4,0x0E04A77C,11,2921,もしや！？,Could it be?!,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F00,0x0E04A780;0x0E04A988;0x0E04B044;0x0E04B250;0x0E04B4D0;0x0E04B6F8,2,2922,{np},{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048F04,0x0E04A784,27,2923,王子様は急いで{nl}庭の方へと{nl},,"The Prince rushed
-headlong towards
-the garden.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048F04,0x0E04A784,27,2923,王子様は急いで{nl}庭の方へと{nl},," The Prince rushed
+ headlong towards
+ the garden.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F20,0x0E04A788,20,2924,走って行きました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F34,0x0E04A78C,9,2925,あっ！{np}{nl},Ah!{np}{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F40,0x0E04A790,22,2926,きっとシンデレラよ。{nl},"That must be Cinderella.
 About time!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F58,0x0E04A794,22,2927,やっと登場したんだ。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048F70,0x0E04A940,18,2928,おしろの庭では、{nl},,"In the castle's
-garden, a fair
-servant boy had
-fallen, his foot
-entangled in the
-roots of a tree.",,"* Maybe we can change this to ""gardener"" instead of servant if it fits (globally, not just this line)",,,,,,,,,,,,,,,,,,,,,,
+0x0E048F70,0x0E04A940,18,2928,おしろの庭では、{nl},," In the castle's
+ garden, a fair
+ servant boy had
+ fallen, his foot
+ entangled in the
+ roots of a tree.",,"* Maybe we can change this to ""gardener"" instead of servant if it fits (globally, not just this line)",,,,,,,,,,,,,,,,,,,,,,
 0x0E048F84,0x0E04A944,20,2929,お手伝いの美少年が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048F98,0x0E04A948,18,2930,木の根に足を引っ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048FAC,0x0E04A94C,20,2931,かけて転んでいたの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048FC0,0x0E04A954,20,2933,その上、かれのかた{nl},,"On the ground,
-right before the
-Prince's eyes,
-lay the boy's
-single, empty
-shoe.{np}",,"Following his gaze
+0x0E048FC0,0x0E04A954,20,2933,その上、かれのかた{nl},," On the ground,
+ right before the
+ Prince's eyes,
+ lay the boy's
+ single, empty
+ shoe.{np}",,"Following his gaze
 downwards, the
 Prince was
 astonished to see
@@ -3737,11 +3729,11 @@ come off.",,,,,,,,,,,,,,,,,,,,,,
 0x0E048FE8,0x0E04A95C,20,2935,て、王子様の目の前{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E048FFC,0x0E04A960,20,2936,に落ちていました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049010,0x0E04A968,12,2937,まさか……{np},Dare I believe my eyes...{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04901C,0x0E04A96C,20,2938,王子様は、手を感動{nl},,"His hands
-trembling with
-deep emotion,
-the Prince spoke
-softly.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04901C,0x0E04A96C,20,2938,王子様は、手を感動{nl},," His hands
+ trembling with
+ deep emotion,
+ the Prince spoke
+ softly.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049030,0x0E04A970,18,2939,にふるわせながら{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049044,0x0E04A974,18,2940,つぶやきました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049058,0x0E04A978,24,2941,キミが、わたしの理想の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3749,29 +3741,29 @@ softly.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 My perfect match, it's you!",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049088,0x0E04A98C,14,2944,どし〜ッ！！{np},*falls over!!!*{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049098,0x0E04A990,14,2945,やめて〜ッ！{np},Nooooo!!!{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0490A8,0x0E04A998,20,2946,こうして、王子様は{nl},,"And so, the
-Prince and his
-fair servant boy
-lived happily
-ever after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0490A8,0x0E04A998,20,2946,こうして、王子様は{nl},," And so, the
+ Prince and his
+ fair servant boy
+ lived happily
+ ever after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0490BC,0x0E04A99C,20,2947,お手伝いの美少年と{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0490D0,0x0E04A9A0,20,2948,いっしょに幸せにく{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0490E4,0x0E04A9A4,16,2949,らしましたとさ{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0490F4,0x0E04A9A8,16,2950,町に住んでいた{nl},,"And the cruel
-sisters and mother
-having spent their
-entire fortune
-on extravagant
-dresses,{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0490F4,0x0E04A9A8,16,2950,町に住んでいた{nl},," And the cruel
+ sisters and mother
+ having spent their
+ entire fortune
+ on extravagant
+ dresses,{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049104,0x0E04A9AC,18,2951,イジワルな三人の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049118,0x0E04A9B0,16,2952,親子はすべてを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049128,0x0E04A9B4,20,2953,ドレスにつぎこんで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04913C,0x0E04A9B8,18,2954,しまったことから{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049150,0x0E04A9BC,18,2955,お金がなくなり、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049164,0x0E04A9C0,18,2956,チョーびんぼうに{nl},,"lived out the rest
-of their days
-destitute and
-miserable.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049164,0x0E04A9C0,18,2956,チョーびんぼうに{nl},," lived out the rest
+ of their days
+ destitute and
+ miserable.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049178,0x0E04A9C4,20,2957,なってしまったとい{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04918C,0x0E04A9C8,14,2958,うことです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04919C,0x0E04A9CC,22,2959,ちょっと待った〜ッ！{np},"Okay, stop, stop!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3799,28 +3791,27 @@ about it, {momomo}?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 This time, I'LL be
 Cinderella!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0492C4,0x0E04ABA0,28,2973,あたしがシンデレラになる！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048A6C,0x0E04A4D4;0x0E04ABC8,20,2857,むかしむかしある所{nl},,"Long ago in a
-faraway land,{nl}",,"* DUPLICATE mukashimukashiarutokoro
-Split line so that this can be safely repeated with no change",,,,,,,,,,,,,,,,,,,,,,
-0x0E0492E0,0x0E04ABCC,20,2975,に、シンデレラとい{nl},,"there lived a
-young girl with a
-kind heart named
-Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048A6C,0x0E04ABC8,20,2857,むかしむかしある所{nl},," Long ago in a
+ faraway land,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0492E0,0x0E04ABCC,20,2975,に、シンデレラとい{nl},," there lived a
+ young girl with a
+ kind heart named
+ Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0492F4,0x0E04ABD0,20,2976,う心やさしい少女が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049308,0x0E04ABD4,18,2977,住んでいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04931C,0x0E04ABD8,20,2978,かの女のお父さんは{nl},,The girl's father{nl},,,"The girl's father
+0x0E04931C,0x0E04ABD8,20,2978,かの女のお父さんは{nl},, The girl's father{nl},,,"The girl's father
 died years ago,
 leaving her with
 two hateful step-
 sisters,{np}",,,,,,,,,,,,,,,,,,,,,
-0x0E049330,0x0E04ABDC,18,2979,早くになくなり、{nl},,"died years ago,{nl}",,,"{clr}and a step-mother
+0x0E049330,0x0E04ABDC,18,2979,早くになくなり、{nl},," died years ago,{nl}",,,"{clr}and a step-mother
 tenfold as cruel.{np}",,,,,,,,,,,,,,,,,,,,,
-0x0E049358,0x0E04ABE4,14,2981,ギリの姉と、{np},,"leaving her
-with...{np}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049368,0x0E04ABE8,18,2982,その１０倍くらい{nl},,two hateful{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04937C,0x0E04ABEC,18,2983,イジワルなギリの{nl},,"step-sisters,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049390,0x0E04ABF0,16,2984,母親とくらして{nl},,and a step-mother{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0493A0,0x0E04ABF4,12,2985,いました。{np},,tenfold as cruel.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049358,0x0E04ABE4,14,2981,ギリの姉と、{np},," leaving her
+ with...{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049368,0x0E04ABE8,18,2982,その１０倍くらい{nl},, two hateful{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04937C,0x0E04ABEC,18,2983,イジワルなギリの{nl},," step-sisters,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049390,0x0E04ABF0,16,2984,母親とくらして{nl},, and a step-mother{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0493A0,0x0E04ABF4,12,2985,いました。{np},, tenfold as cruel.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0493AC,0x0E04AC14,20,2992,これ、シンデレラ、{nl},"Hey, Cinderella, get your
 lazy butt over here and
 clean our rooms!{np}",,,"Yo, Cinderella! Hurry up
@@ -3828,15 +3819,15 @@ and clean our rooms!",,,,,,,,,,,,,,,,,,,,,,
 0x0E0493C0,0x0E04AC18,22,2993,さっさとわたしたちの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0493D8,0x0E04AC1C,20,2994,部屋そうじをおし！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049344,0x0E04ABE0,18,2980,イジワルな二人の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0493EC,0x0E04AC20,20,2996,姉は、今日もシンデ{nl},,"Today, like
-every day, the
-cruel step-sisters
-foisted everything
-on Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0493EC,0x0E04AC20,20,2996,姉は、今日もシンデ{nl},," Today, like
+ every day, the
+ cruel step-sisters
+ foisted everything
+ on Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049400,0x0E04AC24,20,2997,レラに仕事をおしつ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049414,0x0E04AC28,21,2998,けようとしました。{np}{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04942C,0x0E04AC2C;0x0E04B8C8,3,2999,{hsp}{nl},,{hsp}{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049430,0x0E04AC30,12,3000,ところが、{np},,However...{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04942C,0x0E04AC2C;0x0E04B8C8,3,2999,{hsp}{nl},,{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049430,0x0E04AC30,12,3000,ところが、{np},, However...{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04943C,0x0E04AC34,28,3001,なにが部屋そうじをおしよ。{np},"What's with this
 ""clean my room"" stuff?{np}",,,"What's the deal with this
 ""clean my room"" stuff?{np}",,,,,,,,,,,,,,,,,,,,,,
@@ -3844,13 +3835,12 @@ on Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 YOU clean it!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04946C,0x0E04AC3C,22,3003,自分でそうじしなきゃ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049484,0x0E04AC40,20,3004,いけないんだから！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049498,0x0E04ADE8,20,3005,シンデレラはとって{nl},,"Channeling her
-inner strength,
-she parried her
-sisters' cruel
-words, until they
-lost their power.
-{np}",,"Cinderella used
+0x0E049498,0x0E04ADE8,20,3005,シンデレラはとって{nl},," Channeling her
+ inner strength,
+ she parried her
+ sisters' cruel
+ words, until they
+ lost their power.{np}",,"Cinderella used
 her inner strength
 to parry her
 sisters' cruel
@@ -3887,30 +3877,30 @@ Then can Judy play too?
 Pleeeease??{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0495B0,0x0E04AE28,26,3020,じゃあ、ジュディもスキに{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0495CC,0x0E04AE2C,24,3021,やらせてもらお〜っと。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0495E4,0x0E04AE30,10,3022,やがて、{nl},,"Eventually, a
-grand ball was
-announced, where
-the Prince was to
-select his new
-Princess.{np}",,"* Problem after this: ""by the close of the ball...""",,,,,,,,,,,,,,,,,,,,,,
+0x0E0495E4,0x0E04AE30,10,3022,やがて、{nl},," Eventually, a
+ grand ball was
+ announced, where
+ the Prince was to
+ select his new
+ Princess.{np}",,"* Problem after this: ""by the close of the ball...""",,,,,,,,,,,,,,,,,,,,,,
 0x0E0495F0,0x0E04AE34,20,3023,おしろでぶとう会が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049604,0x0E04AE38,20,3024,開かれることになり{nl},{empty},,,"* Couple lines missing here, but just the end of the continuation. Probably dupes.",,,,,,,,,,,,,,,,,,,,,,
 0x0E049618,0x0E04AE4C,20,3029,二人の姉と母親は、{nl},{empty},,,"* DUPLICATE futarinomusumetohahaoyawa
 This is the first instance.
 Must be manually deduped since this
 is the first line of two sets of dialogue",,,,,,,,,,,,,,,,,,,,,,
-0x0E04962C,0x0E04AE50,18,3030,ありったけのざい{nl},,"The sisters and
-mother poured the
-entirety of their
-fortune into
-tailoring fabulous
-dresses.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04962C,0x0E04AE50,18,3030,ありったけのざい{nl},," The sisters and
+ mother poured the
+ entirety of their
+ fortune into
+ tailoring fabulous
+ dresses.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049640,0x0E04AE54,16,3031,さんを使って、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049650,0x0E04AE58,18,3032,ごうかなドレスを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049664,0x0E04AE5C,14,3033,作りました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049674,0x0E04AE60,20,3034,でも、シンデレラの{nl},,"But, no dress was
-made for
-Cinderella.{np}",,"But, there was no
+0x0E049674,0x0E04AE60,20,3034,でも、シンデレラの{nl},," But, no dress was
+ made for
+ Cinderella.{np}",,"But, there was no
 dress for
 Cinderella.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E049688,0x0E04AE64,20,3035,ドレスはありません{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3923,11 +3913,11 @@ Cinderella?!{np}",,,"And what use would
 a dress be to YOU,
 Cinderella?!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0496E0,0x0E04AE78,18,3040,必要ないでしょ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0496F4,0x0E04AE7C,18,3041,あつげしょうした{nl},,"The cruel
-step-mother,
-caked in heavy
-makeup, swatted
-Cinderella away.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E0496F4,0x0E04AE7C,18,3041,あつげしょうした{nl},," The cruel
+ step-mother,
+ caked in heavy
+ makeup, swatted
+ Cinderella away.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049708,0x0E04AE80,18,3042,母親はピシャリと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04971C,0x0E04AE84,14,3043,シンデレラを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04972C,0x0E04AE88,20,3044,しかりとばしました{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -3951,12 +3941,12 @@ old crone has come to kidnap
 herself a grandson!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0497B4,0x0E04B034,26,3051,かどわかそうって言うの？{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0497D0,0x0E04B03C,9,3052,ドキッ！,Gackkk!,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0497DC,0x0E04B048,20,3054,ズボシをさされて、{nl},,"Her retort landed
-with precision.
-A bead of cold
-sweat formed on
-the cruel step-
-mother's brow.{np}",,"Her retort hit
+0x0E0497DC,0x0E04B048,20,3054,ズボシをさされて、{nl},," Her retort landed
+ with precision.
+ A bead of cold
+ sweat formed on
+ the cruel step-
+ mother's brow.{np}",,"Her retort hit
 the bull's eye.
 A bead of cold
 sweat formed on
@@ -3979,9 +3969,9 @@ We do have mirrors...
 unless you broke them all?",,,"Seriously, just look at
 yourself in the mirror!",,,,,,,,,,,,,,,,,,,,,,
 0x0E04988C,0x0E04B06C,19,3062,鏡で見たことある？,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E0498A0,0x0E04B070,20,3064,母親は、ガマガエル{nl},,"The step-mother
-made a face like
-a toad.{np}",,"The step-mother
+0x0E0498A0,0x0E04B070,20,3064,母親は、ガマガエル{nl},," The step-mother
+ made a face like
+ a toad.{np}",,"The step-mother
 made a face like
 a bullfrog.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E0498B4,0x0E04B074,18,3065,みたいな顔をして{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4008,12 +3998,12 @@ the law!{np}",,,"It's settled! It's against
 the law! I've made it against the law!",,,,,,,,,,,,,,,,,,,,,,
 0x0E0499DC,0x0E04B0AC,10,3079,るのよ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E0499E8,0x0E04B0B0,23,3080,どんなホウリツよ〜ッ！,Law??? What law?!,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049A00,0x0E04B0B4,20,3082,シンデレラと母親が{nl},,"While Cinderella
-and her stepmother
-argued, the door
-opened, and in 
-floated a cute
-little fairy.",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049A00,0x0E04B0B4,20,3082,シンデレラと母親が{nl},," While Cinderella
+ and her stepmother
+ argued, the door
+ opened, and in 
+ floated a cute
+ little fairy.",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049A14,0x0E04B0B8,18,3083,言い合いを始めた{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049A28,0x0E04B240,20,3084,その時ドアが開いて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049A3C,0x0E04B244,20,3085,一人のかわいらしい{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4024,12 +4014,12 @@ little fairy.",,,,,,,,,,,,,,,,,,,,,,,,
 play, too!{np}",,,"Hehehe! Judy didn't want to
 miss out on the fun!",,,,,,,,,,,,,,,,,,,,,,
 0x0E049A8C,0x0E04B274,26,3091,お話に出てみたかったの。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049AA8,0x0E04B278,20,3092,あらわれたマジョは{nl},,"The fairy laughed
-a lilting laugh,
-and then abruptly
-snapped her finger
-in Cinderella's
-direction.{np}",,"The pixie laughed
+0x0E049AA8,0x0E04B278,20,3092,あらわれたマジョは{nl},," The fairy laughed
+ a lilting laugh,
+ and then abruptly
+ snapped her finger
+ in Cinderella's
+ direction.{np}",,"The pixie laughed
 a lilting laugh,
 and abruptly
 snapped her finger
@@ -4048,21 +4038,21 @@ this disgraceful behavior!",,,,,,,,,,,,,,,,,,,,,,
 0x0E049B58,0x0E04B29C,16,3101,そうよそうよ、{nl},"Yeah, what the little witch
 said! Disgraceful!!!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049B68,0x0E04B2A0,16,3102,見苦しいわよ。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049B78,0x0E04B2A4,20,3104,とつぜんあらわれた{nl},,"The cruel step-
-sisters and step-
-mother chimed in,
-assuming the fairy
-was on their side.
-{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049B78,0x0E04B2A4,20,3104,とつぜんあらわれた{nl},," The cruel step-
+ sisters and step-
+ mother chimed in,
+ assuming the fairy
+ was on their side.
+ {np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049B8C,0x0E04B2A8,20,3105,マジョを、自分たち{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049BA0,0x0E04B2AC,17,3106,の味方と思い口を,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049BB4,0x0E04B2B0,16,3107,合わせました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049BC4,0x0E04B2B4,8,3108,でも、{nl},,"But the fairy was
-not finished. She
-cast a grimace
-at the step-mother
-and step-sisters,
-and said:{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049BC4,0x0E04B2B4,8,3108,でも、{nl},," But the fairy was
+ not finished. She
+ cast a grimace
+ at the step-mother
+ and step-sisters,
+ and said:{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049BCC,0x0E04B2B8,18,3109,マジョは顔をしか{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049BE0,0x0E04B2BC,20,3110,めて、三人に対して{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049BF4,0x0E04B2C0,18,3111,こう言いました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4073,7 +4063,7 @@ more disgraceful!{np}{nl}",,,,,,,,,,,,,,,,,,,,,,
 0x0E049C2C,0x0E04B2CC,24,3114,そんざい自体見苦しい。{np},"{clr}Your very existence
 is shameful!{np}",,,"{clr}You should be ashamed of
 your very existence!{np}",,,,,,,,,,,,,,,,,,,,,,
-0x0E049C44,0x0E04B2D4,12,3115,ガーン！！{nl},Gahhhh!!{nl},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049C44,0x0E04B2D4,12,3115,ガーン！！{nl},Gahhhh!!,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049C50,0x0E04B480,22,3118,そんなビンボーそうな{nl},"Cinderella, throw that tacky
 dress in the garbage!{np}",,,"Cindy, throw that tacky
 dress in the garbage!{np}",,,,,,,,,,,,,,,,,,,,,,
@@ -4097,11 +4087,11 @@ low-class girl!{np}{nl}",,,"Big words from a low-class
 girl!",,,,,,,,,,,,,,,,,,,,,,
 0x0E049D30,0x0E04B4B0,15,3128,ナマイキな！{np}{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049D40,0x0E04B4C8,23,3129,受けて立ってあげるわ！,"Very well, I accept!",,,"Go ahead, let's see who he picks!",,,,,,,,,,,,,,,,,,,,,,
-0x0E049D58,0x0E04B4D4,12,3131,こうして、{nl},,"And so, the grand
-ballroom of the
-castle, where the
-Prince will choose
-his bride,{np}",,"And so, the castle
+0x0E049D58,0x0E04B4D4,12,3131,こうして、{nl},," And so, the grand
+ ballroom of the
+ castle, where the
+ Prince will choose
+ his bride,{np}",,"And so, the castle
 ballroom, where
 the Prince will
 declare his
@@ -4109,12 +4099,12 @@ Princess,",,,,,,,,,,,,,,,,,,,,,,
 0x0E049D64,0x0E04B4D8,18,3132,おしろのぶとう会{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049D78,0x0E04B4DC,20,3133,会場はおきさき選び{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049D8C,0x0E04B4E0,20,3134,の場であるとともに{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049DA0,0x0E04B4E4,14,3135,シンデレラと{nl},,"becomes the
-battleground
-for Cinderella's
-showdown with her
-cruel step-sisters
-and step-mother!{np}",,"is now the stage
+0x0E049DA0,0x0E04B4E4,14,3135,シンデレラと{nl},," becomes the
+ battleground
+ for Cinderella's
+ showdown with her
+ cruel step-sisters
+ and step-mother!{np}",,"is now the stage
 where Cinderella
 will battle it out
 with her cruel
@@ -4122,23 +4112,22 @@ step-sisters and
 step-mother!",,,,,,,,,,,,,,,,,,,,,,
 0x0E049DB0,0x0E04B4E8,20,3136,母親たちとの勝負の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049DC4,0x0E04B4EC,24,3137,リングになったのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048BC4,0x0E04A518;0x0E04A6FC;0x0E04B4F0,20,2874,ぶとう会が開かれる{nl},{empty},,,"* Used 3 times
-This translation should work in all places, no change needed",,,,,,,,,,,,,,,,,,,,,,
-0x0E049DDC,0x0E04B4F4,20,3139,夜、二人の姉と母親{nl},,"On the night of
-the ball, the
-entourage turned
-out, adorned in
-their meticulously
-chosen dresses.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E048BC4,0x0E04B4F0,20,2874,ぶとう会が開かれる{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049DDC,0x0E04B4F4,20,3139,夜、二人の姉と母親{nl},," On the night of
+ the ball, the
+ entourage turned
+ out, adorned in
+ their meticulously
+ chosen dresses.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049DF0,0x0E04B4F8,20,3140,は、この日のために{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049E04,0x0E04B4FC,18,3141,そろえたドレスで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049E18,0x0E04B500,20,3142,着かざって、おしろ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049E2C,0x0E04B504,20,3143,に向かったのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E048D50,0x0E04A714;0x0E04B508,10,2897,そして、{nl},,"Glittering head
-to toe, their
-entrance at the
-ball turned heads.
-{np}",,"* DUPLICATE soshite
+0x0E048D50,0x0E04B508,10,2897,そして、{nl},," Glittering head
+ to toe, their
+ entrance at the
+ ball turned heads.
+ {np}",,"* DUPLICATE soshite
 The entire passage is identical both times, no change needed?",,,,,,,,,,,,,,,,,,,,,,
 0x0E049E40,0x0E04B50C,17,3145,ぶとう会で目立ち,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049E54,0x0E04B514,18,3147,ホホホホホホッ。{np},Hohohohoho!{np},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4149,29 +4138,27 @@ you don't stand a chance
 next to my mature sex appeal!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E049E80,0x0E04B51C,22,3149,やっぱり大人の色気の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049E98,0x0E04B520,12,3150,勝ちだわ！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049EA4,0x0E04B524,10,3151,しかし、{nl},,"But the three
-cruel women
-failed to win
-the favor of
-the Prince.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049EA4,0x0E04B524,10,3151,しかし、{nl},," But the three
+ cruel women
+ failed to win
+ the favor of
+ the Prince.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049EB0,0x0E04B528,16,3152,三人は王子様の{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049EC0,0x0E04B52C,18,3153,このみではありま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049ED4,0x0E04B6C8,14,3154,せんでした。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049EE4,0x0E04B6D0,12,3155,なんでよ！{np},"Aw, come on!!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049EF0,0x0E04B6E4,20,3156,だって、シンデレラ{nl},,"For it was
-Cinderella{nl}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049F04,0x0E04B6E8,20,3157,がそれ以上に目立ち{nl},,"who truly lit
-up the ball{nl}
-",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049F18,0x0E04B6EC,18,3158,まくっていたから{nl},,"
-that night.{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049EF0,0x0E04B6E4,20,3156,だって、シンデレラ{nl},," For it was
+ Cinderella{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049F04,0x0E04B6E8,20,3157,がそれ以上に目立ち{nl},," who truly lit
+ up the ball{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E049F18,0x0E04B6EC,18,3158,まくっていたから{nl},, that night.{nl} ,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049F2C,0x0E04B6F0,,,です。,{empty},,,,,,0x0E04B6F0,FALSE,0x0E049F2C,7,です。,,0x0E04B6F0,FALSE,0x0E049F2C,7,です。,,0x0E04B6F0,FALSE,0x0E049F2C,7,です。,,0x0E04B6F0,FALSE
-0x0E049F34,0x0E04B6FC,16,3161,ぶとう会会場の{nl},,"The crowd, dazzled
-by her radiance,
-lifted Cinderella
-atop a pedestal
-at the center of
-the ballroom,{np}",,"Cinderella, taking
+0x0E049F34,0x0E04B6FC,16,3161,ぶとう会会場の{nl},," The crowd, dazzled
+ by her radiance,
+ lifted Cinderella
+ atop a pedestal
+ at the center of
+ the ballroom,{np}",,"Cinderella, taking
 her place atop a
 pedestal in the
 middle of the
@@ -4179,24 +4166,24 @@ ballroom,",,,,,,,,,,,,,,,,,,,,,,
 0x0E049F44,0x0E04B700,18,3162,中央のお立ち台を{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049F58,0x0E04B704,14,3163,センキョした{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049F68,0x0E04B708,16,3164,シンデレラは、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049F78,0x0E04B70C,18,3165,会場中を熱キョウ{nl},,"where all could
-bask in her light.
-Their adoration
-washed over
-Cinderella
-in waves.",,"where all could
+0x0E049F78,0x0E04B70C,18,3165,会場中を熱キョウ{nl},," where all could
+ bask in her light.
+ Their adoration
+ washed over
+ Cinderella
+ in waves.",,"where all could
 bask in her light.
 She shone like a
 star, and none
 could look away.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E049F8C,0x0E04B710,16,3166,させる勢いで、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049F9C,0x0E04B714,18,3167,目立ちまくったの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049FB0,0x0E04B71C,20,3169,王子様もこのシンデ{nl},,"The sight of
-Cinderella
-in her luminous
-spotlight fully
-ensnared the
-Prince's heart.{np}",,"Seeing Cinderella
+0x0E049FB0,0x0E04B71C,20,3169,王子様もこのシンデ{nl},," The sight of
+ Cinderella
+ in her luminous
+ spotlight fully
+ ensnared the
+ Prince's heart.{np}",,"Seeing Cinderella
 in her luminous
 spotlight, the
 Prince's heart,
@@ -4205,10 +4192,10 @@ away.",,,,,,,,,,,,,,,,,,,,,,
 0x0E049FC4,0x0E04B720,20,3170,レラのすがたに心を{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049FD8,0x0E04B724,20,3171,うばわれてしまいま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E049FEC,0x0E04B728,8,3172,した。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E049FF4,0x0E04B72C,20,3173,王子様はシンデレラ{nl},,"Resolutely, the
-Prince approached
-Cinderella and
-took her hand.{np}",,"Without a second
+0x0E049FF4,0x0E04B72C,20,3173,王子様はシンデレラ{nl},," Resolutely, the
+ Prince approached
+ Cinderella and
+ took her hand.{np}",,"Without a second
 thought, the
 Prince approached
 Cinderella and
@@ -4241,21 +4228,21 @@ reason to, no!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04A124,0x0E04B768,10,3188,じゃあ、{nl},"Then,
 I can give you my answer.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A130,0x0E04B76C,28,3189,返事をしちゃっていいよね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04A14C,0x0E04B770,20,3190,シンデレラは王子の{nl},,"At the Prince's
-confession of
-love, Cinderella's
-cheeks flushed red
-and she demurely
-nodded assent.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04A14C,0x0E04B770,20,3190,シンデレラは王子の{nl},," At the Prince's
+ confession of
+ love, Cinderella's
+ cheeks flushed red
+ and she demurely
+ nodded assent.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A160,0x0E04B774,20,3191,告白に、ほほを赤く{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A174,0x0E04B890,20,3192,そめながらうなずき{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A188,0x0E04B8A0,9,3194,『はい』,"""I do.""",,,"""I will.""",,,,,,,,,,,,,,,,,,,,,,
-0x0E04A194,0x0E04B8A8,20,3195,おしろでは王子様の{nl},,"A magnificent
-fusillade of
-fireworks burst
-above the castle,
-hailing the new
-Princess.{np}",,"A magnificent
+0x0E04A194,0x0E04B8A8,20,3195,おしろでは王子様の{nl},," A magnificent
+ fusillade of
+ fireworks burst
+ above the castle,
+ hailing the new
+ Princess.{np}",,"A magnificent
 fusillade of
 fireworks
 was launched to
@@ -4264,11 +4251,11 @@ Princess.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04A1A8,0x0E04B8AC,20,3196,おきさきが決まった{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A1BC,0x0E04B8B0,20,3197,ために、セイダイな{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A1D0,0x0E04B8B4,20,3198,花火が打ち上げられ{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04A1E4,0x0E04B8B8,14,3199,ぶとう会から{nl},,"And below, the
-ball continued
-jubilantly on
-through the night.
-{np}",,"Below, the ball
+0x0E04A1E4,0x0E04B8B8,14,3199,ぶとう会から{nl},," And below, the
+ ball continued
+ jubilantly on
+ through the night.
+ {np}",,"Below, the ball
 continued on
 into the night,
 becoming a grand
@@ -4276,7 +4263,7 @@ celebration.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04A1F4,0x0E04B8BC,16,3200,シュクガ会に、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A204,0x0E04B8C0,18,3201,ぶたいがそのまま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A218,0x0E04B8C4,21,3202,変わったのでした。{np}{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04A230,0x0E04B8CC,20,3204,めでたしめでたし。{np},,{nl}The end.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04A230,0x0E04B8CC,20,3204,めでたしめでたし。{np},,{nl} The end.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A244,0x0E04B8D0,20,3205,でも１２時にくつを{nl},"Do you think that was
 Cinderella-ish enough?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04A258,0x0E04B8D4,24,3206,置いて走り去るシーンが{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4297,18 +4284,18 @@ there's a Little Red
 Riding Hood!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04B944,0x0E04CC78,24,3214,見ると、赤ずきんちゃん{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04B95C,0x0E04CC7C,12,3215,みたいね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04B968,0x0E04CC80,20,3216,むかしむかし、ある{nl},,"Long ago, in a
-faraway forest,
-there lived
-a big bad wolf.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04B968,0x0E04CC80,20,3216,むかしむかし、ある{nl},," Long ago, in a
+ faraway forest,
+ there lived
+ a big bad wolf.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04B97C,0x0E04CC84,20,3217,森にオオカミが住ん{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04B990,0x0E04CC88,14,3218,でいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04B9A0,0x0E04CC90,12,3219,おおかみは{nl},,"The forest was
-barren, and the
-wolf, starved of
-nourishment, lived
-in a perpetual
-daze of hunger.{np}",,"The forest was
+0x0E04B9A0,0x0E04CC90,12,3219,おおかみは{nl},," The forest was
+ barren, and the
+ wolf, starved of
+ nourishment, lived
+ in a perpetual
+ daze of hunger.{np}",,"The forest was
 bare, not a crumb
 of food. The wolf,
 starved of
@@ -4329,38 +4316,37 @@ thanks to that Pumpkin.{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BA58,0x0E04CCB8,26,3229,主人公がいないんだから、{nl},"The main characters have all
 been missing, so yeah!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BA74,0x0E04CCBC,18,3230,きっとそうだね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BA88,0x0E04CCC0;0x0E04D16C,10,3231,やがて、{nl},,"Eventually,{nl}",,"* DUPLICATE yagate
-Attempted to make it duplicatable, no fix needed",,,,,,,,,,,,,,,,,,,,,,
-0x0E04BA94,0x0E04CCC4,20,3232,オオカミはおなかが{nl},,"the wolf starved
-to death.{np}",,"Eventually, the
+0x0E04BA88,0x0E04CCC0,10,3231,やがて、{nl},," Eventually,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BA94,0x0E04CCC4,20,3232,オオカミはおなかが{nl},," the wolf starved
+ to death.{np}",,"Eventually, the
 wolf got so hungry
 he died.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BAA8,0x0E04CCC8,18,3233,すきすぎて死んで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BABC,0x0E04CCCC,16,3234,しまいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BACC,0x0E04CCD0,14,3235,森の中には、{nl},,"There was also
-an old woman
-living alone
-in the forest.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BACC,0x0E04CCD0,14,3235,森の中には、{nl},," There was also
+ an old woman
+ living alone
+ in the forest.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BADC,0x0E04CCD4,14,3236,一人ぐらしの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BAEC,0x0E04CCD8,14,3237,おばあさんも{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BAFC,0x0E04CCDC,12,3238,いました。{np},{empty},,,"* DUPLICATE imashita
 Mid-line, we can factor it out",,,,,,,,,,,,,,,,,,,,,,
-0x0E04BB08,0x0E04CCE0,20,3239,おばあさんは病気に{nl},,"The woman had
-taken ill,
-but she had
-nobody to come
-call on her.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BB08,0x0E04CCE0,20,3239,おばあさんは病気に{nl},," The woman had
+ taken ill,
+ but she had
+ nobody to come
+ call on her.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB1C,0x0E04CCE4,20,3240,かかっていたのです{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB30,0x0E04CCE8,20,3241,が、ダレもおみまい{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB44,0x0E04CCEC,18,3242,にきてくれる人は{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB58,0x0E04CCF0,18,3243,いませんでした。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BB6C,0x0E04CCF4,20,3244,だから、おばあさん{nl},,So she died too.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BB6C,0x0E04CCF4,20,3244,だから、おばあさん{nl},, So she died too.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB80,0x0E04CCF8,20,3245,は病気で死んでしま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BB94,0x0E04CE98,9,3247,が〜ん{np}{nl},PPHHthttf?!?{np}{nl},,,GAH!{np}{nl},,,,,,,,,,,,,,,,,,,,,,
 0x0E04BBA0,0x0E04CE9C,12,3248,何で〜ッ！{np},What the heck????{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BBAC,0x0E04CEA4,22,3249,{hsp}{nl}めでたしめでたし。{np},,"And they lived
-happily ever
-after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BBAC,0x0E04CEA4,22,3249,{hsp}{nl}めでたしめでたし。{np},," And they lived
+ happily ever
+ after.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BBC4,0x0E04CEA8,24,3250,全然めでたくないよ〜！{np},"WHAT?!
 Who did, exactly???!{np}",,,Um?! Apparently not!!??,"UH, NO??
 THEY VERY MUCH DID NOT??{np}",,,,,,,,,,,,,,,,,,,,,
@@ -4371,12 +4357,12 @@ Hood, {momomo}...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BC00,0x0E04CEB4,28,3253,ちゃんになるしかないのお。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BC1C,0x0E04CEB8,26,3254,うん。ページをもどして！{np},"I figured.
 Turn back the page!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BC38,0x0E04CEE0,20,3255,むかしむかし、赤い{nl},,"Long ago, there
-was a girl called
-Little Red Riding
-Hood, after her
-eye-catching red
-hood and cape.{np}",,"Long ago, there
+0x0E04BC38,0x0E04CEE0,20,3255,むかしむかし、赤い{nl},," Long ago, there
+ was a girl called
+ Little Red Riding
+ Hood, after her
+ eye-catching red
+ hood and cape.{np}",,"Long ago, there
 was a girl known
 for wearing her
 red hood and cape
@@ -4387,30 +4373,30 @@ Red Riding Hood.",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BC70,0x0E04CEEC,18,3258,赤ずきんちゃんと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BC84,0x0E04CEF0,20,3259,よばれている女の子{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BC98,0x0E04CEF4,16,3260,がおりました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BCA8,0x0E04CEF8,20,3261,赤ずきんちゃんには{nl},,"Little Red Riding
-Hood had a grand-
-mother who lived
-alone in these
-woods.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BCA8,0x0E04CEF8,20,3261,赤ずきんちゃんには{nl},," Little Red Riding
+ Hood had a grand-
+ mother who lived
+ alone in these
+ woods.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BCBC,0x0E04CEFC,18,3262,森に一人で住んで{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BCD0,0x0E04CF00,18,3263,いるおばあさんが{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BCE4,0x0E04CF04,20,3265,でも、おばあさんは{nl},,"Unfortunately,
-Little Red Riding
-Hood's grandmother
-had fallen ill.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BCE4,0x0E04CF04,20,3265,でも、おばあさんは{nl},," Unfortunately,
+ Little Red Riding
+ Hood's grandmother
+ had fallen ill.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BCF8,0x0E04CF08,16,3266,病気にかかって{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD08,0x0E04CF0C,18,3267,しまったのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BD1C,0x0E04CF10,10,3268,そこで、{nl},,"So, ",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BD3C,0x0E04CF18,20,3270,大きな犬と三輪車、{nl},,she decided{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BD50,0x0E04CF1C,18,3271,そして女の子と、{nl},,to pay Grandma{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BD64,0x0E04CF20,20,3272,クマの人形のおとも{nl},,a visit.,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BD1C,0x0E04CF10,10,3268,そこで、{nl},," So, she decided{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BD3C,0x0E04CF18,20,3270,大きな犬と三輪車、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BD50,0x0E04CF1C,18,3271,そして女の子と、{nl},, to pay Grandma{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BD64,0x0E04CF20,20,3272,クマの人形のおとも{nl},, a visit.,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD78,0x0E04CF24,12,3273,を連れて、{np},,{np},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BD84,0x0E04CF28,14,3274,おばあさんの{nl},,"She set out,
-accompanied by
-a big white dog,
-a yellow tricycle,
-a doll, and a
-stuffed bear.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BD84,0x0E04CF28,14,3274,おばあさんの{nl},," She set out,
+ accompanied by
+ a big white dog,
+ a yellow tricycle,
+ a doll, and a
+ stuffed bear.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD94,0x0E04CF2C,20,3275,おみまいにゆくこと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BDA8,0x0E04CF30,14,3276,にしました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BDB8,0x0E04CF34,8,3277,あれ？{nl},"Hmm?
@@ -4423,18 +4409,18 @@ defeat the wolf at the end.{np}",,,"I need him there so he can
 pop out and defeat the wolf.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BE08,0x0E04CF44,18,3281,てもらわなきゃ。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BE1C,0x0E04CF48,10,3282,そっか。{np},Ohhhhh!{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BE28,0x0E04D0E4,20,3283,森の中には、おなか{nl},,"In the forest,
-there also lived
-a big, bad,
-hungry wolf.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BE28,0x0E04D0E4,20,3283,森の中には、おなか{nl},," In the forest,
+ there also lived
+ a big, bad,
+ hungry wolf.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BE3C,0x0E04D0E8,20,3284,をすかせたオオカミ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BE50,0x0E04D0EC,20,3285,も住んでいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BE64,0x0E04D0F0,20,3286,オオカミは赤ずきん{nl},,"The wolf started
-scheming to gobble
-up Riding Hood
-and her friends,
-when the moment
-was right.{np}",,"The wolf began
+0x0E04BE64,0x0E04D0F0,20,3286,オオカミは赤ずきん{nl},," The wolf started
+ scheming to gobble
+ up Riding Hood
+ and her friends,
+ when the moment
+ was right.{np}",,"The wolf began
 plotting, waiting
 for the perfect
 moment to gobble
@@ -4445,24 +4431,24 @@ and her friends.",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BE9C,0x0E04D0FC,18,3289,赤ずきんちゃんを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BEB0,0x0E04D100,16,3290,食べちゃおうと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BEC0,0x0E04D104,18,3291,たくらみました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BED4,0x0E04D108,20,3292,そして、先回りして{nl},,"Thinking quickly,
-he dashed ahead
-of Little Red
-Riding Hood
-towards Grandma's
-house.{np}",,"Thinking quickly,
+0x0E04BED4,0x0E04D108,20,3292,そして、先回りして{nl},," Thinking quickly,
+ he dashed ahead
+ of Little Red
+ Riding Hood
+ towards Grandma's
+ house.{np}",,"Thinking quickly,
 he dashed towards
 Grandma's house,
 ahead of Little
 Red Riding Hood.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BEE8,0x0E04D10C,18,3293,おばあさんの家に{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BEFC,0x0E04D110,18,3294,向かったのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BF10,0x0E04D120,20,3296,乗りこんだオオカミ{nl},,"Upon entering
-Grandma's house,
-the wolf's first
-thought was to
-gobble Granny up
-straightaway.{np}",,"The wolf entered
+0x0E04BF10,0x0E04D120,20,3296,乗りこんだオオカミ{nl},," Upon entering
+ Grandma's house,
+ the wolf's first
+ thought was to
+ gobble Granny up
+ straight away.{np}",,"The wolf entered
 Grandma's house,
 and initially
 thought of
@@ -4483,33 +4469,32 @@ longer...{np}",,,"Maybe I can skip this snack
 and get a much better meal!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BFC4,0x0E04D144,22,3304,おなかすかせて待って{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BFDC,0x0E04D148,12,3305,ようっと！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04BFE8,0x0E04D150,20,3306,おおかみは、小屋の{nl},,"The wolf tied up
-Grandma and
-shoved her in
-the closet.{np}",,"The wolf crammed
+0x0E04BFE8,0x0E04D150,20,3306,おおかみは、小屋の{nl},," The wolf tied up
+ Grandma and
+ shoved her in
+ the closet.{np}",,"The wolf crammed
 Grandma into a
 closet.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04BFFC,0x0E04D154,18,3307,中におばあさんを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C010,0x0E04D158,20,3308,放りこんでしまい、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C024,0x0E04D15C,14,3309,おばあさんに{nl},,"Then, disguising
-himself in
-Grandma's clothes,
-the wolf lay in
-wait for Little
-Red Riding Hood.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C024,0x0E04D15C,14,3309,おばあさんに{nl},," Then, disguising
+ himself in
+ Grandma's clothes,
+ the wolf lay in
+ wait for Little
+ Red Riding Hood.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C034,0x0E04D160,14,3310,なりすまして{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C044,0x0E04D164,16,3312,待ちかまえたの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C054,0x0E04D168,8,3313,です。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD28,0x0E04CF14;0x0E04D79C;0x0E04D9DC,20,,赤ずきんちゃんは、{nl},{empty},,,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE
-0x0E04BA88,0x0E04CCC0;0x0E04D16C,10,3231,やがて、{nl},,"Eventually,{nl}",,"* DUPLICATE yagate
-Attempted to make it duplicatable, no fix needed",,,,,,,,,,,,,,,,,,,,,,
-0x0E04C05C,0x0E04D170,18,3315,赤ずきんちゃんが{nl},,"Little Red Riding
-Hood arrived.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BA88,0x0E04D16C,10,3231,やがて、{nl},," Eventually,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C05C,0x0E04D170,18,3315,赤ずきんちゃんが{nl},," Little Red Riding
+ Hood arrived.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C070,0x0E04D174,18,3316,あらわれました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C084,0x0E04D178,20,3317,ごめんくださ〜い。{np},Anyone hooome?{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C098,0x0E04D17C,18,3318,オオカミは、シタ{nl},,"The wolf,
-licking his
-chops, replied:{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C098,0x0E04D17C,18,3318,オオカミは、シタ{nl},," The wolf,
+ licking his
+ chops, replied:{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C0AC,0x0E04D180,20,3319,なめずりをしてから{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C0C0,0x0E04D184,18,3320,返事をしました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C0D4,0x0E04D188,24,3321,だれだい？　ゲホゲホ。{np},"Who's there?
@@ -4525,12 +4510,12 @@ Well, come in, come in!",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C138,0x0E04D324,12,3325,ゲホゲホ。{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C144,0x0E04D328,20,3326,さあさあ、お入り。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C158,0x0E04D32C,10,3327,は〜い。{np},Okay!{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C164,0x0E04D334,20,3328,オオカミは、目から{nl},,"The wolf, cloaking
-himself in sheets
-up to his eyes,
-watched closely
-for the moment
-to strike.{np}",,"The big bad wolf
+0x0E04C164,0x0E04D334,20,3328,オオカミは、目から{nl},," The wolf, cloaking
+ himself in sheets
+ up to his eyes,
+ watched closely
+ for the moment
+ to strike.{np}",,"The big bad wolf
 gathered up the
 sheets, concealing
 himself up to his
@@ -4540,12 +4525,12 @@ closely for his moment to strike.",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C18C,0x0E04D33C,18,3330,かくして赤ずきん{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C1A0,0x0E04D340,16,3331,ちゃんのスキを{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C1B0,0x0E04D344,18,3332,うかがいました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C1C4,0x0E04D348,16,3333,でも、おともが{nl},,"But Little Red
-Riding Hood was
-surrounded by
-vigilant friends,
-and no such
-chance arose.{np}",,"But, with her
+0x0E04C1C4,0x0E04D348,16,3333,でも、おともが{nl},," But Little Red
+ Riding Hood was
+ surrounded by
+ vigilant friends,
+ and no such
+ chance arose.{np}",,"But, with her
 friends standing
 guard, there was
 no such opening.",,,,,,,,,,,,,,,,,,,,,,
@@ -4567,11 +4552,11 @@ sound like a wolf!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C278,0x0E04D380,22,3344,なんだかしわがれてて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C290,0x0E04D384,20,3345,オオカミみたいね。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C2A4,0x0E04D388,9,3346,ドキッ！,Urk!!!,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C2B0,0x0E04D38C,18,3348,オオカミは、いき{nl},,"The wolf paled,
-as Riding Hood's
-words landed with
-an unexpected
-precision.{np}",,"The wolf paled,
+0x0E04C2B0,0x0E04D38C,18,3348,オオカミは、いき{nl},," The wolf paled,
+ as Riding Hood's
+ words landed with
+ an unexpected
+ precision.{np}",,"The wolf paled,
 as Riding Hood's
 words unexpectedly
 hit the bulls-eye.
@@ -4593,11 +4578,11 @@ just like a wolf's!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C394,0x0E04D54C,13,3361,ギクギクッ！,Ufkrf-gfhh!?,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C2D8,0x0E04D394;0x0E04D558;0x0E04D7EC,18,3350,赤ずきんちゃんの{nl},{empty},,,"* DUPLICATE Akazukinchanno
 This one starts a line, so DO use this one",,,,,,,,,,,,,,,,,,,,,,
-0x0E04C3A4,0x0E04D55C,18,3364,二度目のズボシを{nl},,"What little color
-remained drained
-out of the wolf,
-and he began to
-tremble.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C3A4,0x0E04D55C,18,3364,二度目のズボシを{nl},," What little color
+ remained drained
+ out of the wolf,
+ and he began to
+ tremble.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C3B8,0x0E04D560,18,3365,つく言葉に、オオ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C3CC,0x0E04D564,18,3366,カミはさらに青ざ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C3E0,0x0E04D568,18,3367,め、ふるえ始めま{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4632,17 +4617,17 @@ like a wolf's mouth!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 up in one bite!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C538,0x0E04D5B8,28,3387,一口で食べられちゃいそう。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C554,0x0E04D5BC,21,3388,ドキドキドッキ〜ン！,Ungkrkdhhtfthp!!!,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C56C,0x0E04D5C0,18,3390,さらなる赤ずきん{nl},,"More and more, her
-words turned the
-wolf white as a
-sheet, and his
-breathing became
-faint and ragged.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C56C,0x0E04D5C0,18,3390,さらなる赤ずきん{nl},," More and more, her
+ words turned the
+ wolf white as a
+ sheet, and his
+ breathing became
+ faint and ragged.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C580,0x0E04D5C4,18,3391,ちゃんの言葉に、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C594,0x0E04D5C8,20,3392,オオカミはまっ青に{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C5A8,0x0E04D5CC,20,3393,なり、息もたえだえ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C5BC,0x0E04D5D0,18,3394,とした様子です。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C5D0,0x0E04D774,23,3395,そ…そんな、{np}おまえ…{np},T- thats...{np} You...{np},,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C5D0,0x0E04D774,23,3395,そ…そんな、{np}おまえ…{np},T- that's...{np} You...{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C5E8,0x0E04D778,22,3396,最近いるらしいんだ。{np},"Speaking of, you should be
 careful, I heard there's a
 big bad wolf out there...{np}",,,"Oh, I know all about you.{np}",,,,,,,,,,,,,,,,,,,,,,
@@ -4658,27 +4643,27 @@ careful, too...{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C654,0x0E04D78C,28,3401,き、気をつけなきゃね……。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C670,0x0E04D790,22,3402,おまえは、とっても、{nl},"Because, you... are very...{nl}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C688,0x0E04D794,24,3403,かわいいんだからねえ。{np},very... cute...{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C6A0,0x0E04D7A0,20,3405,このオオカミの言葉{nl},,Red Riding Hood{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C6B4,0x0E04D7A4,18,3406,にニッコリとほほ{nl},,laughed sweetly{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C6C8,0x0E04D7A8,18,3407,えんでうなずきま{nl},,and nodded.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C6A0,0x0E04D7A0,20,3405,このオオカミの言葉{nl},, Red Riding Hood{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C6B4,0x0E04D7A4,18,3406,にニッコリとほほ{nl},, laughed sweetly{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C6C8,0x0E04D7A8,18,3407,えんでうなずきま{nl},, and nodded.{np},,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C6DC,0x0E04D7AC,18,3409,うん。{np}そうだ！{np}{nl},Thanks.{np} Oh! That's right!{np}{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C6F0,0x0E04D7B0,20,3410,おばあさんのために{nl},"I made you a feast, Granny,
 I carried it all this way!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C704,0x0E04D7B4,24,3411,ごちそう作ってきたの。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C71C,0x0E04D7BC,12,3412,見て見て。{np},"Look, look!{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C728,0x0E04D7CC,11,3413,どれどれ？,Oh? Let me see!,,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C734,0x0E04D7D8,12,3414,オオカミは{nl},,"The big bad wolf
-sensed his
-opportunity to
-strike!",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C734,0x0E04D7D8,12,3414,オオカミは{nl},," The big bad wolf
+ sensed his
+ opportunity to
+ strike!",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C740,0x0E04D7DC,14,3415,チャ〜ンスと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C750,0x0E04D7E0,13,3416,考えました。,{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C760,0x0E04D7E4,16,3418,カゴの中を見る{nl},,"Just as Red Riding
-Hood turns her
-attention to the
-basket, I'll
-gobble her up,
-he thought.{np}",,"I'll strike in the
+0x0E04C760,0x0E04D7E4,16,3418,カゴの中を見る{nl},," Just as Red Riding
+ Hood turns her
+ attention to the
+ basket, I'll
+ gobble her up,
+ he thought.{np}",,"I'll strike in the
 moment Red Riding
 Hood turns her
 attention to the
@@ -4687,12 +4672,12 @@ thought the wolf.",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C770,0x0E04D7E8,20,3419,どさくさにまぎれて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C784,0x0E04D7F0,20,3421,ことを食べてしまお{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C798,0x0E04D7F4,20,3422,うと考えたのです。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C7AC,0x0E04D7F8,12,3423,ところが、{nl},,"But before he
-could make a move,
-Riding Hood opened
-up the flap of her
-basket and out
-leapt a puppy!{np}",,"Instead,
+0x0E04C7AC,0x0E04D7F8,12,3423,ところが、{nl},," But before he
+ could make a move,
+ Riding Hood opened
+ up the flap of her
+ basket and out
+ leapt a puppy!{np}",,"Instead,
 Little Red Riding
 Hood lifted the
 flap of her basket
@@ -4702,12 +4687,11 @@ a little puppy!{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C7C8,0x0E04D800,16,3425,開いたとたん、{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C7D8,0x0E04D804,12,3426,小さい犬が{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C7E4,0x0E04D808,12,3427,飛び出して{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C7F0,0x0E04D80C,18,3428,アングリと大口を{nl},,"The puppy bit
-at the wolf's
-gaping jaw,
-and the
-big bad wolf
-was defeated!",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C7F0,0x0E04D80C,18,3428,アングリと大口を{nl},," The puppy bit at
+ the wolf's
+ gaping jaw, and
+ the big bad wolf
+ was defeated!",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C804,0x0E04D810,20,3429,開いていたオオカミ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C818,0x0E04D814,20,3430,のアゴにかみついて{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C82C,0x0E04D818,20,3431,オオカミをやっつけ{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4715,22 +4699,22 @@ was defeated!",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C854,0x0E04D9CC,12,3434,ひえ〜っ！{nl},Wahhhh!!{nl},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C860,0x0E04D9D0,28,3435,まいった、まいりましたぁ。{np},I give up! I give uuuuup!{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C87C,0x0E04D9D4,14,3436,やったね！！{np},Victory!!!{np},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C88C,0x0E04D9E0,20,3438,小屋の中に放りこま{nl},,"Next, Little Red
-Riding Hood freed
-her grandmother{nl}",,"Little Red Riding
+0x0E04C88C,0x0E04D9E0,20,3438,小屋の中に放りこま{nl},," Next, Little Red
+ Riding Hood freed
+ her grandmother{nl}",,"Little Red Riding
 Hood freed her
 grandmother from
 the closet she
 had been crammed
 into.",,,,,,,,,,,,,,,,,,,,,,
-0x0E04C8A0,0x0E04D9E4,20,3439,れていたおばあさん{nl},,"from the closet
-she was crammed{nl}",,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C8B4,0x0E04D9E8,20,3440,を助け出しました。{np},,into.{np},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C8C8,0x0E04D9EC,10,3441,そして、{nl},,"Finally, she
-turned in the
-wolf to a hunter
-who was passing
-through,{np}",,"At last, she
+0x0E04C8A0,0x0E04D9E4,20,3439,れていたおばあさん{nl},," from the closet
+ she was crammed{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C8B4,0x0E04D9E8,20,3440,を助け出しました。{np},, into.{np},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C8C8,0x0E04D9EC,10,3441,そして、{nl},," Finally, she
+ turned in the
+ wolf to a hunter
+ who was passing
+ through,{np}",,"At last, she
 turned in the
 wolf to an old
 man who was
@@ -4739,15 +4723,15 @@ hunting nearby,{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C8E4,0x0E04D9F4,20,3443,りょうしのおじさん{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C8F8,0x0E04D9F8,18,3444,にオオカミを引き{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C90C,0x0E04D9FC,10,3445,わたし、{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C918,0x0E04DA00,20,3446,森に平和をもたらし{nl},,"and thus, peace
-was restored to
-the forest.{np}",,"* I'm adding my own {np} here, it looks wrong to
+0x0E04C918,0x0E04DA00,20,3446,森に平和をもたらし{nl},," and thus, peace
+ was restored to
+ the forest.{np}",,"* I'm adding my own {np} here, it looks wrong to
 continue on without one",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C92C,0x0E04DA04,14,3447,たのでした。{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C93C,0x0E04DA08,3,3448,{hsp}{nl},,{hsp}{nl},,,,,,,,,,,,,,,,,,,,,,,,
-0x0E04C940,0x0E04DA0C,20,3449,めでたしめでたし。{np},,"And they lived
-happily ever
-after.{np}",,The end.{np},,,,,,,,,,,,,,,,,,,,,,
+0x0E04C93C,0x0E04DA08,3,3448,{hsp}{nl},,{nl},,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04C940,0x0E04DA0C,20,3449,めでたしめでたし。{np},," And they lived
+ happily ever
+ after.{np}",,The end.{np},,,,,,,,,,,,,,,,,,,,,,
 0x0E04C954,0x0E04DA10,22,3450,ねえ、キリがないよ。{nl},"Look, the fog's cleared up!
 There's got to be some way
 out of here now...{np}",,,"Hey, the fog's clearing!
@@ -6411,6 +6395,7 @@ you can with the A button!
 0x0E03EBE0,0x0E03ECDC,14,4236,{momo}ちゃん！！{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F198,0x0E03F224,22,4237,おねがい、がんばって{nl},"Come on! I believe in you,{nl}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F1B0,0x0E03F22C,3,4238,{baku},{doggie}!,,,,,,,,,,,,,,,,,,,,,,,,,
+0x0E03F1B4,0x0E03F238;0x0E03F2E0;0x0E03F388;0x0E03F430;0x0E03F4DC,2,,{np},{np},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F244,0x0E03F2CC,6,4239,{baku}、{nl},"{doggie},{nl}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F24C,0x0E03F2D4,19,4240,もっと力を入れて！,give it all you've got!,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F2EC,0x0E03F374,10,4241,{baku}、{baku}！{nl},"{doggie}, {doggie}!{nl}",,,,,,,,,,,,,,,,,,,,,,,,,
@@ -7239,7 +7224,7 @@ treasure it.{heart} {np}",,,"Completed!
 indirect thru sram
 DAT_09003584",,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,EOG Seal Contents,,,,,,,,,,,,,,,,,,,,,,
-0x0E03F1B4,0x0E03F238;0x0E03F2E0;0x0E03F388;0x0E03F430;0x0E03F4DC,2,,{np},{np},,,Probably misidentified,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E05DDF0,0x0E05DE68,3,,{momo},{momo},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E05DDF4,0x0E05DE6C,3,,{baku},{baku},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E03F4E8,0x0E03F544,5,,{baku}！,{baku}！,,,Probably misidentified,,,,,,,,,,,,,,,,,,,,,,

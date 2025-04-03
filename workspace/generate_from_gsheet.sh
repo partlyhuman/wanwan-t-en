@@ -1,6 +1,7 @@
 #!/bin/bash
 original_rom=wanwan.bin
 resource_tool=../@kasamikona/Wanwan/resource_tool/resource_tool.py
+romintegrity=../@kasamikona/Tools/romintegrity.py
 
 pybin=python3
 if ! command -v python3; then pybin=python; fi
@@ -50,7 +51,7 @@ echo "Injecting resources ..."
 if [[ -f resources_en.bin ]]; then $pybin $resource_tool inject-section wanwan_en.bin resources_en.bin @; fi
 
 # Update checksum
-$pybin romintegrity.py -u wanwan_en.bin
+$pybin $romintegrity -u wanwan_en.bin
 
 echo "Done!"
 open -a LoopyMSE wanwan_en.bin
