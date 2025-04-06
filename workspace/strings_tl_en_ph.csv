@@ -3239,7 +3239,7 @@ A present? For us?{np}",,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046B6C,0x0E0481A0,26,2696,わらわにプレゼントとな？{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E046B88,0x0E0481A4,28,2697,はい、ビヨウとダイエットに{nl},"Yes, this enchanted apple!
 One bite, and the years and
-weight will melt away...{np}",,,"I bring you this
+weight will melt away.....{np}",,,"I bring you this
 enchanted apple, guaranteed
 to have slimming and anti-aging effects!",,,,,,,,,,,,,,,,,,,,,,
 0x0E046BA4,0x0E0481A8,24,2698,とても良い、トクベツな{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4395,8 +4395,8 @@ Red Riding Hood.",,,,,,,,,,,,,,,,,,,,,,
  accompanied by
  a big white dog,
  a yellow tricycle,
- a doll, and a
- stuffed bear.{np}",,,,,,,,,,,,,,,,,,,,,,,,
+ a doll, and
+ a stuffed bear.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD94,0x0E04CF2C,20,3275,おみまいにゆくこと{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BDA8,0x0E04CF30,14,3276,にしました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BDB8,0x0E04CF34,8,3277,あれ？{nl},"Hmm?
@@ -4487,7 +4487,7 @@ closet.{np}",,,,,,,,,,,,,,,,,,,,,,
 0x0E04C044,0x0E04D164,16,3312,待ちかまえたの{nl},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C054,0x0E04D168,8,3313,です。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04BD28,0x0E04CF14;0x0E04D79C;0x0E04D9DC,20,,赤ずきんちゃんは、{nl},{empty},,,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE,0x0E04BD28,20,赤ずきんちゃんは、{nl},,0x0E04CF14;0x0E04D79C;0x0E04D9DC,FALSE
-0x0E04BA88,0x0E04D16C,10,3231,やがて、{nl},," Eventually,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
+0x0E04BA88,0x0E04D16C,10,3231,やがて、{nl},," Before long,{nl}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C05C,0x0E04D170,18,3315,赤ずきんちゃんが{nl},," Little Red Riding
  Hood arrived.{np}",,,,,,,,,,,,,,,,,,,,,,,,
 0x0E04C070,0x0E04D174,18,3316,あらわれました。{np},{empty},,,,,,,,,,,,,,,,,,,,,,,,,
